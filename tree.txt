@@ -1,0 +1,19 @@
+connections/
+│
+├── generators/
+│   ├── __init__.py
+│   └── semantic.py
+│
+├── scoring/
+│   ├── __init__.py
+│   └── embedding_scorer.py
+│
+├── utils/
+│   ├── __init__.py
+│   ├── filters.py
+│   └── embeddings.py
+│
+├── config.py
+├── main.py
+└── experiments/
+    └── test_semantic.py
