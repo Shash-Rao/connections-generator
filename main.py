@@ -1,5 +1,6 @@
 from generators.semantic import SemanticGenerator
 from scoring.embedding_scorer import score
+from generators.synonym_generator import SynonymGenerator
 from scoring.difficulty import assign_difficulties
 import numpy as np
 
@@ -23,8 +24,7 @@ def generate_best(generator, attempts=200):
 
 
 if __name__ == "__main__":
-    gen = SemanticGenerator()
-
+    gen = SynonymGenerator()
     # group, s = generate_best(gen, attempts=300)
 
     # print("\nBest Group:")
@@ -62,7 +62,7 @@ if __name__ == "__main__":
     groups = assign_difficulties(groups)
 
     for g in groups:
-        print(f"\nGroup: {g["category"]}")
-        print(f"Difficulty: {g["difficulty"]}")
+        print(f"\nGroup: {g['category']}")
+        print(f"Difficulty: {g['difficulty']}")
         print(", ".join(g["words"]))
         #print(f"\nScore: {g["score"]:.3f}")
