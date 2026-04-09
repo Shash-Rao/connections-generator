@@ -3,6 +3,7 @@ from scoring.embedding_scorer import score
 from scoring.difficulty import assign_difficulties
 import numpy as np
 
+from generators.anagram import AnagramGenerator
 
 def generate_best(generator, attempts=200):
     best = None
@@ -23,7 +24,7 @@ def generate_best(generator, attempts=200):
 
 
 if __name__ == "__main__":
-    gen = SemanticGenerator()
+    gen = AnagramGenerator()
 
     # group, s = generate_best(gen, attempts=300)
 
@@ -33,6 +34,7 @@ if __name__ == "__main__":
     # print(f"\nScore: {s:.3f}")
 
     attempts = 50
+    seen = set()
 
     groups = []
     for _ in range(attempts):
@@ -43,6 +45,13 @@ if __name__ == "__main__":
         s = score(group)
 
         if s != float("-inf"):
+            # canonical form (order-independent)
+            key = tuple(sorted(group["words"]))
+
+            if key in seen:
+                continue
+
+            seen.add(key)
             groups.append(group)
             #groups.append({"category": group["category"], "words": group["words"], "score": s})
 
