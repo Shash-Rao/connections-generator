@@ -1,77 +1,50 @@
-from generators.semantic import SemanticGenerator
+from generators.anagram import AnagramGenerator
 from scoring.embedding_scorer import score
 from scoring.difficulty import assign_difficulties
-import numpy as np
-
-from generators.anagram import AnagramGenerator
-
-def generate_best(generator, attempts=200):
-    best = None
-    best_score = float("-inf")
-
-    for _ in range(attempts):
-        group = generator.generate()
-        if not group:
-            continue
-
-        s = score(group)
-
-        if s > best_score:
-            best_score = s
-            best = group
-
-    return best, best_score
 
 
 if __name__ == "__main__":
-    gen = AnagramGenerator()
+    gen = AnagramGenerator(n_words=200000, min_zipf=3.0, debug=True)
 
-    # group, s = generate_best(gen, attempts=300)
+    # Inspect the pool directly
+    gen.debug_print_buckets(limit=25)
+    gen.debug_print_bucket_scores(limit=25)
 
-    # print("\nBest Group:")
-    # print(group["category"])
-    # print(", ".join(group["words"]))
-    # print(f"\nScore: {s:.3f}")
+    # Build one canonical group per anagram family
+    groups = gen.generate_all_canonical_groups()
 
-    attempts = 50
-    seen = set()
+    print(f"\nCanonical anagram groups before scoring: {len(groups)}")
 
-    groups = []
-    for _ in range(attempts):
-        group = gen.generate()
-        if not group:
+    # Score and keep only valid groups
+    kept = []
+    seen_keys = set()
+
+    for group in groups:
+        fam_key = group["meta"]["key"]
+
+        if fam_key in seen_keys:
             continue
 
+        seen_keys.add(fam_key)
+
         s = score(group)
-
         if s != float("-inf"):
-            # canonical form (order-independent)
-            key = tuple(sorted(group["words"]))
+            group["score"] = s
+            kept.append(group)
 
-            if key in seen:
-                continue
+    print(f"Canonical anagram groups after scoring: {len(kept)}")
 
-            seen.add(key)
-            groups.append(group)
-            #groups.append({"category": group["category"], "words": group["words"], "score": s})
+    if not kept:
+        print("\nNo valid groups survived scoring.")
+    else:
+        kept = assign_difficulties(kept)
 
-    # scores = [g["score"] for g in groups if g["score"] != float("-inf")]
-    # print(scores)
-    # threshold = np.percentile(scores, 80)
+        # Print best-scoring groups first
+        kept.sort(key=lambda g: g["score"], reverse=True)
 
-    # print(f"Threshold: {threshold}")
-
-    # for g in groups:
-    #     if g["score"] > threshold:
-    #         print("\nGroup:")
-    #         print(g["category"])
-    #         print(", ".join(g["words"]))
-    #         print(f"\nScore: {g["score"]:.3f}")
-
-    groups = assign_difficulties(groups)
-
-    for g in groups:
-        print(f"\nGroup: {g["category"]}")
-        print(f"Difficulty: {g["difficulty"]}")
-        print(", ".join(g["words"]))
-        #print(f"\nScore: {g["score"]:.3f}")
+        print("\nFinal groups:")
+        for g in kept[:20]:
+            print(f"\nGroup: {g['category']}")
+            print(f"Difficulty: {g['difficulty']}")
+            print(f"Score: {g['score']:.3f}")
+            print(", ".join(g["words"]))
