@@ -1,68 +1,124 @@
 from generators.semantic import SemanticGenerator
-from scoring.embedding_scorer import score
-from scoring.difficulty import assign_difficulties
-import numpy as np
+import random
 
+SEED_SUBJECTS = [
+    # ANIMALS
+    "animals", "mammals", "birds", "fish", "reptiles", "amphibians",
+    "insects", "dogs", "cats", "horses", "cattle", "sheep",
+    "goats", "pigs", "rabbits", "rodents", "bears", "wolves",
+    "foxes", "deer", "whales", "dolphins", "sharks", "snakes",
+    "lizards", "frogs", "turtles", "ducks", "geese", "swans",
+    "eagles", "hawks", "owls", "parrots", "penguins",
 
-def generate_best(generator, attempts=200):
-    best = None
-    best_score = float("-inf")
+    # FOOD
+    "foods", "fruits", "vegetables", "meats", "seafood",
+    "cheeses", "breads", "pastries", "desserts", "cakes",
+    "cookies", "pies", "pastas", "noodles", "soups",
+    "salads", "sandwiches", "sauces", "spices", "herbs",
+    "beverages", "drinks", "teas", "coffees", "juices",
+    "sodas", "cocktails", "liquors", "wines", "beers",
 
-    for _ in range(attempts):
-        group = generator.generate()
-        if not group:
-            continue
+    # CLOTHING
+    "clothing", "shoes", "boots", "sneakers", "sandals",
+    "hats", "caps", "jackets", "coats", "shirts",
+    "pants", "shorts", "skirts", "dresses", "suits",
+    "uniforms", "socks", "gloves", "scarves", "belts",
 
-        s = score(group)
+    # VEHICLES
+    "vehicles", "cars", "trucks", "buses", "vans",
+    "motorcycles", "bicycles", "trains", "boats",
+    "ships", "airplanes", "helicopters", "taxis",
+    "ambulances", "wagons", "sedans", "jeeps",
+    "limousines", "canoes", "kayaks", "yachts",
 
-        if s > best_score:
-            best_score = s
-            best = group
+    # HOUSEHOLD / OBJECTS
+    "furniture", "chairs", "tables", "desks", "beds",
+    "lamps", "mirrors", "couches", "sofas", "cabinets",
+    "dressers", "wardrobes", "shelves", "appliances",
+    "tools", "instruments", "machines", "devices",
+    "gadgets", "utensils", "containers", "bottles",
+    "jars", "boxes", "bags", "suitcases", "keys",
+    "locks", "clocks", "watches", "knives", "forks",
+    "spoons", "plates", "cups", "mugs", "bowls",
 
-    return best, best_score
+    # BUILDINGS / PLACES
+    "buildings", "houses", "apartments", "rooms",
+    "shops", "stores", "schools", "colleges",
+    "universities", "churches", "hospitals",
+    "offices", "factories", "warehouses",
+    "garages", "barns", "cabins", "cottages",
+    "mansions", "villas", "lodges", "hotels",
+    "restaurants", "cafes", "bakeries",
+    "pharmacies", "libraries", "museums",
+    "stadiums", "theaters", "airports",
 
+    # PROFESSIONS (HIGH QUALITY)
+    "jobs", "professions", "doctors", "lawyers",
+    "scientists", "teachers", "artists", "writers",
+    "actors", "musicians", "dancers", "athletes",
+    "drivers", "pilots", "engineers", "architects",
+    "designers", "builders", "farmers", "chefs",
+    "bakers", "detectives", "inspectors",
+    "captains", "soldiers", "guards",
+    "firefighters", "nurses", "dentists",
+    "surgeons", "veterinarians",
+
+    # SPORTS / GAMES
+    "sports", "games", "teams", "positions",
+    "plays", "moves", "penalties", "trophies",
+    "awards", "medals", "ribbons", "prizes",
+    "balls", "bats", "rackets", "goals",
+    "courts", "tracks", "races", "tournaments",
+
+    # MUSIC / ARTS
+    "music", "songs", "dances", "genres",
+    "instruments", "bands", "orchestras",
+    "choirs", "drums", "guitars", "violins",
+    "pianos", "trumpets", "flutes",
+
+    # MEDIA / STORY
+    "books", "stories", "novels", "plays",
+    "films", "movies", "shows", "series",
+    "episodes", "chapters", "scenes",
+    "plots", "characters", "heroes", "villains",
+
+    # MATERIALS
+    "materials", "metals", "stones", "gems",
+    "crystals", "rocks", "minerals", "fabrics",
+    "woods", "plastics", "glass", "paper",
+
+    # GEOGRAPHY
+    "countries", "states", "cities", "towns",
+    "villages", "islands", "continents",
+    "oceans", "seas", "rivers", "lakes",
+    "mountains", "valleys", "deserts",
+    "forests", "jungles", "beaches",
+
+    # TIME
+    "times", "hours", "days", "months",
+    "years", "decades", "seasons",
+
+    # CLEAN CATEGORY LABELS (VERY USEFUL)
+    "types", "styles", "models", "brands",
+    "categories", "genres", "flavors",
+    "colors", "shapes", "sizes",
+
+    # STRONG ABSTRACT BUT USABLE (LIMITED)
+    "emotions", "feelings", "beliefs",
+    "crimes", "diseases", "injuries",
+    "symptoms", "medicines"
+]
+
+def main():
+    generator = SemanticGenerator(SEED_SUBJECTS)
+    categories = generator.generate_all_categories()
+
+    print(f"\nGenerated {len(categories)} categories\n")
+
+    random.shuffle(categories)
+
+    for c in categories[:100]:
+        print(c)
 
 if __name__ == "__main__":
-    gen = SemanticGenerator()
-
-    # group, s = generate_best(gen, attempts=300)
-
-    # print("\nBest Group:")
-    # print(group["category"])
-    # print(", ".join(group["words"]))
-    # print(f"\nScore: {s:.3f}")
-
-    attempts = 50
-
-    groups = []
-    for _ in range(attempts):
-        group = gen.generate()
-        if not group:
-            continue
-
-        s = score(group)
-
-        if s != float("-inf"):
-            groups.append(group)
-            #groups.append({"category": group["category"], "words": group["words"], "score": s})
-
-    # scores = [g["score"] for g in groups if g["score"] != float("-inf")]
-    # print(scores)
-    # threshold = np.percentile(scores, 80)
-
-    # print(f"Threshold: {threshold}")
-
-    # for g in groups:
-    #     if g["score"] > threshold:
-    #         print("\nGroup:")
-    #         print(g["category"])
-    #         print(", ".join(g["words"]))
-    #         print(f"\nScore: {g["score"]:.3f}")
-
-    groups = assign_difficulties(groups)
-
-    for g in groups:
-        print(f"\nGroup: {g["category"]}")
-        print(f"Difficulty: {g["difficulty"]}")
-        print(", ".join(g["words"]))
-        #print(f"\nScore: {g["score"]:.3f}")
+    main()
