@@ -1,5 +1,6 @@
 from generators.anagram import AnagramGenerator
 from scoring.embedding_scorer import score
+from generators.synonym_generator import SynonymGenerator
 from scoring.difficulty import assign_difficulties
 
 
