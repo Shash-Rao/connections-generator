@@ -131,6 +131,9 @@ def is_valid_cross_synset_group(words, model):
 # -----------------------
 
 def score(group):
+    if group.get("meta", {}).get("type") == "anagram":
+        return anagram_score(group)
+    
     model = get_model()
     words = group["words"]
     group_type = group["meta"].get("type", "synonym")
@@ -148,3 +151,15 @@ def score(group):
         min_similarity(words, model) +
         0.5 * avg_frequency(words)
     )
+
+def anagram_score(group):
+    words = group["words"]
+
+    # reward longer words (harder puzzles)
+    avg_len = sum(len(w) for w in words) / len(words)
+
+    # reward diversity in frequency (less trivial)
+    freqs = [zipf_frequency(w, "en") for w in words]
+    freq_var = max(freqs) - min(freqs)
+
+    return avg_len + 0.5 * freq_var

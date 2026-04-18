@@ -8,7 +8,6 @@ from scoring.embedding_scorer import (
 )
 from utils.embeddings import get_model
 
-
 # -----------------------
 # CORE SIGNALS
 # -----------------------
@@ -27,6 +26,10 @@ def difficulty_score(group):
     Continuous difficulty score.
     Higher = harder.
     """
+
+    if group.get("meta", {}).get("type") == "anagram":
+        return anagram_difficulty(group)
+
     model = get_model()
 
     words = group["words"]
@@ -83,3 +86,15 @@ def assign_difficulties(groups):
         g["difficulty"] = difficulty_label(s, p25, p50, p75)
 
     return groups
+
+def anagram_difficulty(group):
+    words = group["words"]
+
+    # longer words = harder
+    avg_len = sum(len(w) for w in words) / len(words)
+
+    # optional: add frequency difficulty
+    from wordfreq import zipf_frequency
+    avg_freq = sum(zipf_frequency(w, "en") for w in words) / len(words)
+
+    return avg_len - 0.5 * avg_freq
