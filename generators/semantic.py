@@ -3,6 +3,8 @@ import random
 from dataclasses import dataclass
 from functools import lru_cache
 from itertools import combinations
+import json
+import os
 
 import spacy
 from nltk.corpus import wordnet as wn
@@ -147,16 +149,16 @@ class SemanticGenerator:
     MIN_FREQ = 4.0
     CANDIDATE_MIN_FREQ = 3.0
     MIN_LENGTH = 3
-    EXPANSION_DEPTH = 4
+    EXPANSION_DEPTH = 5
 
     MIN_HYPONYMS = 3
     CATEGORY_SIZE = 4
-    TOP_K_HYPONYMS = 10
+    TOP_K_HYPONYMS = 12
 
-    MAX_CATEGORIES_PER_SUBJECT = 100
+    MAX_CATEGORIES_PER_SUBJECT = 200
     KEEP_TOP_PERCENT = 0.2
 
-    LABEL_SIM_MIN = 0.45
+    LABEL_SIM_MIN = 0.43
     MAX_CHILD_DEPTH_RANGE = 3
     MAX_WORD_POLYSEMY = 12
 
@@ -651,14 +653,40 @@ class SemanticGenerator:
         all_categories.sort(key=lambda x: x["score"], reverse=True)
         cutoff = int(len(all_categories) * self.KEEP_TOP_PERCENT)
         return all_categories[:cutoff]
+    
+    def generate_json(self, output_path="categories/semantic.json"):
+        categories = self.generate_all_categories()
+
+        json_data = []
+
+        for cat in categories:
+            json_data.append({
+                "category_name": cat["subject"],
+                "words": list(cat["words"]),
+                "category_type": "semantic",
+                "difficulty": cat["level"]
+            })
+
+        # Ensure directory exists
+        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+
+        # Write file
+        with open(output_path, "w", encoding="utf-8") as f:
+            json.dump(json_data, f, indent=2, ensure_ascii=False)
+
+        print(f"\nSaved {len(json_data)} categories to {output_path}\n")
+
+        return json_data
 
 
 if __name__ == "__main__":
     generator = SemanticGenerator(SEED_SUBJECTS)
-    categories = generator.generate_all_categories()
+    generator.generate_json()
 
-    print(f"\nGenerated {len(categories)} categories\n")
+    # categories = generator.generate_all_categories()
 
-    random.shuffle(categories)
-    for c in categories[:100]:
-        print(c)
+    # print(f"\nGenerated {len(categories)} categories\n")
+
+    # random.shuffle(categories)
+    # for c in categories[:100]:
+    #     print(c)
