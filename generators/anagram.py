@@ -1,5 +1,7 @@
 from collections import defaultdict
 import random
+import json
+import os
 
 from wordfreq import zipf_frequency
 
@@ -127,6 +129,30 @@ class AnagramGenerator:
                 groups.append(group)
 
         return groups
+    
+    def generate_json(self, output_path="categories/anagram.json"):
+        categories = self.generate_all_canonical_groups()
+
+        json_data = []
+
+        for cat in categories:
+            json_data.append({
+                "category_name": "Anagrams of " + cat["words"][0],
+                "words": list(cat["words"]),
+                "category_type": "anagrams",
+                "difficulty": "blue"
+            })
+
+        # Ensure directory exists
+        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+
+        # Write file
+        with open(output_path, "w", encoding="utf-8") as f:
+            json.dump(json_data, f, indent=2, ensure_ascii=False)
+
+        print(f"\nSaved {len(json_data)} categories to {output_path}\n")
+
+        return json_data
 
     def debug_print_buckets(self, limit=20):
         ranked = sorted(
@@ -156,3 +182,7 @@ class AnagramGenerator:
         print("\nBest-looking buckets:")
         for score_val, key, words in scored[:limit]:
             print(f"{key} | score={score_val:.2f} | {words}")
+
+if __name__ == "__main__":
+    generator = AnagramGenerator()
+    generator.generate_json()

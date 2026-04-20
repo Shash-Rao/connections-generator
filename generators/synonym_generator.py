@@ -3,6 +3,8 @@ import re
 from itertools import combinations
 from nltk.corpus import wordnet as wn
 from wordfreq import zipf_frequency
+import json
+import os
 
 
 class SynonymGenerator:
@@ -521,3 +523,31 @@ class SynonymGenerator:
                     results.append(group)
 
         return results
+
+    def generate_json(self, n=500, output_path="categories/synonym.json"):
+        categories = self.generate_n(n)
+
+        json_data = []
+
+        for cat in categories:
+            json_data.append({
+                "category_name": "Synonyms for " + cat["category"].lower(),
+                "words": list(cat["words"]),
+                "category_type": "synonym",
+                "difficulty": "yellow"
+            })
+
+        # Ensure directory exists
+        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+
+        # Write file
+        with open(output_path, "w", encoding="utf-8") as f:
+            json.dump(json_data, f, indent=2, ensure_ascii=False)
+
+        print(f"\nSaved {len(json_data)} categories to {output_path}\n")
+
+        return json_data
+
+if __name__ == "__main__":
+    generator = SynonymGenerator()
+    generator.generate_json()

@@ -36,7 +36,7 @@ def load_words(n=200000, min_zipf_wordnet=2.5, debug=True):
     return sorted(all_words)
 
 
-def is_valid_word(w, min_len=5, max_len=8):
+def is_valid_word(w, min_len=5, max_len=9):
     """
     Restrict to puzzle-friendlier word lengths.
     """

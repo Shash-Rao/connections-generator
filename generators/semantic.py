@@ -149,17 +149,17 @@ class SemanticGenerator:
     MIN_FREQ = 4.0
     CANDIDATE_MIN_FREQ = 3.0
     MIN_LENGTH = 3
-    EXPANSION_DEPTH = 5
+    EXPANSION_DEPTH = 7
 
     MIN_HYPONYMS = 3
     CATEGORY_SIZE = 4
     TOP_K_HYPONYMS = 12
 
-    MAX_CATEGORIES_PER_SUBJECT = 200
-    KEEP_TOP_PERCENT = 0.2
+    MAX_CATEGORIES_PER_SUBJECT = 2
+    KEEP_TOP_PERCENT = 0.3
 
     LABEL_SIM_MIN = 0.43
-    MAX_CHILD_DEPTH_RANGE = 3
+    MAX_CHILD_DEPTH_RANGE = 4
     MAX_WORD_POLYSEMY = 12
 
     GENERIC_WORDS = {
@@ -179,7 +179,7 @@ class SemanticGenerator:
     )
 
     BANNED_WORDS = {
-        "oriental",
+        "oriental", "sex"
     }
 
     # Subjects that are technically workable in WordNet but tend to yield
@@ -606,7 +606,7 @@ class SemanticGenerator:
     def assign_level(self, difficulty):
         if difficulty is None:
             return None
-        return "yellow" if difficulty < 1.05 else "blue"
+        return "green" if difficulty < 1.05 else "blue"
 
     # -------------------------
     # CATEGORY GENERATION
