@@ -49,10 +49,12 @@ def generate():
     if not teams:
         return None
     return {
-        "strategy": "sports_players",
-        "category": category,
+        "category_name": category,
         "words": teams,
+        "category_type": "sports_players",
+        "difficulty": "purple",
     }
+    # {category_name, words, category_type, difficulty}
 
 
 if __name__ == '__main__':

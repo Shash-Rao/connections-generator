@@ -30,5 +30,4 @@ def make():
 if __name__ == '__main__':
     inst = make()
     res = inst.generate()
-    for k, v in res.items():
-        print(f"{k}: {v}")
+    print(res)
