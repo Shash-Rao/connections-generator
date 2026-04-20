@@ -105,7 +105,7 @@ def print_board_grid(board):
     random.shuffle(words)
 
     print("\nGrid:")
-    for i in range(0, 12, 4):
+    for i in range(0, 16, 4):
         print(" | ".join(words[i:i+4]))
 
 
@@ -133,7 +133,7 @@ def preview_boards(boards, n=10):
 # --- Main ---
 def main():
     folder = "categories"
-    required_difficulties = ["yellow", "green", "blue"]#, "purple"]
+    required_difficulties = ["yellow", "green", "blue", "purple"]
 
     categories = load_categories_from_folder(folder)
     categories_by_difficulty = group_by_difficulty(categories)
