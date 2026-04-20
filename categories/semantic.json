@@ -1,0 +1,1289 @@
+[
+  {
+    "category_name": "liquor",
+    "words": [
+      "vodka",
+      "whiskey",
+      "gin",
+      "rum"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "liquor",
+    "words": [
+      "vodka",
+      "whiskey",
+      "gin",
+      "brandy"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "grain",
+    "words": [
+      "rice",
+      "corn",
+      "wheat",
+      "barley"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "spirits",
+    "words": [
+      "vodka",
+      "whiskey",
+      "gin",
+      "brandy"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "spirits",
+    "words": [
+      "vodka",
+      "whiskey",
+      "gin",
+      "rum"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "season",
+    "words": [
+      "summer",
+      "spring",
+      "winter",
+      "autumn"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "dish",
+    "words": [
+      "cake",
+      "pizza",
+      "salad",
+      "pasta"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "seasons",
+    "words": [
+      "summer",
+      "spring",
+      "winter",
+      "autumn"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "dish",
+    "words": [
+      "cake",
+      "pizza",
+      "salad",
+      "soup"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "cat",
+    "words": [
+      "lion",
+      "panther",
+      "leopard",
+      "cheetah"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "restaurant",
+    "words": [
+      "cafe",
+      "grill",
+      "diner",
+      "bistro"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "meal",
+    "words": [
+      "dinner",
+      "tea",
+      "lunch",
+      "breakfast"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "metal",
+    "words": [
+      "iron",
+      "copper",
+      "tin",
+      "aluminum"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "house",
+    "words": [
+      "residence",
+      "villa",
+      "cabin",
+      "cottage"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "artists",
+    "words": [
+      "photographer",
+      "musician",
+      "stylist",
+      "sculptor"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "foods",
+    "words": [
+      "meat",
+      "cheese",
+      "chocolate",
+      "pasta"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "bed",
+    "words": [
+      "couch",
+      "bunk",
+      "cot",
+      "hammock"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "foods",
+    "words": [
+      "meat",
+      "cheese",
+      "chocolate",
+      "butter"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "compound",
+    "words": [
+      "salt",
+      "acid",
+      "oxide",
+      "nitrate"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "houses",
+    "words": [
+      "residence",
+      "villa",
+      "cabin",
+      "cottage"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "criminal",
+    "words": [
+      "thief",
+      "murderer",
+      "traitor",
+      "gangster"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "house",
+    "words": [
+      "residence",
+      "villa",
+      "cabin",
+      "lodge"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "drink",
+    "words": [
+      "coffee",
+      "tea",
+      "milk",
+      "cider"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "physician",
+    "words": [
+      "resident",
+      "specialist",
+      "surgeon",
+      "vet"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "doctor",
+    "words": [
+      "resident",
+      "specialist",
+      "surgeon",
+      "vet"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "dog",
+    "words": [
+      "toy",
+      "puppy",
+      "pug",
+      "poodle"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "criminal",
+    "words": [
+      "thief",
+      "murderer",
+      "traitor",
+      "rapist"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "vegetables",
+    "words": [
+      "onion",
+      "greens",
+      "pumpkin",
+      "mushroom"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "restaurants",
+    "words": [
+      "cafe",
+      "grill",
+      "diner",
+      "bistro"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "song",
+    "words": [
+      "anthem",
+      "ballad",
+      "lullaby",
+      "requiem"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "vegetables",
+    "words": [
+      "onion",
+      "greens",
+      "pumpkin",
+      "cucumber"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "drinks",
+    "words": [
+      "coffee",
+      "tea",
+      "milk",
+      "cider"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "physician",
+    "words": [
+      "resident",
+      "specialist",
+      "surgeon",
+      "intern"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "poem",
+    "words": [
+      "verse",
+      "lyric",
+      "ballad",
+      "haiku"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "emotions",
+    "words": [
+      "joy",
+      "anxiety",
+      "anger",
+      "hatred"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "compound",
+    "words": [
+      "salt",
+      "acid",
+      "oxide",
+      "polymer"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "doctors",
+    "words": [
+      "resident",
+      "specialist",
+      "surgeon",
+      "vet"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "assets",
+    "words": [
+      "amount",
+      "capital",
+      "credit",
+      "funds"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "houses",
+    "words": [
+      "residence",
+      "villa",
+      "cabin",
+      "lodge"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "emotion",
+    "words": [
+      "joy",
+      "anxiety",
+      "anger",
+      "hatred"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "beds",
+    "words": [
+      "couch",
+      "bunk",
+      "cot",
+      "hammock"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "dogs",
+    "words": [
+      "toy",
+      "puppy",
+      "doggy",
+      "poodle"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "songs",
+    "words": [
+      "anthem",
+      "ballad",
+      "lullaby",
+      "requiem"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "doctor",
+    "words": [
+      "resident",
+      "specialist",
+      "surgeon",
+      "intern"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "grain",
+    "words": [
+      "rice",
+      "corn",
+      "wheat",
+      "malt"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "fur",
+    "words": [
+      "rabbit",
+      "squirrel",
+      "leopard",
+      "otter"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "rocks",
+    "words": [
+      "boulder",
+      "pebble",
+      "bedrock",
+      "sill"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "emotions",
+    "words": [
+      "joy",
+      "anxiety",
+      "anger",
+      "awe"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "emotion",
+    "words": [
+      "joy",
+      "anxiety",
+      "anger",
+      "awe"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "doctors",
+    "words": [
+      "specialist",
+      "surgeon",
+      "vet",
+      "intern"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "jazz",
+    "words": [
+      "swing",
+      "funk",
+      "boogie",
+      "bop"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "waters",
+    "words": [
+      "sea",
+      "lake",
+      "bay",
+      "pool"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "disaster",
+    "words": [
+      "plague",
+      "apocalypse",
+      "famine",
+      "tsunami"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "drink",
+    "words": [
+      "coffee",
+      "tea",
+      "milk",
+      "alcohol"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "sports",
+    "words": [
+      "racing",
+      "gymnastics",
+      "archery",
+      "judo"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "restaurants",
+    "words": [
+      "cafe",
+      "diner",
+      "canteen",
+      "bistro"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "medication",
+    "words": [
+      "cure",
+      "powder",
+      "pharmaceutical",
+      "dosage"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "creator",
+    "words": [
+      "artist",
+      "producer",
+      "designer",
+      "developer"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "period",
+    "words": [
+      "time",
+      "year",
+      "day",
+      "night"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "conflict",
+    "words": [
+      "war",
+      "combat",
+      "rebellion",
+      "strife"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "fur",
+    "words": [
+      "rabbit",
+      "squirrel",
+      "leopard",
+      "raccoon"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "officer",
+    "words": [
+      "captain",
+      "cop",
+      "inspector",
+      "constable"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "stores",
+    "words": [
+      "pharmacy",
+      "salon",
+      "bakery",
+      "bookstore"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "medication",
+    "words": [
+      "cure",
+      "powder",
+      "pharmaceutical",
+      "placebo"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "water",
+    "words": [
+      "sea",
+      "lake",
+      "bay",
+      "pool"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "apartment",
+    "words": [
+      "studio",
+      "rooms",
+      "penthouse",
+      "duplex"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "disaster",
+    "words": [
+      "plague",
+      "apocalypse",
+      "famine",
+      "meltdown"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "drinks",
+    "words": [
+      "coffee",
+      "tea",
+      "milk",
+      "alcohol"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "symptoms",
+    "words": [
+      "pain",
+      "effect",
+      "syndrome",
+      "cough"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "restaurant",
+    "words": [
+      "cafe",
+      "grill",
+      "diner",
+      "canteen"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "crimes",
+    "words": [
+      "fraud",
+      "treason",
+      "felony",
+      "misdemeanor"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "apartments",
+    "words": [
+      "studio",
+      "rooms",
+      "penthouse",
+      "duplex"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "idea",
+    "words": [
+      "plan",
+      "opinion",
+      "concept",
+      "theme"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "battle",
+    "words": [
+      "war",
+      "combat",
+      "rebellion",
+      "strife"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "party",
+    "words": [
+      "dance",
+      "wedding",
+      "dinner",
+      "reunion"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "gas",
+    "words": [
+      "air",
+      "oxygen",
+      "chlorine",
+      "fumes"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "creator",
+    "words": [
+      "artist",
+      "producer",
+      "designer",
+      "builder"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "symptoms",
+    "words": [
+      "pain",
+      "effect",
+      "syndrome",
+      "fever"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "car",
+    "words": [
+      "bus",
+      "taxi",
+      "ambulance",
+      "jeep"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "struggle",
+    "words": [
+      "war",
+      "combat",
+      "rebellion",
+      "strife"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "dogs",
+    "words": [
+      "toy",
+      "puppy",
+      "doggy",
+      "pug"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "noise",
+    "words": [
+      "boom",
+      "hum",
+      "rumble",
+      "chatter"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "tragedy",
+    "words": [
+      "plague",
+      "apocalypse",
+      "famine",
+      "tsunami"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "gas",
+    "words": [
+      "air",
+      "oxygen",
+      "chlorine",
+      "ozone"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "period",
+    "words": [
+      "time",
+      "year",
+      "day",
+      "school"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "story",
+    "words": [
+      "plot",
+      "mystery",
+      "legend",
+      "myth"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "container",
+    "words": [
+      "cup",
+      "box",
+      "glass",
+      "bag"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "metal",
+    "words": [
+      "iron",
+      "copper",
+      "tin",
+      "mercury"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "leader",
+    "words": [
+      "father",
+      "chief",
+      "hero",
+      "politician"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "personnel",
+    "words": [
+      "men",
+      "law",
+      "staff",
+      "patrol"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "associate",
+    "words": [
+      "friend",
+      "member",
+      "partner",
+      "colleague"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "clothing",
+    "words": [
+      "clothes",
+      "grey",
+      "uniform",
+      "accessory"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "advantage",
+    "words": [
+      "gain",
+      "favor",
+      "privilege",
+      "leverage"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "tragedy",
+    "words": [
+      "plague",
+      "apocalypse",
+      "famine",
+      "meltdown"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "crimes",
+    "words": [
+      "fraud",
+      "treason",
+      "felony",
+      "mayhem"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "crime",
+    "words": [
+      "fraud",
+      "treason",
+      "felony",
+      "misdemeanor"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "idea",
+    "words": [
+      "plan",
+      "opinion",
+      "concept",
+      "burden"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "advantage",
+    "words": [
+      "gain",
+      "favor",
+      "privilege",
+      "preference"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "worker",
+    "words": [
+      "driver",
+      "assistant",
+      "employee",
+      "volunteer"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "shop",
+    "words": [
+      "pharmacy",
+      "salon",
+      "bakery",
+      "boutique"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "humor",
+    "words": [
+      "fun",
+      "joke",
+      "cartoon",
+      "irony"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "kind",
+    "words": [
+      "type",
+      "model",
+      "style",
+      "brand"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "jewelry",
+    "words": [
+      "ring",
+      "pin",
+      "clip",
+      "necklace"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "quantity",
+    "words": [
+      "term",
+      "amount",
+      "product",
+      "variable"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "meeting",
+    "words": [
+      "council",
+      "conference",
+      "forum",
+      "caucus"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "component",
+    "words": [
+      "audio",
+      "hardware",
+      "module",
+      "pixel"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "conditions",
+    "words": [
+      "way",
+      "health",
+      "control",
+      "climate"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "furniture",
+    "words": [
+      "table",
+      "seat",
+      "lamp",
+      "dresser"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "writer",
+    "words": [
+      "ghost",
+      "journalist",
+      "poet",
+      "reviewer"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "situation",
+    "words": [
+      "crisis",
+      "nightmare",
+      "urgency",
+      "straits"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "cars",
+    "words": [
+      "bus",
+      "taxi",
+      "ambulance",
+      "jeep"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "area",
+    "words": [
+      "heart",
+      "space",
+      "scene",
+      "neighborhood"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "machines",
+    "words": [
+      "computer",
+      "assembly",
+      "motor",
+      "machinery"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "crime",
+    "words": [
+      "fraud",
+      "treason",
+      "felony",
+      "mayhem"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  },
+  {
+    "category_name": "shop",
+    "words": [
+      "pharmacy",
+      "salon",
+      "bakery",
+      "cleaners"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "jewelry",
+    "words": [
+      "ring",
+      "pin",
+      "clip",
+      "bracelet"
+    ],
+    "category_type": "semantic",
+    "difficulty": "blue"
+  },
+  {
+    "category_name": "fear",
+    "words": [
+      "horror",
+      "alarm",
+      "panic",
+      "dread"
+    ],
+    "category_type": "semantic",
+    "difficulty": "green"
+  }
+]
