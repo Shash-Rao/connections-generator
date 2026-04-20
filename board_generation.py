@@ -33,16 +33,19 @@ def group_by_difficulty(categories):
 # --- Validation ---
 def is_valid_board(selected_categories):
     seen_words = set()
-    seen_category_names = set()
+    seen_category_wordsets = set()
 
     for cat in selected_categories:
-        # unique category names
-        if cat["category_name"] in seen_category_names:
-            return False
-        seen_category_names.add(cat["category_name"])
+        words = cat["words"]
 
-        # unique words
-        for word in cat["words"]:
+        # prevent identical category word sets
+        wordset_key = tuple(sorted(words))
+        if wordset_key in seen_category_wordsets:
+            return False
+        seen_category_wordsets.add(wordset_key)
+
+        # prevent word overlap
+        for word in words:
             if word in seen_words:
                 return False
             seen_words.add(word)
@@ -50,7 +53,7 @@ def is_valid_board(selected_categories):
     return True
 
 
-# --- Board generation ---
+# --- Generate a single board ---
 def generate_board(categories_by_difficulty, required_difficulties, max_attempts=1000):
     for _ in range(max_attempts):
         selected = [
@@ -64,14 +67,31 @@ def generate_board(categories_by_difficulty, required_difficulties, max_attempts
     raise RuntimeError("Failed to generate a valid board after many attempts")
 
 
-def generate_boards(n_boards, categories_by_difficulty, required_difficulties):
+# --- Generate UNIQUE boards ---
+def generate_unique_boards(n_boards, categories_by_difficulty, required_difficulties):
     boards = []
-    for i in range(n_boards):
-        board = generate_board(categories_by_difficulty, required_difficulties)
-        boards.append(board)
+    seen_board_keys = set()
 
-        if (i + 1) % 1000 == 0:
-            print(f"Generated {i+1} boards")
+    attempts = 0
+
+    while len(boards) < n_boards:
+        board = generate_board(categories_by_difficulty, required_difficulties)
+        attempts += 1
+
+        # Create board signature (16 words, order-independent)
+        board_words = [word for cat in board for word in cat["words"]]
+        board_key = tuple(sorted(board_words))
+
+        if board_key not in seen_board_keys:
+            seen_board_keys.add(board_key)
+            boards.append(board)
+
+            if len(boards) % 1000 == 0:
+                print(f"Generated {len(boards)} unique boards (attempts: {attempts})")
+
+        # Optional: safety check to avoid infinite loops
+        if attempts > n_boards * 20:
+            raise RuntimeError("Too many attempts — dataset may not support enough unique boards")
 
     return boards
 
@@ -85,7 +105,7 @@ def print_board_grid(board):
     random.shuffle(words)
 
     print("\nGrid:")
-    for i in range(0, 16, 4):
+    for i in range(0, 12, 4):
         print(" | ".join(words[i:i+4]))
 
 
@@ -102,18 +122,18 @@ def preview_boards(boards, n=10):
     sample = random.sample(boards, min(n, len(boards)))
 
     for i, board in enumerate(sample, 1):
-        print(f"\n==============================")
+        print("\n==============================")
         print(f"Board {i}")
-        print(f"==============================")
+        print("==============================")
 
         print_board_grid(board)
         print_solution(board)
 
 
-# --- Main execution ---
+# --- Main ---
 def main():
     folder = "categories"
-    required_difficulties = ["yellow", "green", "blue", "purple"]
+    required_difficulties = ["yellow", "green", "blue"]#, "purple"]
 
     categories = load_categories_from_folder(folder)
     categories_by_difficulty = group_by_difficulty(categories)
@@ -123,8 +143,8 @@ def main():
         if d not in categories_by_difficulty or not categories_by_difficulty[d]:
             raise ValueError(f"No categories found for difficulty: {d}")
 
-    # Generate boards
-    boards = generate_boards(
+    # Generate 10k UNIQUE boards
+    boards = generate_unique_boards(
         n_boards=10_000,
         categories_by_difficulty=categories_by_difficulty,
         required_difficulties=required_difficulties,
@@ -134,9 +154,9 @@ def main():
     with open("boards.json", "w") as f:
         json.dump(boards, f, indent=2)
 
-    print("\nFinished generating boards.")
+    print("\nFinished generating unique boards.")
 
-    # Preview sample
+    # Preview
     preview_boards(boards, n=10)
 
 
