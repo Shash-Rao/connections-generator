@@ -3,6 +3,8 @@ import os
 import random
 import sys
 
+from torch import le
+
 ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
 if ROOT_DIR not in sys.path:
     sys.path.insert(0, ROOT_DIR)
@@ -38,10 +40,24 @@ def sample_compounds():
     return sampled_c1, c2
 
 
+def longest_common_suffix(words):
+    if not words:
+        return ""
+    reversed_words = [w[::-1] for w in words]
+    common_prefix_reversed = os.path.commonprefix(reversed_words)
+    return common_prefix_reversed[::-1]
+
+
 def generate():
     words, second_part = sample_compounds()
     if not words:
         return None
+    
+    s = longest_common_suffix(words)
+    if s:
+        words = [w[:-len(s)] for w in words]
+        second_part = s + second_part
+    
     return {
         "category_name": f"___{second_part}",
         "words": words,
