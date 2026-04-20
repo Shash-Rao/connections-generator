@@ -8,7 +8,7 @@
       "rum"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "liquor",
@@ -19,7 +19,7 @@
       "brandy"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "grain",
@@ -30,7 +30,7 @@
       "barley"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "spirits",
@@ -41,7 +41,7 @@
       "brandy"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "spirits",
@@ -52,7 +52,7 @@
       "rum"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "season",
@@ -63,7 +63,7 @@
       "autumn"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "dish",
@@ -74,7 +74,7 @@
       "pasta"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "seasons",
@@ -85,7 +85,7 @@
       "autumn"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "dish",
@@ -96,7 +96,7 @@
       "soup"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "cat",
@@ -107,7 +107,7 @@
       "cheetah"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "restaurant",
@@ -118,7 +118,7 @@
       "bistro"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "meal",
@@ -129,7 +129,7 @@
       "breakfast"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "metal",
@@ -140,7 +140,7 @@
       "aluminum"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "house",
@@ -151,7 +151,7 @@
       "cottage"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "artists",
@@ -162,7 +162,7 @@
       "sculptor"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "foods",
@@ -173,7 +173,7 @@
       "pasta"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "bed",
@@ -195,7 +195,7 @@
       "butter"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "compound",
@@ -206,7 +206,7 @@
       "nitrate"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "houses",
@@ -217,7 +217,7 @@
       "cottage"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "criminal",
@@ -228,7 +228,7 @@
       "gangster"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "house",
@@ -250,7 +250,7 @@
       "cider"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "physician",
@@ -261,7 +261,7 @@
       "vet"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "doctor",
@@ -272,7 +272,7 @@
       "vet"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "dog",
@@ -283,7 +283,7 @@
       "poodle"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "criminal",
@@ -294,7 +294,7 @@
       "rapist"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "vegetables",
@@ -316,7 +316,7 @@
       "bistro"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "song",
@@ -327,7 +327,7 @@
       "requiem"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "vegetables",
@@ -349,7 +349,7 @@
       "cider"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "physician",
@@ -360,7 +360,7 @@
       "intern"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "poem",
@@ -371,7 +371,7 @@
       "haiku"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "emotions",
@@ -382,7 +382,7 @@
       "hatred"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "compound",
@@ -393,7 +393,7 @@
       "polymer"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "doctors",
@@ -404,7 +404,7 @@
       "vet"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "assets",
@@ -437,7 +437,7 @@
       "hatred"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "beds",
@@ -459,7 +459,7 @@
       "poodle"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "songs",
@@ -470,7 +470,7 @@
       "requiem"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "doctor",
@@ -481,7 +481,7 @@
       "intern"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "grain",
@@ -503,7 +503,7 @@
       "otter"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "rocks",
@@ -514,7 +514,7 @@
       "sill"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "emotions",
@@ -525,7 +525,7 @@
       "awe"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "emotion",
@@ -536,7 +536,7 @@
       "awe"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "doctors",
@@ -547,7 +547,7 @@
       "intern"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "jazz",
@@ -591,7 +591,7 @@
       "alcohol"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "sports",
@@ -602,7 +602,7 @@
       "judo"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "restaurants",
@@ -624,7 +624,7 @@
       "dosage"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "creator",
@@ -635,7 +635,7 @@
       "developer"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "period",
@@ -657,7 +657,7 @@
       "strife"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "fur",
@@ -668,7 +668,7 @@
       "raccoon"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "officer",
@@ -690,7 +690,7 @@
       "bookstore"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "medication",
@@ -701,7 +701,7 @@
       "placebo"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "water",
@@ -745,7 +745,7 @@
       "alcohol"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "symptoms",
@@ -778,7 +778,7 @@
       "misdemeanor"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "apartments",
@@ -811,7 +811,7 @@
       "strife"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "party",
@@ -822,7 +822,7 @@
       "reunion"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "gas",
@@ -844,7 +844,7 @@
       "builder"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "symptoms",
@@ -866,7 +866,7 @@
       "jeep"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "struggle",
@@ -877,7 +877,7 @@
       "strife"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "dogs",
@@ -888,7 +888,7 @@
       "pug"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "noise",
@@ -943,7 +943,7 @@
       "myth"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "container",
@@ -998,7 +998,7 @@
       "colleague"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "clothing",
@@ -1042,7 +1042,7 @@
       "mayhem"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "crime",
@@ -1053,7 +1053,7 @@
       "misdemeanor"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "idea",
@@ -1064,7 +1064,7 @@
       "burden"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "advantage",
@@ -1086,7 +1086,7 @@
       "volunteer"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "shop",
@@ -1097,7 +1097,7 @@
       "boutique"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "humor",
@@ -1108,7 +1108,7 @@
       "irony"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "kind",
@@ -1152,7 +1152,7 @@
       "caucus"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "component",
@@ -1196,7 +1196,7 @@
       "reviewer"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "situation",
@@ -1218,7 +1218,7 @@
       "jeep"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "area",
@@ -1240,7 +1240,7 @@
       "machinery"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "crime",
@@ -1251,7 +1251,7 @@
       "mayhem"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   },
   {
     "category_name": "shop",
@@ -1284,6 +1284,6 @@
       "dread"
     ],
     "category_type": "semantic",
-    "difficulty": "yellow"
+    "difficulty": "green"
   }
 ]
