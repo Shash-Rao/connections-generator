@@ -43,9 +43,10 @@ def generate():
     if not words:
         return None
     return {
-        "strategy": "fill_blank",
-        "category": f"-{second_part}",
+        "category_name": f"___{second_part}",
         "words": words,
+        "category_type": "fill_blank",
+        "difficulty": "purple",
     }
 
 

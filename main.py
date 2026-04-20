@@ -169,3 +169,4 @@ if __name__ == "__main__":
             print(f"Difficulty: {g['difficulty']}")
             print(f"Score: {g['score']:.3f}")
             print(", ".join(g["words"]))
+            print(f"Difficulty score: {g['difficulty_score']:.3f}")

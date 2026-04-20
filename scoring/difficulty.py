@@ -68,10 +68,13 @@ def difficulty_label(score, p25, p50, p75):
     """
     Map score to 2 difficulty tiers.
     """
+    if score <= p25:
+        return "yellow"
     if score <= p50:
-        return "easy"      # green
-    else:
-        return "medium"   # purple
+        return "green"
+    if score <= p75:
+        return "blue"
+    return "purple"
 
 
 def assign_difficulties(groups):
