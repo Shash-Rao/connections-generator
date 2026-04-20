@@ -54,7 +54,6 @@ def generate():
         "category_type": "sports_players",
         "difficulty": "purple",
     }
-    # {category_name, words, category_type, difficulty}
 
 
 if __name__ == '__main__':

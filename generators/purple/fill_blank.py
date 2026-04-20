@@ -43,12 +43,11 @@ def generate():
     if not words:
         return None
     return {
-        "category_name": f"-{second_part}",
+        "category_name": f"___{second_part}",
         "words": words,
         "category_type": "fill_blank",
         "difficulty": "purple",
     }
-    # {category_name, words, category_type, difficulty}
 
 
 if __name__ == '__main__':

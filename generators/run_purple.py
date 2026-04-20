@@ -1,3 +1,4 @@
+import json
 import random
 
 from .purple import fill_blank as fill_blank_module
@@ -17,11 +18,26 @@ class PurpleGenerator:
             fill_blank_module.generate,
             sports_players_module.generate,
         ]
+        self.generator_names = {
+            fill_blank_module.generate: "fill_blank.json",
+            sports_players_module.generate: "sports_players.json"
+        }
 
-    def generate(self):
-        generator = random.choice(self.generators)
+    def generate_group(self, generator=None):
+        if not generator:
+            generator = random.choice(self.generators)
         result = generator()
         return result
+    
+    def generate_jsons(self, n=500):
+        for generator in self.generators:
+            results = []
+            for _ in range(n):
+                result = self.generate_group(generator)
+                results.append(result)
+            filename = "categories/" + self.generator_names[generator]
+            with open(filename, 'w') as f:
+                json.dump(results, f, indent=2)
 
 
 def make():
@@ -29,5 +45,4 @@ def make():
 
 if __name__ == '__main__':
     inst = make()
-    res = inst.generate()
-    print(res)
+    inst.generate_jsons()
