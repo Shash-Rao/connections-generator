@@ -1,33 +1,77 @@
 [
   {
-    "category_name": "___birds",
+    "category_name": "___guard",
     "words": [
-      "humming",
-      "sea",
-      "blue",
-      "love"
+      "body",
+      "coast",
+      "life",
+      "van"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___hole",
+    "category_name": "___back",
     "words": [
+      "piggy",
+      "full",
+      "hard",
+      "hunch"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___list",
+    "words": [
+      "check",
+      "black",
+      "short",
+      "play"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___yard",
+    "words": [
+      "vine",
+      "dock",
+      "back",
+      "school"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___grounds",
+    "words": [
+      "fair",
+      "back",
+      "camp",
+      "battle"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___flower",
+    "words": [
+      "sun",
+      "may",
+      "wild",
+      "wall"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___wood",
+    "words": [
+      "dead",
       "worm",
-      "key",
-      "hell",
-      "loop"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___writer",
-    "words": [
-      "screen",
-      "song",
-      "under",
-      "copy"
+      "sandal",
+      "red"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
@@ -35,395 +79,197 @@
   {
     "category_name": "___stones",
     "words": [
-      "mile",
-      "tomb",
-      "gem",
-      "head"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___land",
-    "words": [
-      "high",
-      "low",
-      "waste",
-      "wonder"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___band",
-    "words": [
-      "arm",
+      "sand",
       "head",
-      "waist",
-      "wrist"
+      "mile",
+      "gem"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___marks",
+    "category_name": "___shop",
     "words": [
-      "bench",
-      "land",
-      "hall",
-      "trade"
+      "sweat",
+      "barber",
+      "book",
+      "work"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___men",
+    "category_name": "___shot",
     "words": [
-      "crew",
-      "marks",
-      "freed",
-      "alder"
+      "gun",
+      "snap",
+      "head",
+      "sling"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___book",
+    "category_name": "___makers",
     "words": [
-      "story",
-      "pocket",
-      "hand",
-      "year"
+      "wine",
+      "trouble",
+      "law",
+      "film"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___books",
+    "category_name": "___flower",
     "words": [
-      "note",
-      "hand",
-      "text",
-      "cook"
+      "may",
+      "wall",
+      "sun",
+      "wild"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___room",
+    "category_name": "___master",
+    "words": [
+      "quarter",
+      "post",
+      "school",
+      "grand"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___mates",
+    "words": [
+      "room",
+      "class",
+      "team",
+      "play"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___woman",
+    "words": [
+      "congress",
+      "business",
+      "police",
+      "spokes"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___holder",
+    "words": [
+      "house",
+      "stock",
+      "place",
+      "stake"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___field",
+    "words": [
+      "mid",
+      "battle",
+      "corn",
+      "oil"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___lock",
+    "words": [
+      "air",
+      "pad",
+      "grid",
+      "wed"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___bar",
+    "words": [
+      "handle",
+      "side",
+      "cross",
+      "crow"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___rooms",
     "words": [
       "rest",
-      "back",
-      "play",
-      "chat"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___room",
-    "words": [
-      "home",
-      "board",
-      "wash",
-      "ball"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___over",
-    "words": [
-      "take",
-      "cross",
-      "hand",
-      "make"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___book",
-    "words": [
-      "pocket",
-      "sketch",
-      "cook",
-      "story"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___hole",
-    "words": [
-      "arse",
-      "ass",
-      "worm",
-      "pot"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___band",
-    "words": [
-      "wrist",
-      "arm",
-      "head",
-      "waist"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___front",
-    "words": [
-      "battle",
-      "beach",
-      "sea",
-      "lake"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___backs",
-    "words": [
-      "paper",
-      "diamond",
-      "flash",
-      "full"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___hop",
-    "words": [
-      "sweats",
-      "books",
-      "works",
-      "barbers"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___boy",
-    "words": [
-      "home",
-      "tom",
-      "play",
-      "cow"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___ways",
-    "words": [
-      "water",
-      "rail",
-      "hall",
-      "tram"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___time",
-    "words": [
-      "summer",
-      "play",
-      "war",
-      "half"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___tick",
-    "words": [
-      "joys",
-      "lips",
-      "yards",
-      "slaps"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___over",
-    "words": [
-      "sleep",
-      "left",
-      "hand",
-      "hang"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___case",
-    "words": [
-      "stair",
-      "pillow",
-      "brief",
-      "suit"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___power",
-    "words": [
-      "horse",
-      "will",
-      "fire",
-      "man"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___bell",
-    "words": [
-      "door",
-      "blue",
-      "dumb",
-      "bar"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___houses",
-    "words": [
-      "power",
-      "light",
-      "green",
-      "ware"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___ways",
-    "words": [
-      "path",
-      "air",
-      "rail",
-      "passage"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___keeper",
-    "words": [
-      "inn",
-      "gate",
-      "book",
-      "bee"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___works",
-    "words": [
-      "net",
-      "water",
-      "frame",
-      "fire"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___stone",
-    "words": [
-      "corner",
-      "touch",
-      "tomb",
-      "head"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___ware",
-    "words": [
-      "cook",
-      "stone",
-      "earthen",
-      "firm"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___set",
-    "words": [
-      "mind",
-      "head",
-      "hand",
-      "off"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___print",
-    "words": [
-      "blue",
-      "foot",
-      "finger",
-      "news"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___time",
-    "words": [
+      "class",
       "show",
-      "down",
-      "over",
-      "war"
+      "bath"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___ground",
+    "category_name": "___cat",
     "words": [
-      "fair",
-      "under",
-      "battle",
-      "back"
+      "wild",
+      "bob",
+      "hell",
+      "tom"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___ways",
+    "category_name": "___boards",
     "words": [
-      "free",
-      "rail",
-      "air",
-      "water"
+      "bill",
+      "floor",
+      "cup",
+      "skate"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___piece",
+    "category_name": "___balls",
     "words": [
-      "time",
-      "ear",
-      "work",
-      "center"
+      "eye",
+      "fire",
+      "foot",
+      "meat"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___way",
+    "words": [
+      "hall",
+      "door",
+      "belt",
+      "geta"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___shot",
+    "words": [
+      "mug",
+      "gun",
+      "sling",
+      "snap"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
@@ -432,53 +278,53 @@
     "category_name": "___bell",
     "words": [
       "bar",
-      "door",
+      "dumb",
       "blue",
-      "dumb"
+      "door"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___back",
+    "category_name": "___makers",
     "words": [
-      "hump",
-      "flash",
-      "set",
-      "play"
+      "book",
+      "film",
+      "auto",
+      "wine"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___bird",
+    "category_name": "___water",
     "words": [
-      "song",
-      "mocking",
-      "lady",
-      "black"
+      "back",
+      "waste",
+      "fresh",
+      "break"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___hole",
+    "category_name": "___books",
     "words": [
-      "hell",
-      "arse",
-      "worm",
-      "man"
+      "note",
+      "text",
+      "year",
+      "hand"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___rooms",
+    "category_name": "___day",
     "words": [
-      "show",
-      "rest",
-      "bed",
-      "class"
+      "dooms",
+      "pay",
+      "work",
+      "mid"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
@@ -488,217 +334,8 @@
     "words": [
       "under",
       "watch",
-      "bull",
-      "hot"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___ware",
-    "words": [
-      "soft",
-      "firm",
-      "cook",
-      "stone"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___wear",
-    "words": [
-      "under",
-      "knit",
-      "sports",
-      "outer"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___wear",
-    "words": [
-      "under",
-      "knit",
-      "outer",
-      "sports"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___hold",
-    "words": [
-      "strangle",
-      "strong",
-      "lease",
-      "free"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___set",
-    "words": [
-      "hand",
-      "head",
-      "off",
-      "sun"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___houses",
-    "words": [
-      "ware",
-      "light",
-      "green",
-      "power"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___houses",
-    "words": [
-      "power",
-      "green",
-      "ware",
-      "light"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___out",
-    "words": [
-      "strike",
-      "buy",
-      "sell",
-      "try"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___water",
-    "words": [
-      "sea",
-      "salt",
-      "white",
-      "fresh"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___book",
-    "words": [
-      "log",
-      "play",
-      "story",
-      "hand"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___walk",
-    "words": [
-      "side",
-      "cat",
-      "cross",
-      "board"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___mate",
-    "words": [
-      "play",
-      "class",
-      "house",
-      "flat"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___ground",
-    "words": [
-      "camp",
-      "fore",
-      "back",
-      "battle"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___men",
-    "words": [
-      "fire",
-      "gun",
-      "crew",
-      "service"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___holder",
-    "words": [
-      "stake",
-      "house",
-      "place",
-      "stock"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___hold",
-    "words": [
-      "foot",
-      "free",
-      "strong",
-      "house"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___room",
-    "words": [
-      "show",
-      "play",
-      "back",
-      "news"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___ware",
-    "words": [
-      "earthen",
-      "hard",
-      "cook",
-      "stone"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___cut",
-    "words": [
-      "short",
-      "under",
-      "upper",
-      "wood"
+      "hot",
+      "bull"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
@@ -706,549 +343,10 @@
   {
     "category_name": "___stone",
     "words": [
-      "fire",
-      "key",
-      "lime",
-      "mile"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___fall",
-    "words": [
-      "rain",
-      "land",
-      "water",
-      "pit"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___keeper",
-    "words": [
-      "bee",
-      "house",
-      "book",
-      "peace"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___makers",
-    "words": [
-      "law",
-      "wine",
-      "book",
-      "film"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___works",
-    "words": [
-      "fire",
-      "water",
-      "art",
-      "frame"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___power",
-    "words": [
-      "horse",
-      "fire",
-      "will",
-      "man"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___keeper",
-    "words": [
-      "goal",
-      "inn",
-      "book",
-      "shop"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___lock",
-    "words": [
-      "wed",
-      "air",
-      "dead",
-      "grid"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___cut",
-    "words": [
-      "hair",
-      "wood",
-      "short",
-      "under"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___weight",
-    "words": [
-      "feather",
-      "light",
-      "welter",
-      "cruiser"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___ups",
-    "words": [
-      "line",
-      "hook",
-      "grown",
-      "break"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___back",
-    "words": [
-      "roll",
-      "full",
-      "paper",
-      "green"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___shop",
-    "words": [
-      "work",
-      "book",
-      "barber",
-      "sweat"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___bell",
-    "words": [
-      "dumb",
-      "door",
-      "blue",
-      "bar"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___over",
-    "words": [
-      "push",
-      "pull",
-      "cross",
-      "turn"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___room",
-    "words": [
-      "home",
-      "head",
-      "board",
-      "news"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___writers",
-    "words": [
-      "screen",
-      "type",
-      "song",
-      "under"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___case",
-    "words": [
-      "suit",
-      "book",
-      "pillow",
-      "stair"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___board",
-    "words": [
-      "surf",
-      "chalk",
-      "black",
-      "switch"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___grounds",
-    "words": [
-      "battle",
-      "back",
-      "play",
-      "fair"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___shop",
-    "words": [
-      "barber",
-      "work",
-      "book",
-      "sweat"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___hold",
-    "words": [
-      "house",
-      "strong",
-      "lease",
-      "strangle"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___makers",
-    "words": [
-      "trouble",
-      "film",
-      "book",
-      "auto"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___flower",
-    "words": [
-      "wild",
-      "wall",
-      "sun",
-      "may"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___guard",
-    "words": [
-      "safe",
-      "life",
-      "body",
-      "coast"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___writer",
-    "words": [
-      "copy",
-      "type",
-      "song",
-      "under"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___shop",
-    "words": [
-      "work",
-      "sweat",
-      "book",
-      "barber"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___field",
-    "words": [
-      "back",
-      "air",
-      "mid",
-      "battle"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___lands",
-    "words": [
-      "low",
-      "bad",
-      "wet",
-      "mid"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___mate",
-    "words": [
-      "class",
-      "team",
-      "check",
-      "house"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___birds",
-    "words": [
-      "sea",
-      "love",
-      "humming",
-      "blue"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___stick",
-    "words": [
-      "candle",
-      "lip",
-      "joy",
-      "yard"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___hold",
-    "words": [
-      "free",
-      "strangle",
-      "foot",
-      "strong"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___lock",
-    "words": [
-      "dead",
-      "wed",
-      "grid",
-      "air"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___flower",
-    "words": [
-      "wall",
-      "sun",
-      "may",
-      "wild"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___book",
-    "words": [
-      "note",
-      "year",
-      "story",
-      "song"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___ups",
-    "words": [
-      "grown",
-      "start",
-      "hook",
-      "line"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___houses",
-    "words": [
-      "light",
-      "ware",
-      "power",
-      "green"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___piece",
-    "words": [
-      "ear",
-      "centre",
-      "center",
-      "master"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___man",
-    "words": [
-      "chair",
-      "trades",
-      "service",
-      "air"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___keeper",
-    "words": [
-      "bee",
-      "gate",
-      "shop",
-      "goal"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___tone",
-    "words": [
-      "tombs",
-      "graves",
-      "browns",
-      "caps"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___berries",
-    "words": [
-      "blue",
-      "rasp",
-      "black",
-      "straw"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___shot",
-    "words": [
-      "mug",
-      "sling",
-      "gun",
-      "snap"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___brush",
-    "words": [
-      "tooth",
-      "air",
-      "sage",
-      "paint"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___hot",
-    "words": [
-      "slings",
-      "hots",
-      "heads",
-      "mugs"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___weight",
-    "words": [
-      "welter",
-      "light",
-      "feather",
-      "heavy"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___craft",
-    "words": [
-      "hover",
-      "space",
-      "air",
-      "water"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___balls",
-    "words": [
-      "foot",
-      "snow",
-      "meat",
-      "eye"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___cut",
-    "words": [
-      "hair",
-      "wood",
-      "upper",
-      "short"
+      "grave",
+      "corner",
+      "mile",
+      "mill"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
@@ -1265,12 +363,155 @@
     "difficulty": "purple"
   },
   {
-    "category_name": "___ways",
+    "category_name": "___stone",
     "words": [
-      "tram",
-      "motor",
-      "hall",
+      "key",
+      "head",
+      "hearth",
+      "sand"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___over",
+    "words": [
+      "spill",
+      "roll",
+      "change",
+      "take"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___shot",
+    "words": [
+      "hot",
+      "mug",
+      "sling",
+      "head"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___band",
+    "words": [
+      "waist",
+      "arm",
+      "wrist",
+      "head"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___room",
+    "words": [
+      "board",
+      "news",
+      "store",
+      "chat"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___tones",
+    "words": [
+      "miles",
+      "sands",
+      "heads",
+      "under"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___guard",
+    "words": [
+      "van",
+      "rear",
+      "coast",
+      "life"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___room",
+    "words": [
+      "court",
+      "back",
+      "rest",
+      "show"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___tone",
+    "words": [
+      "miles",
+      "moons",
+      "under",
+      "tombs"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___mate",
+    "words": [
+      "flat",
+      "stale",
+      "class",
+      "team"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___stone",
+    "words": [
+      "head",
+      "moon",
+      "grave",
+      "sand"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___keeper",
+    "words": [
+      "bee",
+      "book",
+      "shop",
       "gate"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___wear",
+    "words": [
+      "foot",
+      "outer",
+      "knit",
+      "swim"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___board",
+    "words": [
+      "sea",
+      "black",
+      "bill",
+      "spring"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
@@ -1280,19 +521,514 @@
     "words": [
       "crack",
       "hots",
-      "jack",
+      "suns",
       "tea"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___master",
+    "category_name": "___keepers",
     "words": [
-      "school",
-      "grand",
+      "bee",
+      "shop",
+      "peace",
+      "goal"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___outs",
+    "words": [
+      "hang",
+      "hand",
+      "cut",
+      "try"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___pot",
+    "words": [
+      "tea",
+      "crack",
+      "hots",
+      "jack"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___line",
+    "words": [
+      "border",
+      "story",
+      "dead",
+      "date"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___lines",
+    "words": [
       "head",
-      "post"
+      "side",
+      "blood",
+      "under"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___print",
+    "words": [
+      "news",
+      "finger",
+      "foot",
+      "blue"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ware",
+    "words": [
+      "soft",
+      "glass",
+      "free",
+      "hard"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___guard",
+    "words": [
+      "van",
+      "body",
+      "coast",
+      "rear"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___tones",
+    "words": [
+      "tombs",
+      "under",
+      "heads",
+      "gems"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___walk",
+    "words": [
+      "cross",
+      "board",
+      "side",
+      "cat"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___stones",
+    "words": [
+      "head",
+      "mile",
+      "tomb",
+      "gem"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ships",
+    "words": [
+      "war",
+      "air",
+      "battle",
+      "space"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___hole",
+    "words": [
+      "man",
+      "ass",
+      "loop",
+      "pot"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___time",
+    "words": [
+      "bed",
+      "spring",
+      "down",
+      "play"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___men",
+    "words": [
+      "country",
+      "trades",
+      "service",
+      "fresh"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___men",
+    "words": [
+      "alder",
+      "sea",
+      "watch",
+      "clergy"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___down",
+    "words": [
+      "slow",
+      "knock",
+      "run",
+      "shut"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ball",
+    "words": [
+      "pin",
+      "meat",
+      "paint",
+      "volley"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___lights",
+    "words": [
+      "spot",
+      "head",
+      "flash",
+      "sky"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___balls",
+    "words": [
+      "meat",
+      "fire",
+      "snow",
+      "eye"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ball",
+    "words": [
+      "volley",
+      "base",
+      "foot",
+      "hand"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___yard",
+    "words": [
+      "back",
+      "ship",
+      "court",
+      "barn"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___bone",
+    "words": [
+      "collar",
+      "wish",
+      "back",
+      "jaw"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___bone",
+    "words": [
+      "back",
+      "collar",
+      "wish",
+      "jaw"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___side",
+    "words": [
+      "under",
+      "way",
+      "country",
+      "river"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___power",
+    "words": [
+      "man",
+      "horse",
+      "fire",
+      "will"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___tones",
+    "words": [
+      "over",
+      "miles",
+      "gems",
+      "sands"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___tones",
+    "words": [
+      "heads",
+      "tombs",
+      "over",
+      "sands"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___out",
+    "words": [
+      "try",
+      "check",
+      "buy",
+      "shoot"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___writer",
+    "words": [
+      "screen",
+      "under",
+      "type",
+      "song"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___berry",
+    "words": [
+      "black",
+      "straw",
+      "blue",
+      "rasp"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___bar",
+    "words": [
+      "handle",
+      "side",
+      "crow",
+      "cross"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___men",
+    "words": [
+      "trades",
+      "crafts",
+      "spokes",
+      "fire"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___away",
+    "words": [
+      "break",
+      "run",
+      "throw",
+      "straight"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___making",
+    "words": [
+      "wine",
+      "love",
+      "print",
+      "match"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___box",
+    "words": [
+      "sand",
+      "tool",
+      "shoe",
+      "juke"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___line",
+    "words": [
+      "hair",
+      "neck",
+      "waist",
+      "life"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___tones",
+    "words": [
+      "over",
+      "sands",
+      "miles",
+      "tombs"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___out",
+    "words": [
+      "sell",
+      "break",
+      "knock",
+      "take"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___woman",
+    "words": [
+      "business",
+      "chair",
+      "police",
+      "congress"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___water",
+    "words": [
+      "fresh",
+      "white",
+      "tide",
+      "waste"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___keeper",
+    "words": [
+      "bee",
+      "goal",
+      "house",
+      "gate"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___flower",
+    "words": [
+      "wall",
+      "may",
+      "wild",
+      "sun"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ball",
+    "words": [
+      "odd",
+      "paint",
+      "volley",
+      "fast"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___holder",
+    "words": [
+      "share",
+      "house",
+      "stake",
+      "stock"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___shot",
+    "words": [
+      "ear",
+      "hot",
+      "gun",
+      "head"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
@@ -1301,31 +1037,108 @@
     "category_name": "___over",
     "words": [
       "push",
-      "cross",
-      "hang",
-      "turn"
+      "left",
+      "spill",
+      "make"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___storm",
+    "category_name": "___lines",
     "words": [
-      "brain",
-      "thunder",
-      "sand",
-      "rain"
+      "side",
+      "guide",
+      "air",
+      "dead"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___screen",
+    "category_name": "___yard",
     "words": [
-      "wind",
-      "sun",
-      "touch",
-      "smoke"
+      "grave",
+      "junk",
+      "church",
+      "court"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___heads",
+    "words": [
+      "war",
+      "bulk",
+      "over",
+      "red"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___shop",
+    "words": [
+      "barber",
+      "work",
+      "book",
+      "sweat"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___way",
+    "words": [
+      "spill",
+      "entry",
+      "alley",
+      "speed"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___stick",
+    "words": [
+      "joy",
+      "candle",
+      "lip",
+      "yard"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___marks",
+    "words": [
+      "trade",
+      "bench",
+      "land",
+      "hall"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___yards",
+    "words": [
+      "back",
+      "court",
+      "grave",
+      "ship"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___shop",
+    "words": [
+      "work",
+      "book",
+      "barber",
+      "sweat"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
@@ -1333,10 +1146,582 @@
   {
     "category_name": "___boy",
     "words": [
-      "tom",
       "home",
+      "cow",
       "school",
-      "cow"
+      "tom"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___dog",
+    "words": [
+      "watch",
+      "under",
+      "hot",
+      "bull"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___man",
+    "words": [
+      "bow",
+      "hunts",
+      "mad",
+      "lay"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___off",
+    "words": [
+      "play",
+      "take",
+      "run",
+      "lift"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___care",
+    "words": [
+      "child",
+      "after",
+      "day",
+      "health"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___keepers",
+    "words": [
+      "goal",
+      "shop",
+      "peace",
+      "gate"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___piece",
+    "words": [
+      "ear",
+      "center",
+      "time",
+      "master"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___berry",
+    "words": [
+      "black",
+      "blue",
+      "goose",
+      "rasp"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___tone",
+    "words": [
+      "cobbles",
+      "moons",
+      "caps",
+      "under"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___bird",
+    "words": [
+      "thunder",
+      "song",
+      "humming",
+      "blue"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ships",
+    "words": [
+      "air",
+      "war",
+      "battle",
+      "space"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___print",
+    "words": [
+      "blue",
+      "foot",
+      "news",
+      "finger"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___day",
+    "words": [
+      "week",
+      "work",
+      "dooms",
+      "mid"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___lights",
+    "words": [
+      "flash",
+      "sky",
+      "spot",
+      "head"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___band",
+    "words": [
+      "arm",
+      "waist",
+      "wrist",
+      "head"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___pot",
+    "words": [
+      "suns",
+      "crack",
+      "hots",
+      "jack"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___fish",
+    "words": [
+      "jelly",
+      "sword",
+      "star",
+      "shell"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___set",
+    "words": [
+      "mind",
+      "off",
+      "head",
+      "sun"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ships",
+    "words": [
+      "air",
+      "war",
+      "space",
+      "battle"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___yard",
+    "words": [
+      "barn",
+      "vine",
+      "grave",
+      "school"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ship",
+    "words": [
+      "space",
+      "flag",
+      "war",
+      "star"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___power",
+    "words": [
+      "fire",
+      "will",
+      "horse",
+      "man"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___men",
+    "words": [
+      "middle",
+      "spokes",
+      "sports",
+      "chair"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___hole",
+    "words": [
+      "man",
+      "loop",
+      "arse",
+      "sink"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___woman",
+    "words": [
+      "chair",
+      "police",
+      "congress",
+      "business"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___holder",
+    "words": [
+      "place",
+      "stock",
+      "stake",
+      "house"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ware",
+    "words": [
+      "cook",
+      "silver",
+      "stone",
+      "table"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___woman",
+    "words": [
+      "business",
+      "chair",
+      "spokes",
+      "congress"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___box",
+    "words": [
+      "soap",
+      "shoe",
+      "sand",
+      "mail"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___pot",
+    "words": [
+      "hots",
+      "suns",
+      "crack",
+      "jack"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___stone",
+    "words": [
+      "brown",
+      "gem",
+      "touch",
+      "moon"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___line",
+    "words": [
+      "air",
+      "coast",
+      "side",
+      "hair"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___shop",
+    "words": [
+      "sweat",
+      "book",
+      "work",
+      "barber"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___power",
+    "words": [
+      "man",
+      "will",
+      "horse",
+      "fire"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___backs",
+    "words": [
+      "kick",
+      "paper",
+      "flash",
+      "cut"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___box",
+    "words": [
+      "shoe",
+      "juke",
+      "soap",
+      "tool"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___yard",
+    "words": [
+      "court",
+      "dock",
+      "ship",
+      "vine"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___power",
+    "words": [
+      "man",
+      "will",
+      "horse",
+      "fire"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___balls",
+    "words": [
+      "fire",
+      "eye",
+      "foot",
+      "meat"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ship",
+    "words": [
+      "star",
+      "space",
+      "air",
+      "flag"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___shot",
+    "words": [
+      "gun",
+      "hot",
+      "sling",
+      "ear"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___front",
+    "words": [
+      "water",
+      "beach",
+      "store",
+      "sea"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ground",
+    "words": [
+      "back",
+      "play",
+      "fair",
+      "battle"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___point",
+    "words": [
+      "flash",
+      "pin",
+      "ball",
+      "view"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___sets",
+    "words": [
+      "off",
+      "sun",
+      "mind",
+      "hand"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___backs",
+    "words": [
+      "quarter",
+      "diamond",
+      "cut",
+      "full"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___holders",
+    "words": [
+      "bond",
+      "share",
+      "policy",
+      "house"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___stone",
+    "words": [
+      "moon",
+      "grave",
+      "head",
+      "brown"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___water",
+    "words": [
+      "break",
+      "salt",
+      "white",
+      "back"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___fall",
+    "words": [
+      "short",
+      "water",
+      "wind",
+      "snow"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___top",
+    "words": [
+      "shorts",
+      "backs",
+      "hill",
+      "roof"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___men",
+    "words": [
+      "trades",
+      "noble",
+      "mad",
+      "crafts"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___heads",
+    "words": [
+      "bulk",
+      "over",
+      "red",
+      "skin"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
@@ -1344,10 +1729,538 @@
   {
     "category_name": "___house",
     "words": [
+      "wheel",
+      "road",
+      "ware",
+      "power"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___grounds",
+    "words": [
+      "fair",
+      "play",
+      "back",
+      "battle"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___balls",
+    "words": [
+      "foot",
+      "meat",
+      "fire",
+      "eye"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ship",
+    "words": [
+      "air",
+      "steam",
+      "battle",
+      "war"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___stone",
+    "words": [
+      "lime",
+      "mill",
+      "hearth",
+      "tomb"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___print",
+    "words": [
+      "foot",
+      "finger",
+      "blue",
+      "news"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___sets",
+    "words": [
+      "off",
+      "sun",
+      "head",
+      "hand"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___brush",
+    "words": [
+      "sage",
+      "air",
+      "tooth",
+      "paint"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___makers",
+    "words": [
+      "book",
+      "film",
+      "law",
+      "auto"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___band",
+    "words": [
+      "wrist",
+      "head",
+      "waist",
+      "arm"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___book",
+    "words": [
+      "cook",
+      "check",
+      "text",
+      "scrap"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___yards",
+    "words": [
+      "back",
+      "grave",
+      "vine",
+      "court"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___mark",
+    "words": [
+      "trade",
+      "water",
+      "book",
+      "hall"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___room",
+    "words": [
+      "news",
+      "chat",
+      "home",
+      "class"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___box",
+    "words": [
+      "tool",
+      "juke",
+      "mail",
+      "match"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___tones",
+    "words": [
+      "heads",
+      "sands",
+      "over",
+      "under"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___out",
+    "words": [
+      "try",
+      "black",
+      "lay",
+      "shoot"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___line",
+    "words": [
+      "date",
+      "side",
+      "water",
+      "neck"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___shop",
+    "words": [
+      "book",
+      "barber",
+      "sweat",
+      "work"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___care",
+    "words": [
+      "health",
+      "after",
+      "day",
+      "skin"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___holders",
+    "words": [
+      "stock",
+      "house",
+      "policy",
+      "share"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___bell",
+    "words": [
+      "door",
+      "bar",
+      "dumb",
+      "blue"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___walk",
+    "words": [
+      "board",
+      "side",
+      "cat",
+      "cross"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___birds",
+    "words": [
+      "sea",
+      "blue",
+      "humming",
+      "love"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ships",
+    "words": [
+      "battle",
+      "war",
+      "space",
+      "air"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___power",
+    "words": [
+      "fire",
+      "will",
+      "man",
+      "horse"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___stone",
+    "words": [
+      "lime",
+      "mill",
+      "cobble",
+      "fire"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___cut",
+    "words": [
+      "short",
+      "upper",
+      "under",
+      "wood"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___birds",
+    "words": [
+      "love",
+      "humming",
+      "sea",
+      "blue"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___side",
+    "words": [
+      "water",
+      "ring",
+      "off",
+      "down"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___lands",
+    "words": [
+      "mid",
+      "high",
+      "wood",
+      "bad"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___hole",
+    "words": [
+      "man",
+      "pot",
+      "worm",
+      "arse"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___berry",
+    "words": [
+      "rasp",
+      "goose",
+      "black",
+      "straw"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___room",
+    "words": [
+      "news",
+      "rest",
+      "back",
+      "board"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___over",
+    "words": [
+      "stop",
+      "hand",
+      "spill",
+      "fly"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___time",
+    "words": [
+      "day",
+      "lunch",
+      "down",
+      "night"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___away",
+    "words": [
+      "straight",
+      "cast",
+      "hide",
+      "take"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___guard",
+    "words": [
+      "rear",
+      "van",
+      "coast",
+      "life"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___rooms",
+    "words": [
+      "class",
+      "bed",
+      "rest",
+      "bath"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___storm",
+    "words": [
+      "fire",
+      "thunder",
+      "brain",
+      "rain"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___room",
+    "words": [
+      "home",
+      "back",
       "court",
-      "farm",
-      "school",
-      "steak"
+      "chat"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___works",
+    "words": [
+      "fire",
+      "frame",
+      "art",
+      "water"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___line",
+    "words": [
+      "coast",
+      "shore",
+      "pipe",
+      "water"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___mates",
+    "words": [
+      "room",
+      "class",
+      "play",
+      "team"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ups",
+    "words": [
+      "hook",
+      "line",
+      "start",
+      "break"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___point",
+    "words": [
+      "mid",
+      "ball",
+      "end",
+      "pin"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___men",
+    "words": [
+      "crew",
+      "business",
+      "police",
+      "fresh"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___power",
+    "words": [
+      "fire",
+      "will",
+      "man",
+      "horse"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___books",
+    "words": [
+      "text",
+      "cook",
+      "year",
+      "hand"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
@@ -1355,10 +2268,32 @@
   {
     "category_name": "___mate",
     "words": [
-      "class",
-      "room",
-      "check",
-      "flat"
+      "flat",
+      "house",
+      "team",
+      "check"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___way",
+    "words": [
+      "geta",
+      "motor",
+      "fair",
+      "drive"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___board",
+    "words": [
+      "dash",
+      "card",
+      "spring",
+      "switch"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
@@ -1375,1530 +2310,12 @@
     "difficulty": "purple"
   },
   {
-    "category_name": "___wear",
+    "category_name": "___power",
     "words": [
-      "swim",
-      "foot",
-      "under",
-      "knit"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___ship",
-    "words": [
-      "steam",
-      "star",
-      "flag",
-      "chairman"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___boat",
-    "words": [
-      "motor",
-      "speed",
-      "sail",
-      "life"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___making",
-    "words": [
-      "love",
-      "wine",
-      "print",
-      "match"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___berry",
-    "words": [
-      "rasp",
-      "black",
-      "straw",
-      "blue"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___lights",
-    "words": [
-      "head",
-      "spot",
-      "sky",
-      "flash"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___side",
-    "words": [
-      "water",
-      "road",
-      "back",
-      "bed"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___case",
-    "words": [
-      "show",
-      "stair",
-      "book",
-      "brief"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___yards",
-    "words": [
-      "ship",
-      "grave",
-      "back",
-      "court"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___boy",
-    "words": [
-      "play",
-      "tom",
-      "cow",
-      "school"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___day",
-    "words": [
-      "week",
-      "pay",
-      "work",
-      "birth"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___band",
-    "words": [
-      "waist",
-      "wrist",
-      "head",
-      "arm"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___bone",
-    "words": [
-      "jaw",
-      "collar",
-      "back",
-      "wish"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___lock",
-    "words": [
-      "pad",
-      "grid",
-      "wed",
-      "air"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___berries",
-    "words": [
-      "black",
-      "blue",
-      "straw",
-      "rasp"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___dogs",
-    "words": [
-      "hot",
-      "watch",
-      "under",
-      "bull"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___writer",
-    "words": [
-      "song",
-      "screen",
-      "under",
-      "type"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___lock",
-    "words": [
-      "grid",
-      "pad",
-      "dead",
-      "air"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___room",
-    "words": [
-      "wash",
-      "rest",
-      "court",
-      "back"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___water",
-    "words": [
-      "back",
-      "waste",
-      "fresh",
-      "rain"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___side",
-    "words": [
-      "off",
-      "sea",
-      "way",
-      "lake"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___dog",
-    "words": [
-      "watch",
-      "bull",
-      "under",
-      "hot"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___off",
-    "words": [
-      "play",
-      "pay",
-      "stand",
-      "turn"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___front",
-    "words": [
-      "lake",
-      "water",
-      "sea",
-      "battle"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___ball",
-    "words": [
-      "hand",
-      "foot",
-      "soft",
-      "meat"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___craft",
-    "words": [
-      "witch",
-      "air",
-      "hover",
-      "space"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___berry",
-    "words": [
-      "blue",
-      "straw",
-      "goose",
-      "black"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___keeping",
-    "words": [
-      "peace",
-      "house",
-      "bee",
-      "book"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___off",
-    "words": [
-      "take",
-      "turn",
-      "kick",
-      "cut"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___day",
-    "words": [
-      "pay",
-      "mid",
-      "dooms",
-      "work"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___walk",
-    "words": [
-      "side",
-      "cat",
-      "board",
-      "cross"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___keeper",
-    "words": [
-      "goal",
-      "bee",
-      "gate",
-      "book"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___yards",
-    "words": [
-      "grave",
-      "vine",
-      "back",
-      "court"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___works",
-    "words": [
-      "art",
-      "fire",
-      "water",
-      "net"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___time",
-    "words": [
-      "down",
-      "peace",
-      "night",
-      "day"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___front",
-    "words": [
-      "sea",
-      "store",
-      "battle",
-      "water"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___piece",
-    "words": [
-      "mouth",
-      "time",
-      "work",
-      "master"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___boat",
-    "words": [
-      "house",
-      "sail",
-      "motor",
-      "tug"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___place",
-    "words": [
-      "common",
-      "fire",
-      "birth",
-      "market"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___houses",
-    "words": [
-      "power",
-      "light",
-      "green",
-      "ware"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___ships",
-    "words": [
-      "battle",
-      "war",
-      "air",
-      "space"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___keepers",
-    "words": [
-      "gate",
-      "bee",
-      "goal",
-      "peace"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___stones",
-    "words": [
-      "gem",
-      "head",
-      "mile",
-      "sand"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___shop",
-    "words": [
-      "sweat",
-      "book",
-      "work",
-      "barber"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___brush",
-    "words": [
-      "sage",
-      "tooth",
-      "air",
-      "paint"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___mates",
-    "words": [
-      "class",
-      "play",
-      "team",
-      "room"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___time",
-    "words": [
-      "half",
-      "play",
-      "over",
-      "spring"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___yards",
-    "words": [
-      "back",
-      "ship",
-      "vine",
-      "court"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___shot",
-    "words": [
-      "sling",
-      "hot",
-      "ear",
-      "gun"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___off",
-    "words": [
-      "turn",
-      "play",
-      "trade",
-      "cut"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___backs",
-    "words": [
-      "full",
-      "diamond",
-      "draw",
-      "quarter"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___light",
-    "words": [
-      "sun",
-      "lime",
-      "flash",
-      "star"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___nut",
-    "words": [
-      "hazel",
-      "dough",
-      "pea",
-      "chest"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___lands",
-    "words": [
-      "bad",
-      "wet",
-      "wood",
-      "home"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___away",
-    "words": [
-      "hide",
-      "stow",
-      "get",
-      "break"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___hot",
-    "words": [
-      "hots",
-      "ears",
-      "snaps",
-      "slings"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___lock",
-    "words": [
-      "pad",
-      "grid",
-      "air",
-      "dead"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___boy",
-    "words": [
-      "play",
-      "cow",
-      "tom",
-      "home"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___line",
-    "words": [
-      "sky",
-      "pipe",
-      "center",
-      "mid"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___mark",
-    "words": [
-      "trade",
-      "hall",
-      "bench",
-      "water"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___hold",
-    "words": [
-      "strangle",
-      "strong",
-      "house",
-      "lease"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___cat",
-    "words": [
-      "bob",
-      "hell",
-      "pussy",
-      "wild"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___storm",
-    "words": [
-      "rain",
-      "sand",
-      "fire",
-      "snow"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___bird",
-    "words": [
-      "black",
-      "thunder",
-      "mocking",
-      "fire"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___dog",
-    "words": [
-      "hot",
-      "watch",
-      "bull",
-      "under"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___bar",
-    "words": [
-      "crow",
-      "side",
-      "handle",
-      "cross"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___mate",
-    "words": [
-      "room",
-      "team",
-      "stale",
-      "house"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___case",
-    "words": [
-      "stair",
-      "book",
-      "lower",
-      "show"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___point",
-    "words": [
-      "gun",
-      "check",
-      "mid",
-      "end"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___weight",
-    "words": [
-      "light",
-      "cruiser",
-      "middle",
-      "feather"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___away",
-    "words": [
-      "straight",
-      "run",
-      "break",
-      "get"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___back",
-    "words": [
-      "feed",
-      "full",
+      "will",
+      "man",
       "horse",
-      "roll"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___stones",
-    "words": [
-      "sand",
-      "gem",
-      "head",
-      "mile"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___shot",
-    "words": [
-      "mug",
-      "head",
-      "gun",
-      "hot"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___house",
-    "words": [
-      "doll",
-      "farm",
-      "road",
-      "court"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___light",
-    "words": [
-      "gas",
-      "moon",
-      "spot",
-      "flash"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___board",
-    "words": [
-      "cup",
-      "back",
-      "key",
-      "score"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___back",
-    "words": [
-      "pay",
-      "paper",
-      "set",
-      "draw"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___boat",
-    "words": [
-      "house",
-      "speed",
-      "motor",
-      "steam"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___fish",
-    "words": [
-      "black",
-      "jelly",
-      "sword",
-      "star"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___boy",
-    "words": [
-      "tom",
-      "school",
-      "cow",
-      "home"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___fire",
-    "words": [
-      "wild",
-      "hell",
-      "cross",
-      "gun"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___out",
-    "words": [
-      "blow",
-      "take",
-      "wash",
-      "drop"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___top",
-    "words": [
-      "hill",
-      "backs",
-      "shorts",
-      "desk"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___mate",
-    "words": [
-      "team",
-      "flat",
-      "room",
-      "house"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___mates",
-    "words": [
-      "room",
-      "play",
-      "class",
-      "team"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___keeping",
-    "words": [
-      "book",
-      "peace",
-      "house",
-      "safe"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___ups",
-    "words": [
-      "pick",
-      "break",
-      "hook",
-      "start"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___back",
-    "words": [
-      "piggy",
-      "draw",
-      "hump",
-      "pay"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___care",
-    "words": [
-      "after",
-      "skin",
-      "health",
-      "child"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___bone",
-    "words": [
-      "jaw",
-      "wish",
-      "back",
-      "collar"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___fall",
-    "words": [
-      "short",
-      "snow",
-      "pit",
-      "land"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___lands",
-    "words": [
-      "border",
-      "bad",
-      "wet",
-      "wood"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___hip",
-    "words": [
-      "wars",
-      "battles",
-      "flags",
-      "airs"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___ships",
-    "words": [
-      "battle",
-      "war",
-      "space",
-      "air"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___box",
-    "words": [
-      "juke",
-      "match",
-      "soap",
-      "gear"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___balls",
-    "words": [
-      "meat",
-      "foot",
-      "snow",
       "fire"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___case",
-    "words": [
-      "pillow",
-      "stair",
-      "suit",
-      "show"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___lands",
-    "words": [
-      "bad",
-      "border",
-      "home",
-      "high"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___side",
-    "words": [
-      "road",
-      "off",
-      "down",
-      "hill"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___land",
-    "words": [
-      "park",
-      "heart",
-      "grass",
-      "head"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___outs",
-    "words": [
-      "hand",
-      "black",
-      "try",
-      "strike"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___house",
-    "words": [
-      "play",
-      "ware",
-      "doll",
-      "gate"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___holders",
-    "words": [
-      "stake",
-      "stock",
-      "bond",
-      "share"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___wood",
-    "words": [
-      "worm",
-      "cotton",
-      "ply",
-      "rose"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___house",
-    "words": [
-      "play",
-      "doll",
-      "fire",
-      "court"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___dogs",
-    "words": [
-      "bull",
-      "under",
-      "watch",
-      "hot"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___walk",
-    "words": [
-      "board",
-      "side",
-      "cat",
-      "cross"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___side",
-    "words": [
-      "off",
-      "water",
-      "lake",
-      "road"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___wood",
-    "words": [
-      "dead",
-      "fire",
-      "sandal",
-      "red"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___dog",
-    "words": [
-      "watch",
-      "under",
-      "hot",
-      "bull"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___pot",
-    "words": [
-      "crack",
-      "suns",
-      "tea",
-      "hots"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___head",
-    "words": [
-      "letter",
-      "flat",
-      "red",
-      "trail"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___hold",
-    "words": [
-      "strangle",
-      "house",
-      "strong",
-      "free"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___nut",
-    "words": [
-      "butter",
-      "dough",
-      "chest",
-      "hazel"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___walk",
-    "words": [
-      "cross",
-      "cat",
-      "side",
-      "board"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___holders",
-    "words": [
-      "policy",
-      "bond",
-      "house",
-      "stake"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___land",
-    "words": [
-      "waste",
-      "wet",
-      "low",
-      "dream"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___land",
-    "words": [
-      "wood",
-      "low",
-      "farm",
-      "wet"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___stone",
-    "words": [
-      "lime",
-      "touch",
-      "tomb",
-      "moon"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___stone",
-    "words": [
-      "brown",
-      "tomb",
-      "mill",
-      "lime"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___outs",
-    "words": [
-      "strike",
-      "try",
-      "black",
-      "break"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___case",
-    "words": [
-      "suit",
-      "stair",
-      "lower",
-      "pillow"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___work",
-    "words": [
-      "body",
-      "patch",
-      "field",
-      "paper"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___hold",
-    "words": [
-      "strangle",
-      "lease",
-      "strong",
-      "foot"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___hips",
-    "words": [
-      "battles",
-      "wars",
-      "spaces",
-      "airs"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___bell",
-    "words": [
-      "door",
-      "blue",
-      "dumb",
-      "bar"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___rooms",
-    "words": [
-      "show",
-      "bed",
-      "rest",
-      "class"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___dogs",
-    "words": [
-      "under",
-      "watch",
-      "bull",
-      "hot"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___makers",
-    "words": [
-      "trouble",
-      "film",
-      "law",
-      "wine"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___hot",
-    "words": [
-      "slings",
-      "guns",
-      "ears",
-      "mugs"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___point",
-    "words": [
-      "pin",
-      "stand",
-      "ball",
-      "mid"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___land",
-    "words": [
-      "heart",
-      "timber",
-      "head",
-      "father"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___yards",
-    "words": [
-      "ship",
-      "back",
-      "court",
-      "grave"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___stones",
-    "words": [
-      "mile",
-      "gem",
-      "sand",
-      "tomb"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___mate",
-    "words": [
-      "play",
-      "room",
-      "stale",
-      "class"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___stones",
-    "words": [
-      "tomb",
-      "sand",
-      "mile",
-      "head"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___care",
-    "words": [
-      "after",
-      "health",
-      "child",
-      "day"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___sets",
-    "words": [
-      "off",
-      "mind",
-      "head",
-      "hand"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
@@ -2908,1372 +2325,19 @@
     "words": [
       "wall",
       "may",
-      "wild",
-      "sun"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___box",
-    "words": [
-      "mail",
-      "match",
-      "sand",
-      "gear"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___men",
-    "words": [
-      "midship",
-      "horse",
-      "air",
-      "sports"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___bed",
-    "words": [
-      "river",
-      "flat",
-      "death",
-      "sea"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___woman",
-    "words": [
-      "business",
-      "chair",
-      "spokes",
-      "police"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___cat",
-    "words": [
-      "hell",
-      "tom",
-      "wild",
-      "pussy"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___backs",
-    "words": [
-      "draw",
-      "cut",
-      "paper",
-      "diamond"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___men",
-    "words": [
-      "lay",
-      "gentle",
-      "country",
-      "noble"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___mark",
-    "words": [
-      "land",
-      "bench",
-      "hall",
-      "book"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___making",
-    "words": [
-      "match",
-      "print",
-      "wine",
-      "love"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___man",
-    "words": [
-      "middle",
-      "ice",
-      "work",
-      "mail"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___grounds",
-    "words": [
-      "back",
-      "camp",
-      "play",
-      "battle"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___tones",
-    "words": [
-      "under",
-      "miles",
-      "heads",
-      "tombs"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___mates",
-    "words": [
-      "play",
-      "team",
-      "class",
-      "room"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___light",
-    "words": [
-      "moon",
-      "lime",
-      "gas",
-      "flash"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___front",
-    "words": [
-      "beach",
-      "store",
-      "sea",
-      "lake"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___men",
-    "words": [
-      "work",
-      "bats",
-      "marks",
-      "gun"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___maker",
-    "words": [
-      "auto",
-      "book",
-      "watch",
-      "home"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___birds",
-    "words": [
-      "blue",
-      "sea",
-      "love",
-      "humming"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___out",
-    "words": [
-      "print",
-      "lock",
-      "break",
-      "drop"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___maker",
-    "words": [
-      "watch",
-      "shoe",
-      "match",
-      "wine"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___lights",
-    "words": [
-      "high",
-      "head",
-      "sky",
-      "spot"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___mark",
-    "words": [
-      "book",
-      "hall",
-      "bench",
-      "trade"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___top",
-    "words": [
-      "hill",
-      "desk",
-      "shorts",
-      "backs"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___writer",
-    "words": [
-      "copy",
-      "under",
-      "song",
-      "screen"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___dog",
-    "words": [
-      "under",
-      "bull",
-      "hot",
-      "watch"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___ship",
-    "words": [
-      "war",
-      "star",
-      "battle",
-      "space"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___birds",
-    "words": [
-      "love",
-      "humming",
-      "blue",
-      "sea"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___stone",
-    "words": [
-      "brown",
-      "lime",
-      "tomb",
-      "head"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___over",
-    "words": [
-      "cross",
-      "stop",
-      "hang",
-      "pull"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___away",
-    "words": [
-      "hide",
-      "straight",
-      "get",
-      "take"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___stone",
-    "words": [
-      "mile",
-      "hearth",
-      "gem",
-      "lime"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___rooms",
-    "words": [
-      "rest",
-      "class",
-      "bed",
-      "bath"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___out",
-    "words": [
-      "shoot",
-      "black",
-      "lay",
-      "sell"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___fall",
-    "words": [
-      "snow",
-      "short",
-      "rain",
-      "wind"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___point",
-    "words": [
-      "stand",
-      "mid",
-      "view",
-      "ball"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___wear",
-    "words": [
-      "sports",
-      "outer",
-      "knit",
-      "swim"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___side",
-    "words": [
-      "broad",
-      "fire",
-      "road",
-      "mountain"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___time",
-    "words": [
-      "life",
-      "play",
-      "down",
-      "peace"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___hop",
-    "words": [
-      "sweats",
-      "books",
-      "works",
-      "barbers"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___balls",
-    "words": [
-      "eye",
-      "snow",
-      "fire",
-      "meat"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___sets",
-    "words": [
-      "head",
-      "off",
-      "hand",
-      "mind"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___hip",
-    "words": [
-      "battles",
-      "wars",
-      "spaces",
-      "steams"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___ways",
-    "words": [
-      "path",
-      "passage",
-      "rail",
-      "hall"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___houses",
-    "words": [
-      "ware",
-      "power",
-      "light",
-      "green"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___bell",
-    "words": [
-      "blue",
-      "door",
-      "bar",
-      "dumb"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___writer",
-    "words": [
-      "under",
-      "copy",
-      "song",
-      "type"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___out",
-    "words": [
-      "wash",
-      "hang",
-      "check",
-      "drop"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___keeping",
-    "words": [
-      "house",
-      "book",
-      "safe",
-      "bee"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___hips",
-    "words": [
-      "wars",
-      "spaces",
-      "airs",
-      "battles"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___front",
-    "words": [
-      "store",
-      "lake",
-      "sea",
-      "water"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___lights",
-    "words": [
-      "spot",
-      "flash",
-      "high",
-      "sky"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___work",
-    "words": [
-      "home",
-      "house",
-      "patch",
-      "foot"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___shot",
-    "words": [
-      "head",
-      "ear",
-      "hot",
-      "gun"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___lights",
-    "words": [
-      "spot",
-      "head",
-      "flash",
-      "high"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___down",
-    "words": [
-      "show",
-      "run",
-      "shake",
-      "break"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___hole",
-    "words": [
-      "key",
-      "arse",
-      "sink",
-      "man"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___tick",
-    "words": [
-      "candles",
-      "yards",
-      "slaps",
-      "joys"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___lands",
-    "words": [
-      "border",
-      "bad",
-      "mid",
-      "wood"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___cut",
-    "words": [
-      "under",
-      "upper",
-      "short",
-      "hair"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___lock",
-    "words": [
-      "pad",
-      "grid",
-      "dead",
-      "wed"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___line",
-    "words": [
-      "air",
-      "waist",
-      "side",
-      "guide"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___back",
-    "words": [
-      "paper",
-      "hunch",
-      "play",
-      "hatch"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___way",
-    "words": [
-      "door",
-      "race",
-      "drive",
-      "path"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___shop",
-    "words": [
-      "book",
-      "work",
-      "sweat",
-      "barber"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___land",
-    "words": [
-      "hinter",
-      "father",
-      "park",
-      "gang"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___room",
-    "words": [
-      "wash",
-      "bath",
-      "bed",
-      "dark"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___holders",
-    "words": [
-      "bond",
-      "stock",
-      "policy",
-      "house"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___boards",
-    "words": [
-      "key",
-      "floor",
-      "cup",
-      "bill"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___keeper",
-    "words": [
-      "gate",
-      "house",
-      "bee",
-      "book"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___pot",
-    "words": [
-      "jack",
-      "suns",
-      "hots",
-      "tea"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___ups",
-    "words": [
-      "pick",
-      "start",
-      "line",
-      "break"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___lands",
-    "words": [
-      "high",
-      "wood",
-      "wet",
-      "home"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___hot",
-    "words": [
-      "snaps",
-      "hots",
-      "mugs",
-      "slings"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___tick",
-    "words": [
-      "joys",
-      "slaps",
-      "lips",
-      "yards"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___line",
-    "words": [
-      "land",
-      "coast",
-      "dead",
-      "base"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___off",
-    "words": [
-      "trade",
-      "take",
-      "lay",
-      "play"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___line",
-    "words": [
-      "head",
-      "air",
-      "date",
-      "dead"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___stick",
-    "words": [
-      "slap",
-      "yard",
-      "lip",
-      "joy"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___away",
-    "words": [
-      "get",
-      "cut",
-      "straight",
-      "stow"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___sets",
-    "words": [
-      "head",
       "sun",
-      "hand",
-      "mind"
+      "wild"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___mate",
+    "category_name": "___stones",
     "words": [
-      "room",
-      "play",
-      "class",
-      "house"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___ups",
-    "words": [
-      "pick",
-      "grown",
-      "start",
-      "line"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___point",
-    "words": [
-      "check",
-      "view",
-      "pin",
-      "mid"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___wear",
-    "words": [
-      "swim",
-      "sports",
-      "outer",
-      "foot"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___ships",
-    "words": [
-      "space",
-      "battle",
-      "air",
-      "war"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___lands",
-    "words": [
-      "bad",
-      "border",
-      "home",
-      "low"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___yard",
-    "words": [
-      "church",
-      "barn",
-      "grave",
-      "school"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___ship",
-    "words": [
-      "air",
-      "star",
-      "flag",
-      "space"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___cut",
-    "words": [
-      "wood",
-      "hair",
-      "upper",
-      "under"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___tick",
-    "words": [
-      "joys",
-      "slaps",
-      "lips",
-      "candles"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___shop",
-    "words": [
-      "sweat",
-      "barber",
-      "work",
-      "book"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___lights",
-    "words": [
-      "flash",
       "head",
-      "sky",
-      "high"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___hole",
-    "words": [
-      "hell",
-      "worm",
-      "key",
-      "arse"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___stick",
-    "words": [
-      "candle",
-      "yard",
-      "slap",
-      "lip"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___book",
-    "words": [
-      "sketch",
-      "log",
-      "play",
-      "guide"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___balls",
-    "words": [
-      "snow",
-      "foot",
-      "fire",
-      "eye"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___man",
-    "words": [
-      "water",
-      "middle",
-      "police",
-      "freed"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___ups",
-    "words": [
-      "pick",
-      "start",
-      "grown",
-      "line"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___house",
-    "words": [
-      "club",
-      "road",
-      "play",
-      "farm"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___ground",
-    "words": [
-      "fore",
-      "battle",
-      "under",
-      "fair"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___tone",
-    "words": [
-      "gems",
-      "limes",
-      "cobbles",
-      "moons"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___birds",
-    "words": [
-      "sea",
-      "humming",
-      "blue",
-      "love"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___houses",
-    "words": [
-      "power",
-      "ware",
-      "light",
-      "green"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___tick",
-    "words": [
-      "lips",
-      "joys",
-      "candles",
-      "yards"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___land",
-    "words": [
-      "dream",
-      "wood",
-      "park",
-      "grass"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___woman",
-    "words": [
-      "spokes",
-      "business",
-      "police",
-      "chair"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___tick",
-    "words": [
-      "yards",
-      "slaps",
-      "lips",
-      "candles"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___wood",
-    "words": [
-      "cotton",
-      "sandal",
-      "rose",
-      "black"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___power",
-    "words": [
-      "horse",
-      "man",
-      "will",
-      "fire"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___boy",
-    "words": [
-      "tom",
-      "school",
-      "home",
-      "cow"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___ball",
-    "words": [
-      "cannon",
-      "basket",
-      "pin",
-      "net"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___keepers",
-    "words": [
-      "goal",
-      "bee",
-      "gate",
-      "shop"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___case",
-    "words": [
-      "suit",
-      "show",
-      "pillow",
-      "stair"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___makers",
-    "words": [
-      "film",
-      "book",
-      "auto",
-      "wine"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___men",
-    "words": [
-      "midship",
-      "fresh",
-      "sales",
-      "gentle"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___way",
-    "words": [
-      "walk",
-      "stair",
-      "road",
-      "express"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___yards",
-    "words": [
-      "vine",
-      "ship",
-      "court",
-      "back"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___head",
-    "words": [
-      "arrow",
-      "bulk",
-      "flat",
-      "figure"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___ball",
-    "words": [
-      "hard",
-      "odd",
-      "foot",
-      "basket"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___book",
-    "words": [
-      "log",
-      "cook",
-      "story",
-      "note"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___woman",
-    "words": [
-      "spokes",
-      "congress",
-      "police",
-      "chair"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___over",
-    "words": [
-      "stop",
-      "sleep",
-      "roll",
-      "turn"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___keeper",
-    "words": [
-      "book",
-      "bee",
-      "house",
-      "shop"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___lines",
-    "words": [
-      "coast",
-      "guide",
-      "under",
-      "head"
+      "gem",
+      "sand",
+      "tomb"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
@@ -4290,408 +2354,34 @@
     "difficulty": "purple"
   },
   {
-    "category_name": "___day",
+    "category_name": "___dog",
     "words": [
-      "birth",
-      "pay",
-      "work",
-      "week"
+      "bull",
+      "under",
+      "hot",
+      "watch"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___writer",
+    "category_name": "___dogs",
     "words": [
-      "song",
-      "copy",
-      "screen",
-      "under"
+      "under",
+      "watch",
+      "hot",
+      "bull"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___keeper",
+    "category_name": "___grounds",
     "words": [
-      "goal",
-      "bee",
-      "peace",
-      "book"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___water",
-    "words": [
-      "waste",
-      "white",
-      "fresh",
-      "black"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___mates",
-    "words": [
+      "camp",
       "play",
-      "team",
-      "room",
-      "class"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___sets",
-    "words": [
-      "sun",
-      "off",
-      "head",
-      "hand"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___stick",
-    "words": [
-      "candle",
-      "joy",
-      "slap",
-      "yard"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___bell",
-    "words": [
-      "dumb",
-      "blue",
-      "door",
-      "bar"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___holder",
-    "words": [
-      "stock",
-      "stake",
-      "house",
-      "place"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___box",
-    "words": [
-      "sand",
-      "shoe",
-      "tool",
-      "juke"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___top",
-    "words": [
-      "lap",
-      "roof",
-      "table",
-      "hill"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___berries",
-    "words": [
-      "straw",
-      "black",
-      "rasp",
-      "blue"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___way",
-    "words": [
-      "geta",
-      "mid",
-      "green",
-      "run"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___down",
-    "words": [
-      "break",
-      "knock",
-      "melt",
-      "show"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___boat",
-    "words": [
-      "speed",
-      "sail",
-      "steam",
-      "house"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___berry",
-    "words": [
-      "rasp",
-      "black",
-      "straw",
-      "blue"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___head",
-    "words": [
-      "white",
-      "red",
-      "flat",
-      "maiden"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___mates",
-    "words": [
-      "class",
-      "play",
-      "room",
-      "team"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___list",
-    "words": [
-      "check",
-      "black",
-      "short",
-      "play"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___mark",
-    "words": [
-      "trade",
-      "land",
-      "bench",
-      "water"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___boy",
-    "words": [
-      "tom",
-      "school",
-      "play",
-      "home"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___men",
-    "words": [
-      "gentle",
-      "noble",
-      "crafts",
-      "air"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___keepers",
-    "words": [
-      "shop",
-      "gate",
-      "peace",
-      "bee"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___guard",
-    "words": [
-      "coast",
-      "rear",
-      "body",
-      "life"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___yard",
-    "words": [
-      "ship",
-      "church",
-      "dock",
-      "back"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___ships",
-    "words": [
-      "war",
-      "air",
       "battle",
-      "space"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___mate",
-    "words": [
-      "play",
-      "room",
-      "check",
-      "house"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___shot",
-    "words": [
-      "gun",
-      "sling",
-      "head",
-      "ear"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___shop",
-    "words": [
-      "book",
-      "work",
-      "sweat",
-      "barber"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___yard",
-    "words": [
-      "church",
-      "school",
-      "vine",
-      "dock"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___lights",
-    "words": [
-      "sky",
-      "spot",
-      "high",
-      "flash"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___book",
-    "words": [
-      "note",
-      "guide",
-      "song",
-      "play"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___bell",
-    "words": [
-      "door",
-      "bar",
-      "blue",
-      "dumb"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___work",
-    "words": [
-      "needle",
-      "frame",
-      "course",
-      "net"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___ways",
-    "words": [
-      "passage",
-      "drive",
-      "run",
-      "walk"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___rooms",
-    "words": [
-      "class",
-      "rest",
-      "show",
-      "bath"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___set",
-    "words": [
-      "hand",
-      "off",
-      "head",
-      "sun"
+      "fair"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
@@ -4700,130 +2390,9 @@
     "category_name": "___berry",
     "words": [
       "black",
-      "blue",
+      "goose",
       "straw",
-      "goose"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___houses",
-    "words": [
-      "power",
-      "light",
-      "ware",
-      "green"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___rooms",
-    "words": [
-      "bath",
-      "bed",
-      "class",
-      "show"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___print",
-    "words": [
-      "foot",
-      "blue",
-      "finger",
-      "news"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___works",
-    "words": [
-      "water",
-      "fire",
-      "art",
-      "frame"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___shot",
-    "words": [
-      "snap",
-      "gun",
-      "head",
-      "mug"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___power",
-    "words": [
-      "man",
-      "will",
-      "fire",
-      "horse"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___weight",
-    "words": [
-      "middle",
-      "feather",
-      "light",
-      "welter"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___way",
-    "words": [
-      "head",
-      "express",
-      "park",
-      "run"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___list",
-    "words": [
-      "short",
-      "check",
-      "play",
-      "black"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___man",
-    "words": [
-      "cave",
-      "gun",
-      "milk",
-      "freed"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___work",
-    "words": [
-      "fire",
-      "art",
-      "patch",
-      "stone"
+      "blue"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
@@ -4831,175 +2400,98 @@
   {
     "category_name": "___front",
     "words": [
-      "sea",
       "battle",
+      "lake",
       "water",
-      "lake"
+      "store"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___houses",
+    "category_name": "___line",
     "words": [
-      "light",
-      "ware",
-      "green",
-      "power"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___nut",
-    "words": [
-      "hazel",
-      "butter",
-      "chest",
-      "coco"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___print",
-    "words": [
-      "news",
-      "foot",
-      "blue",
-      "finger"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___hole",
-    "words": [
-      "hell",
-      "sink",
-      "key",
-      "ass"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___bone",
-    "words": [
-      "collar",
-      "jaw",
-      "back",
-      "wish"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___ups",
-    "words": [
-      "line",
-      "grown",
-      "hook",
-      "pick"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___fall",
-    "words": [
-      "land",
-      "wind",
-      "night",
-      "short"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___craft",
-    "words": [
+      "head",
       "air",
-      "hover",
-      "space",
-      "witch"
+      "life",
+      "story"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___house",
+    "category_name": "___top",
     "words": [
-      "guest",
-      "doll",
-      "road",
-      "club"
+      "shorts",
+      "desk",
+      "hill",
+      "table"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___birds",
+    "category_name": "___stones",
     "words": [
-      "humming",
-      "sea",
-      "blue",
-      "love"
+      "gem",
+      "mile",
+      "tomb",
+      "head"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___down",
+    "category_name": "___water",
     "words": [
-      "slow",
-      "let",
-      "take",
-      "count"
+      "white",
+      "rain",
+      "salt",
+      "fresh"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___land",
+    "category_name": "___men",
     "words": [
-      "mother",
-      "gang",
-      "park",
-      "wonder"
+      "middle",
+      "country",
+      "fisher",
+      "midship"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___marks",
+    "category_name": "___case",
     "words": [
-      "hall",
-      "bench",
-      "trade",
-      "book"
+      "book",
+      "stair",
+      "show",
+      "pillow"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___keeper",
+    "category_name": "___flower",
     "words": [
-      "gate",
-      "shop",
-      "bee",
-      "goal"
+      "sun",
+      "may",
+      "wild",
+      "wall"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___yard",
+    "category_name": "___stone",
     "words": [
-      "school",
-      "back",
-      "church",
-      "junk"
+      "touch",
+      "hearth",
+      "tomb",
+      "sand"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
@@ -5007,65 +2499,87 @@
   {
     "category_name": "___mark",
     "words": [
+      "bench",
+      "hall",
       "land",
-      "trade",
-      "water",
-      "hall"
+      "book"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___tick",
+    "category_name": "___box",
     "words": [
-      "yards",
-      "joys",
-      "candles",
-      "lips"
+      "shoe",
+      "soap",
+      "mail",
+      "tool"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___ship",
+    "category_name": "___men",
     "words": [
-      "star",
+      "trades",
+      "sea",
+      "midship",
+      "tribes"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___yards",
+    "words": [
+      "back",
+      "ship",
+      "court",
+      "grave"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___dlock",
+    "words": [
+      "pa",
+      "dea",
+      "gri",
+      "we"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___master",
+    "words": [
+      "grand",
+      "school",
+      "quarter",
+      "post"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ball",
+    "words": [
+      "foot",
+      "pin",
+      "paint",
+      "soft"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___brush",
+    "words": [
+      "tooth",
       "air",
-      "chairman",
-      "war"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___book",
-    "words": [
-      "story",
-      "year",
-      "text",
-      "hand"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___works",
-    "words": [
-      "water",
-      "net",
-      "frame",
-      "art"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___holders",
-    "words": [
-      "stock",
-      "share",
-      "stake",
-      "bond"
+      "sage",
+      "paint"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
@@ -5074,20 +2588,20 @@
     "category_name": "___fish",
     "words": [
       "cuttle",
-      "sword",
-      "black",
-      "cat"
+      "star",
+      "white",
+      "sword"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___stone",
+    "category_name": "___craft",
     "words": [
-      "gem",
-      "sand",
-      "cap",
-      "fire"
+      "witch",
+      "air",
+      "space",
+      "water"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
@@ -5095,241 +2609,21 @@
   {
     "category_name": "___berry",
     "words": [
-      "rasp",
-      "goose",
+      "straw",
       "black",
-      "straw"
+      "rasp",
+      "goose"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___writer",
+    "category_name": "___front",
     "words": [
-      "screen",
-      "under",
-      "copy",
-      "song"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___hop",
-    "words": [
-      "barbers",
-      "works",
-      "sweats",
-      "books"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___marks",
-    "words": [
-      "bench",
-      "trade",
-      "hall",
-      "land"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___work",
-    "words": [
-      "fire",
-      "frame",
-      "stone",
-      "home"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___woman",
-    "words": [
-      "chair",
-      "business",
-      "congress",
-      "police"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___work",
-    "words": [
-      "school",
-      "fire",
-      "field",
-      "brick"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___man",
-    "words": [
-      "patrol",
-      "handy",
-      "country",
-      "pit"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___day",
-    "words": [
-      "mid",
-      "week",
-      "birth",
-      "pay"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___brush",
-    "words": [
-      "air",
-      "tooth",
-      "paint",
-      "sage"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___guard",
-    "words": [
-      "coast",
-      "van",
-      "body",
-      "safe"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___outs",
-    "words": [
-      "try",
-      "hang",
-      "hand",
-      "black"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___holder",
-    "words": [
-      "stake",
-      "place",
-      "share",
-      "stock"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___wear",
-    "words": [
-      "foot",
-      "swim",
-      "knit",
-      "outer"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___fall",
-    "words": [
-      "night",
-      "rain",
-      "snow",
-      "water"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___bar",
-    "words": [
-      "cross",
-      "handle",
-      "crow",
-      "side"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___hop",
-    "words": [
-      "books",
-      "sweats",
-      "works",
-      "barbers"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___marks",
-    "words": [
-      "trade",
-      "land",
-      "book",
-      "hall"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___ware",
-    "words": [
-      "cook",
-      "table",
-      "hard",
-      "spy"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___master",
-    "words": [
-      "school",
-      "post",
-      "quarter",
-      "head"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___bed",
-    "words": [
-      "river",
-      "death",
-      "hot",
-      "flat"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___tones",
-    "words": [
-      "sands",
-      "over",
-      "gems",
-      "heads"
+      "sea",
+      "beach",
+      "lake",
+      "store"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
@@ -5346,78 +2640,23 @@
     "difficulty": "purple"
   },
   {
-    "category_name": "___boat",
+    "category_name": "___ships",
     "words": [
-      "speed",
-      "steam",
-      "motor",
-      "life"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___grounds",
-    "words": [
-      "play",
-      "fair",
       "battle",
-      "back"
+      "space",
+      "air",
+      "war"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___top",
+    "category_name": "___holders",
     "words": [
-      "backs",
-      "shorts",
-      "table",
-      "desk"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___bird",
-    "words": [
-      "lady",
-      "thunder",
-      "fire",
-      "mocking"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___mates",
-    "words": [
-      "room",
-      "team",
-      "play",
-      "class"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___point",
-    "words": [
-      "stand",
-      "view",
-      "flash",
-      "pin"
-    ],
-    "category_type": "fill_blank",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "___side",
-    "words": [
-      "mountain",
-      "way",
-      "country",
-      "hill"
+      "bond",
+      "stake",
+      "share",
+      "house"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
@@ -5434,56 +2673,100 @@
     "difficulty": "purple"
   },
   {
-    "category_name": "___side",
+    "category_name": "___front",
     "words": [
-      "sea",
-      "hill",
-      "fire",
-      "ring"
+      "beach",
+      "battle",
+      "store",
+      "sea"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___back",
+    "category_name": "___line",
     "words": [
-      "kick",
-      "green",
-      "buy",
-      "hatch"
+      "shore",
+      "center",
+      "coast",
+      "time"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___hole",
+    "category_name": "___time",
     "words": [
-      "arse",
-      "key",
-      "worm",
-      "sink"
+      "over",
+      "bed",
+      "rag",
+      "show"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___out",
+    "category_name": "___berries",
     "words": [
-      "sell",
-      "knock",
-      "take",
-      "cut"
+      "blue",
+      "black",
+      "rasp",
+      "straw"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
   },
   {
-    "category_name": "___guard",
+    "category_name": "___holder",
     "words": [
-      "body",
-      "rear",
-      "life",
-      "coast"
+      "share",
+      "place",
+      "house",
+      "stock"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___flower",
+    "words": [
+      "may",
+      "wall",
+      "wild",
+      "sun"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___stick",
+    "words": [
+      "candle",
+      "joy",
+      "lip",
+      "yard"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___mark",
+    "words": [
+      "water",
+      "land",
+      "bench",
+      "book"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___stick",
+    "words": [
+      "yard",
+      "slap",
+      "joy",
+      "lip"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
@@ -5491,10 +2774,2727 @@
   {
     "category_name": "___power",
     "words": [
-      "will",
       "fire",
       "horse",
+      "will",
       "man"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___marks",
+    "words": [
+      "land",
+      "book",
+      "bench",
+      "hall"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___hold",
+    "words": [
+      "lease",
+      "strong",
+      "house",
+      "free"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ups",
+    "words": [
+      "break",
+      "grown",
+      "hook",
+      "start"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___land",
+    "words": [
+      "farm",
+      "moor",
+      "main",
+      "low"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___boat",
+    "words": [
+      "speed",
+      "life",
+      "tug",
+      "steam"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___yard",
+    "words": [
+      "court",
+      "church",
+      "grave",
+      "vine"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___backs",
+    "words": [
+      "flash",
+      "draw",
+      "cut",
+      "full"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___band",
+    "words": [
+      "head",
+      "arm",
+      "wrist",
+      "waist"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ups",
+    "words": [
+      "grown",
+      "break",
+      "hook",
+      "line"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___boat",
+    "words": [
+      "house",
+      "life",
+      "sail",
+      "motor"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___stick",
+    "words": [
+      "lip",
+      "joy",
+      "slap",
+      "candle"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___keepers",
+    "words": [
+      "goal",
+      "bee",
+      "shop",
+      "gate"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___master",
+    "words": [
+      "post",
+      "grand",
+      "head",
+      "school"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___pot",
+    "words": [
+      "jack",
+      "crack",
+      "tea",
+      "suns"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ways",
+    "words": [
+      "drive",
+      "run",
+      "motor",
+      "free"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___stone",
+    "words": [
+      "sand",
+      "lime",
+      "cobble",
+      "cap"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___day",
+    "words": [
+      "week",
+      "work",
+      "pay",
+      "birth"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___cat",
+    "words": [
+      "pussy",
+      "copy",
+      "tom",
+      "wild"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___case",
+    "words": [
+      "show",
+      "stair",
+      "suit",
+      "book"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ball",
+    "words": [
+      "basket",
+      "net",
+      "hand",
+      "pin"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___mark",
+    "words": [
+      "land",
+      "bench",
+      "water",
+      "trade"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___yards",
+    "words": [
+      "vine",
+      "court",
+      "back",
+      "ship"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___stone",
+    "words": [
+      "mile",
+      "tomb",
+      "mill",
+      "sand"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___guard",
+    "words": [
+      "rear",
+      "life",
+      "body",
+      "safe"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___boat",
+    "words": [
+      "motor",
+      "house",
+      "life",
+      "sail"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___mate",
+    "words": [
+      "class",
+      "house",
+      "flat",
+      "team"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___balls",
+    "words": [
+      "eye",
+      "foot",
+      "meat",
+      "fire"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ball",
+    "words": [
+      "fast",
+      "fire",
+      "paint",
+      "basket"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___woman",
+    "words": [
+      "congress",
+      "chair",
+      "spokes",
+      "police"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___keepers",
+    "words": [
+      "gate",
+      "bee",
+      "goal",
+      "peace"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ships",
+    "words": [
+      "battle",
+      "space",
+      "air",
+      "war"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___boy",
+    "words": [
+      "school",
+      "cow",
+      "tom",
+      "play"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ware",
+    "words": [
+      "spy",
+      "firm",
+      "silver",
+      "table"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___houses",
+    "words": [
+      "power",
+      "green",
+      "ware",
+      "light"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___print",
+    "words": [
+      "finger",
+      "foot",
+      "blue",
+      "news"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___over",
+    "words": [
+      "left",
+      "stop",
+      "pull",
+      "spill"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___bell",
+    "words": [
+      "door",
+      "bar",
+      "dumb",
+      "blue"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___men",
+    "words": [
+      "marks",
+      "watch",
+      "clergy",
+      "crafts"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___fish",
+    "words": [
+      "sword",
+      "cat",
+      "cuttle",
+      "white"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___down",
+    "words": [
+      "touch",
+      "sun",
+      "break",
+      "show"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___yards",
+    "words": [
+      "back",
+      "ship",
+      "grave",
+      "court"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___dogs",
+    "words": [
+      "under",
+      "bull",
+      "hot",
+      "watch"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___land",
+    "words": [
+      "south",
+      "father",
+      "park",
+      "heart"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___house",
+    "words": [
+      "school",
+      "guest",
+      "coffee",
+      "power"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___light",
+    "words": [
+      "sun",
+      "candle",
+      "moon",
+      "lime"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___maker",
+    "words": [
+      "wine",
+      "play",
+      "peace",
+      "match"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___brush",
+    "words": [
+      "air",
+      "tooth",
+      "paint",
+      "sage"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___keepers",
+    "words": [
+      "goal",
+      "shop",
+      "bee",
+      "gate"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___fish",
+    "words": [
+      "cuttle",
+      "star",
+      "cat",
+      "black"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___time",
+    "words": [
+      "life",
+      "war",
+      "peace",
+      "half"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___makers",
+    "words": [
+      "trouble",
+      "book",
+      "wine",
+      "law"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___bed",
+    "words": [
+      "hot",
+      "flat",
+      "river",
+      "sea"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___yards",
+    "words": [
+      "vine",
+      "back",
+      "grave",
+      "court"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___birds",
+    "words": [
+      "sea",
+      "love",
+      "humming",
+      "blue"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___bone",
+    "words": [
+      "jaw",
+      "back",
+      "wish",
+      "collar"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___keeper",
+    "words": [
+      "shop",
+      "peace",
+      "house",
+      "gate"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___lands",
+    "words": [
+      "home",
+      "grass",
+      "high",
+      "mid"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___shop",
+    "words": [
+      "work",
+      "sweat",
+      "book",
+      "barber"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___board",
+    "words": [
+      "score",
+      "cup",
+      "surf",
+      "head"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___bell",
+    "words": [
+      "bar",
+      "dumb",
+      "door",
+      "blue"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ships",
+    "words": [
+      "space",
+      "battle",
+      "air",
+      "war"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___dog",
+    "words": [
+      "watch",
+      "under",
+      "bull",
+      "hot"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___out",
+    "words": [
+      "take",
+      "blow",
+      "lay",
+      "buy"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___cat",
+    "words": [
+      "wild",
+      "hell",
+      "bob",
+      "tom"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___box",
+    "words": [
+      "sand",
+      "mail",
+      "soap",
+      "match"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___boat",
+    "words": [
+      "life",
+      "speed",
+      "house",
+      "steam"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___weight",
+    "words": [
+      "feather",
+      "over",
+      "heavy",
+      "light"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___land",
+    "words": [
+      "moor",
+      "head",
+      "gang",
+      "farm"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___men",
+    "words": [
+      "line",
+      "police",
+      "mad",
+      "sports"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___mates",
+    "words": [
+      "room",
+      "play",
+      "class",
+      "team"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___lines",
+    "words": [
+      "head",
+      "air",
+      "guide",
+      "under"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ups",
+    "words": [
+      "hook",
+      "line",
+      "start",
+      "break"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___stone",
+    "words": [
+      "grave",
+      "cobble",
+      "key",
+      "mill"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ship",
+    "words": [
+      "chairman",
+      "air",
+      "showman",
+      "battle"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___storm",
+    "words": [
+      "sand",
+      "fire",
+      "snow",
+      "brain"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___keepers",
+    "words": [
+      "gate",
+      "shop",
+      "bee",
+      "peace"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___makers",
+    "words": [
+      "law",
+      "auto",
+      "film",
+      "trouble"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___grounds",
+    "words": [
+      "fair",
+      "battle",
+      "back",
+      "camp"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___cat",
+    "words": [
+      "tom",
+      "hell",
+      "pussy",
+      "bob"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ships",
+    "words": [
+      "war",
+      "space",
+      "air",
+      "battle"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___craft",
+    "words": [
+      "space",
+      "hover",
+      "witch",
+      "water"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___bar",
+    "words": [
+      "side",
+      "crow",
+      "cross",
+      "handle"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ware",
+    "words": [
+      "cook",
+      "glass",
+      "free",
+      "soft"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___storm",
+    "words": [
+      "snow",
+      "thunder",
+      "sand",
+      "fire"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___point",
+    "words": [
+      "pin",
+      "flash",
+      "end",
+      "check"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___wear",
+    "words": [
+      "foot",
+      "swim",
+      "outer",
+      "under"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___down",
+    "words": [
+      "shake",
+      "break",
+      "sun",
+      "shut"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___over",
+    "words": [
+      "push",
+      "change",
+      "sleep",
+      "roll"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___away",
+    "words": [
+      "give",
+      "stow",
+      "throw",
+      "run"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___shot",
+    "words": [
+      "gun",
+      "sling",
+      "head",
+      "hot"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___tones",
+    "words": [
+      "tombs",
+      "sands",
+      "over",
+      "gems"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___flower",
+    "words": [
+      "wall",
+      "wild",
+      "may",
+      "sun"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___making",
+    "words": [
+      "match",
+      "wine",
+      "love",
+      "print"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___lines",
+    "words": [
+      "blood",
+      "guide",
+      "coast",
+      "dead"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___hole",
+    "words": [
+      "hell",
+      "worm",
+      "pot",
+      "man"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___cut",
+    "words": [
+      "under",
+      "upper",
+      "hair",
+      "short"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___bell",
+    "words": [
+      "blue",
+      "dumb",
+      "door",
+      "bar"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___top",
+    "words": [
+      "lap",
+      "desk",
+      "shorts",
+      "hill"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___storm",
+    "words": [
+      "brain",
+      "fire",
+      "thunder",
+      "snow"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___dog",
+    "words": [
+      "hot",
+      "under",
+      "bull",
+      "watch"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___work",
+    "words": [
+      "course",
+      "over",
+      "brick",
+      "ground"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___front",
+    "words": [
+      "water",
+      "lake",
+      "beach",
+      "sea"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___stick",
+    "words": [
+      "candle",
+      "joy",
+      "lip",
+      "yard"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___holders",
+    "words": [
+      "house",
+      "stock",
+      "policy",
+      "share"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___brush",
+    "words": [
+      "paint",
+      "sage",
+      "tooth",
+      "air"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___grounds",
+    "words": [
+      "camp",
+      "battle",
+      "back",
+      "fair"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___land",
+    "words": [
+      "waste",
+      "home",
+      "farm",
+      "wonder"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___lights",
+    "words": [
+      "sky",
+      "spot",
+      "high",
+      "flash"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ship",
+    "words": [
+      "star",
+      "flag",
+      "steam",
+      "air"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___hold",
+    "words": [
+      "strong",
+      "lease",
+      "foot",
+      "strangle"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___bird",
+    "words": [
+      "humming",
+      "song",
+      "black",
+      "mocking"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___screen",
+    "words": [
+      "wind",
+      "touch",
+      "smoke",
+      "sun"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___list",
+    "words": [
+      "play",
+      "short",
+      "check",
+      "black"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___fish",
+    "words": [
+      "gold",
+      "black",
+      "shell",
+      "white"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___fish",
+    "words": [
+      "black",
+      "sword",
+      "craw",
+      "gold"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___wood",
+    "words": [
+      "dog",
+      "sandal",
+      "dead",
+      "fire"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ships",
+    "words": [
+      "air",
+      "space",
+      "war",
+      "battle"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___shop",
+    "words": [
+      "barber",
+      "sweat",
+      "work",
+      "book"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___lock",
+    "words": [
+      "wed",
+      "pad",
+      "dead",
+      "air"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___birds",
+    "words": [
+      "humming",
+      "blue",
+      "sea",
+      "love"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___berries",
+    "words": [
+      "straw",
+      "black",
+      "rasp",
+      "blue"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___men",
+    "words": [
+      "middle",
+      "chair",
+      "gun",
+      "trades"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ships",
+    "words": [
+      "war",
+      "battle",
+      "space",
+      "air"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___print",
+    "words": [
+      "foot",
+      "finger",
+      "news",
+      "blue"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___piece",
+    "words": [
+      "work",
+      "centre",
+      "center",
+      "mouth"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ups",
+    "words": [
+      "pick",
+      "grown",
+      "line",
+      "start"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ways",
+    "words": [
+      "hall",
+      "road",
+      "walk",
+      "free"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ships",
+    "words": [
+      "space",
+      "battle",
+      "war",
+      "air"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___time",
+    "words": [
+      "down",
+      "lunch",
+      "spring",
+      "war"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___berry",
+    "words": [
+      "black",
+      "straw",
+      "goose",
+      "blue"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___master",
+    "words": [
+      "quarter",
+      "grand",
+      "post",
+      "school"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___heads",
+    "words": [
+      "skin",
+      "bulk",
+      "red",
+      "over"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___fish",
+    "words": [
+      "star",
+      "cat",
+      "sword",
+      "black"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___room",
+    "words": [
+      "bed",
+      "back",
+      "bath",
+      "ball"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___keepers",
+    "words": [
+      "gate",
+      "bee",
+      "peace",
+      "shop"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___dogs",
+    "words": [
+      "bull",
+      "under",
+      "hot",
+      "watch"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___shop",
+    "words": [
+      "book",
+      "barber",
+      "work",
+      "sweat"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___works",
+    "words": [
+      "fire",
+      "art",
+      "water",
+      "net"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___wear",
+    "words": [
+      "foot",
+      "outer",
+      "knit",
+      "sports"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___bone",
+    "words": [
+      "collar",
+      "jaw",
+      "wish",
+      "back"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ships",
+    "words": [
+      "war",
+      "battle",
+      "air",
+      "space"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ways",
+    "words": [
+      "door",
+      "fair",
+      "motor",
+      "passage"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___fall",
+    "words": [
+      "down",
+      "snow",
+      "short",
+      "rain"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___room",
+    "words": [
+      "wash",
+      "class",
+      "head",
+      "dark"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___board",
+    "words": [
+      "chalk",
+      "head",
+      "surf",
+      "back"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___sets",
+    "words": [
+      "mind",
+      "head",
+      "hand",
+      "off"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___house",
+    "words": [
+      "road",
+      "store",
+      "boat",
+      "steak"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___guard",
+    "words": [
+      "van",
+      "safe",
+      "body",
+      "rear"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___shot",
+    "words": [
+      "head",
+      "sling",
+      "gun",
+      "mug"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___outs",
+    "words": [
+      "strike",
+      "cut",
+      "black",
+      "hand"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___bar",
+    "words": [
+      "handle",
+      "cross",
+      "crow",
+      "side"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___mark",
+    "words": [
+      "bench",
+      "water",
+      "hall",
+      "land"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___tones",
+    "words": [
+      "gems",
+      "heads",
+      "under",
+      "over"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ship",
+    "words": [
+      "chairman",
+      "air",
+      "flag",
+      "star"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___away",
+    "words": [
+      "break",
+      "get",
+      "stow",
+      "straight"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___shot",
+    "words": [
+      "ear",
+      "hot",
+      "gun",
+      "head"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ship",
+    "words": [
+      "showman",
+      "space",
+      "steam",
+      "battle"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___sets",
+    "words": [
+      "off",
+      "head",
+      "hand",
+      "mind"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___shot",
+    "words": [
+      "hot",
+      "ear",
+      "gun",
+      "mug"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___set",
+    "words": [
+      "mind",
+      "sun",
+      "hand",
+      "off"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___holders",
+    "words": [
+      "stock",
+      "house",
+      "bond",
+      "policy"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___grounds",
+    "words": [
+      "play",
+      "camp",
+      "fair",
+      "battle"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___backs",
+    "words": [
+      "diamond",
+      "paper",
+      "quarter",
+      "flash"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___off",
+    "words": [
+      "lay",
+      "play",
+      "hand",
+      "pay"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___print",
+    "words": [
+      "finger",
+      "foot",
+      "blue",
+      "news"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___rooms",
+    "words": [
+      "bath",
+      "bed",
+      "show",
+      "rest"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___wear",
+    "words": [
+      "under",
+      "knit",
+      "swim",
+      "outer"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___book",
+    "words": [
+      "pocket",
+      "note",
+      "story",
+      "cook"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___bird",
+    "words": [
+      "black",
+      "lady",
+      "blue",
+      "thunder"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ship",
+    "words": [
+      "flag",
+      "war",
+      "steam",
+      "battle"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___wear",
+    "words": [
+      "sports",
+      "under",
+      "knit",
+      "outer"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___flower",
+    "words": [
+      "wall",
+      "sun",
+      "wild",
+      "may"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___sets",
+    "words": [
+      "head",
+      "mind",
+      "sun",
+      "off"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___sets",
+    "words": [
+      "sun",
+      "mind",
+      "off",
+      "hand"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___walk",
+    "words": [
+      "cross",
+      "side",
+      "cat",
+      "board"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ground",
+    "words": [
+      "camp",
+      "under",
+      "play",
+      "battle"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___shop",
+    "words": [
+      "work",
+      "book",
+      "sweat",
+      "barber"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___grounds",
+    "words": [
+      "camp",
+      "back",
+      "fair",
+      "battle"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___set",
+    "words": [
+      "sun",
+      "head",
+      "hand",
+      "off"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___place",
+    "words": [
+      "work",
+      "birth",
+      "common",
+      "fire"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___bird",
+    "words": [
+      "song",
+      "black",
+      "humming",
+      "mocking"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___book",
+    "words": [
+      "note",
+      "song",
+      "year",
+      "guide"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___fire",
+    "words": [
+      "gun",
+      "hell",
+      "back",
+      "cross"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___stone",
+    "words": [
+      "cobble",
+      "cap",
+      "head",
+      "grave"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___shop",
+    "words": [
+      "work",
+      "sweat",
+      "barber",
+      "book"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___nut",
+    "words": [
+      "dough",
+      "chest",
+      "pea",
+      "coco"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ships",
+    "words": [
+      "air",
+      "battle",
+      "war",
+      "space"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___holder",
+    "words": [
+      "stake",
+      "stock",
+      "house",
+      "place"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___stone",
+    "words": [
+      "lime",
+      "head",
+      "touch",
+      "mile"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___bell",
+    "words": [
+      "door",
+      "dumb",
+      "bar",
+      "blue"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___hold",
+    "words": [
+      "strong",
+      "lease",
+      "house",
+      "free"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___works",
+    "words": [
+      "net",
+      "fire",
+      "water",
+      "frame"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___heads",
+    "words": [
+      "skin",
+      "war",
+      "red",
+      "bulk"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ship",
+    "words": [
+      "steam",
+      "flag",
+      "space",
+      "battle"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___boards",
+    "words": [
+      "floor",
+      "bill",
+      "key",
+      "cup"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___man",
+    "words": [
+      "chap",
+      "bow",
+      "free",
+      "repair"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___master",
+    "words": [
+      "post",
+      "school",
+      "head",
+      "quarter"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___shot",
+    "words": [
+      "head",
+      "snap",
+      "hot",
+      "mug"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___making",
+    "words": [
+      "match",
+      "print",
+      "wine",
+      "love"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___off",
+    "words": [
+      "turn",
+      "trade",
+      "hand",
+      "play"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___nut",
+    "words": [
+      "dough",
+      "chest",
+      "pea",
+      "hazel"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___board",
+    "words": [
+      "chalk",
+      "clip",
+      "side",
+      "cup"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___stick",
+    "words": [
+      "lip",
+      "joy",
+      "slap",
+      "candle"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___dogs",
+    "words": [
+      "hot",
+      "under",
+      "bull",
+      "watch"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ware",
+    "words": [
+      "table",
+      "hard",
+      "firm",
+      "spy"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___shot",
+    "words": [
+      "head",
+      "ear",
+      "hot",
+      "sling"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___wood",
+    "words": [
+      "red",
+      "sandal",
+      "dog",
+      "green"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___board",
+    "words": [
+      "sea",
+      "back",
+      "card",
+      "key"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___off",
+    "words": [
+      "lay",
+      "cut",
+      "turn",
+      "pay"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___hole",
+    "words": [
+      "pot",
+      "key",
+      "sink",
+      "loop"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___pot",
+    "words": [
+      "jack",
+      "suns",
+      "crack",
+      "tea"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___nut",
+    "words": [
+      "butter",
+      "coco",
+      "pea",
+      "chest"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___board",
+    "words": [
+      "head",
+      "spring",
+      "back",
+      "sea"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___mark",
+    "words": [
+      "book",
+      "hall",
+      "water",
+      "trade"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___lock",
+    "words": [
+      "air",
+      "pad",
+      "dead",
+      "wed"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___boy",
+    "words": [
+      "play",
+      "tom",
+      "home",
+      "school"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___flower",
+    "words": [
+      "sun",
+      "wild",
+      "may",
+      "wall"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___tones",
+    "words": [
+      "miles",
+      "heads",
+      "under",
+      "over"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___yards",
+    "words": [
+      "ship",
+      "grave",
+      "court",
+      "vine"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___writer",
+    "words": [
+      "type",
+      "screen",
+      "copy",
+      "song"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___wear",
+    "words": [
+      "under",
+      "knit",
+      "swim",
+      "sports"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___berry",
+    "words": [
+      "rasp",
+      "black",
+      "straw",
+      "goose"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___marks",
+    "words": [
+      "trade",
+      "book",
+      "land",
+      "bench"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___keeper",
+    "words": [
+      "goal",
+      "book",
+      "peace",
+      "bee"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___yard",
+    "words": [
+      "ship",
+      "grave",
+      "junk",
+      "court"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ware",
+    "words": [
+      "hard",
+      "table",
+      "earthen",
+      "spy"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ways",
+    "words": [
+      "water",
+      "fair",
+      "high",
+      "run"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___writer",
+    "words": [
+      "copy",
+      "song",
+      "type",
+      "screen"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___yard",
+    "words": [
+      "school",
+      "vine",
+      "ship",
+      "grave"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___craft",
+    "words": [
+      "hover",
+      "water",
+      "witch",
+      "space"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___box",
+    "words": [
+      "mail",
+      "soap",
+      "sand",
+      "juke"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___holder",
+    "words": [
+      "share",
+      "house",
+      "stake",
+      "stock"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ship",
+    "words": [
+      "war",
+      "battle",
+      "flag",
+      "steam"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___land",
+    "words": [
+      "father",
+      "heart",
+      "wet",
+      "waste"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___grounds",
+    "words": [
+      "battle",
+      "back",
+      "camp",
+      "play"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___keepers",
+    "words": [
+      "bee",
+      "peace",
+      "gate",
+      "shop"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___mate",
+    "words": [
+      "house",
+      "play",
+      "flat",
+      "team"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___set",
+    "words": [
+      "mind",
+      "sun",
+      "head",
+      "hand"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___stone",
+    "words": [
+      "corner",
+      "grave",
+      "brown",
+      "mile"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___making",
+    "words": [
+      "love",
+      "match",
+      "wine",
+      "print"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___craft",
+    "words": [
+      "witch",
+      "hover",
+      "air",
+      "water"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___line",
+    "words": [
+      "blood",
+      "border",
+      "sky",
+      "pipe"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___ships",
+    "words": [
+      "space",
+      "battle",
+      "war",
+      "air"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___mates",
+    "words": [
+      "class",
+      "play",
+      "room",
+      "team"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___mates",
+    "words": [
+      "team",
+      "play",
+      "class",
+      "room"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___grounds",
+    "words": [
+      "back",
+      "camp",
+      "fair",
+      "play"
+    ],
+    "category_type": "fill_blank",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "___house",
+    "words": [
+      "club",
+      "guest",
+      "store",
+      "slaughter"
     ],
     "category_type": "fill_blank",
     "difficulty": "purple"
