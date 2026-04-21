@@ -1,26 +1,35 @@
 import { useState } from "react";
+import boards from "./boards.json";
 
-const initialTiles = [
-  { id: 1, word: "YELLOW", group: "yellow", selected: false, solved: false },
-  { id: 2, word: "YELLOW", group: "yellow", selected: false, solved: false },
-  { id: 3, word: "YELLOW", group: "yellow", selected: false, solved: false },
-  { id: 4, word: "YELLOW", group: "yellow", selected: false, solved: false },
+function shuffleArray(array) {
+  const copy = [...array];
 
-  { id: 5, word: "GREEN", group: "green", selected: false, solved: false },
-  { id: 6, word: "GREEN", group: "green", selected: false, solved: false },
-  { id: 7, word: "GREEN", group: "green", selected: false, solved: false },
-  { id: 8, word: "GREEN", group: "green", selected: false, solved: false },
+  for (let i = copy.length - 1; i > 0; i -= 1) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [copy[i], copy[j]] = [copy[j], copy[i]];
+  }
 
-  { id: 9, word: "BLUE", group: "blue", selected: false, solved: false },
-  { id: 10, word: "BLUE", group: "blue", selected: false, solved: false },
-  { id: 11, word: "BLUE", group: "blue", selected: false, solved: false },
-  { id: 12, word: "BLUE", group: "blue", selected: false, solved: false },
+  return copy;
+}
 
-  { id: 13, word: "PURPLE", group: "purple", selected: false, solved: false },
-  { id: 14, word: "PURPLE", group: "purple", selected: false, solved: false },
-  { id: 15, word: "PURPLE", group: "purple", selected: false, solved: false },
-  { id: 16, word: "PURPLE", group: "purple", selected: false, solved: false },
-];
+function buildTilesFromBoard(boardIndex) {
+  const board = boards[boardIndex];
+
+  return shuffleArray(
+    board.flatMap((category, categoryIndex) =>
+      category.words.map((word, wordIndex) => ({
+        id: `${boardIndex}-${categoryIndex}-${wordIndex}`,
+        word,
+        group: `group-${categoryIndex}`,
+        bandColor: category.difficulty,
+        selected: false,
+        solved: false,
+        categoryName: category.category_name,
+        categoryType: category.category_type,
+      }))
+    )
+  );
+}
 
 function HomeScreen({ onPlay }) {
   return (
@@ -192,7 +201,7 @@ function HomeScreen({ onPlay }) {
                 color: "black",
               }}
             >
-              Bayesian Machine Learning
+              Probabilistic Machine Learning
             </div>
 
             <div
@@ -214,27 +223,6 @@ function HomeScreen({ onPlay }) {
 }
 
 function BlankScreen() {
-  const initialTiles = [
-    { id: 1, word: "YELLOW", group: "yellow", selected: false, solved: false },
-    { id: 2, word: "YELLOW", group: "yellow", selected: false, solved: false },
-    { id: 3, word: "YELLOW", group: "yellow", selected: false, solved: false },
-    { id: 4, word: "YELLOW", group: "yellow", selected: false, solved: false },
-
-    { id: 5, word: "GREEN", group: "green", selected: false, solved: false },
-    { id: 6, word: "GREEN", group: "green", selected: false, solved: false },
-    { id: 7, word: "GREEN", group: "green", selected: false, solved: false },
-    { id: 8, word: "GREEN", group: "green", selected: false, solved: false },
-
-    { id: 9, word: "BLUE", group: "blue", selected: false, solved: false },
-    { id: 10, word: "BLUE", group: "blue", selected: false, solved: false },
-    { id: 11, word: "BLUE", group: "blue", selected: false, solved: false },
-    { id: 12, word: "BLUE", group: "blue", selected: false, solved: false },
-
-    { id: 13, word: "PURPLE", group: "purple", selected: false, solved: false },
-    { id: 14, word: "PURPLE", group: "purple", selected: false, solved: false },
-    { id: 15, word: "PURPLE", group: "purple", selected: false, solved: false },
-    { id: 16, word: "PURPLE", group: "purple", selected: false, solved: false },
-  ];
 
   const groupColors = {
     yellow: "#efd86a",
@@ -242,16 +230,18 @@ function BlankScreen() {
     blue: "#b8c7ee",
     purple: "#b47fc7",
   };
-
-  const [tiles, setTiles] = useState(initialTiles);
+  
+  const [tiles, setTiles] = useState(() =>
+    buildTilesFromBoard(Math.floor(Math.random() * boards.length))
+  );
   const [solvedBands, setSolvedBands] = useState([]);
   const [animatingGroup, setAnimatingGroup] = useState(null);
-
+  const [wrongGuessAnimating, setWrongGuessAnimating] = useState(false);
+  const [mistakesRemaining, setMistakesRemaining] = useState(4);
   const selectedCount = tiles.filter((tile) => tile.selected).length;
 
   function handleTileClick(id) {
-    if (animatingGroup) return;
-
+    if (animatingGroup || wrongGuessAnimating || mistakesRemaining === 0) return;
     const clickedTile = tiles.find((tile) => tile.id === id);
     const currentSelected = tiles.filter((tile) => tile.selected).length;
 
@@ -266,8 +256,7 @@ function BlankScreen() {
   }
 
   function handleSubmit() {
-    if (animatingGroup) return;
-
+    if (animatingGroup || wrongGuessAnimating || mistakesRemaining === 0) return;
     const selectedTiles = tiles.filter((tile) => tile.selected);
     if (selectedTiles.length !== 4) return;
 
@@ -275,14 +264,47 @@ function BlankScreen() {
     const allSameGroup = selectedTiles.every(
       (tile) => tile.group === selectedGroup
     );
-
-    if (!allSameGroup) return;
+    
+    if (!allSameGroup) {
+      setWrongGuessAnimating(true);
+    
+      setTimeout(() => {
+        setWrongGuessAnimating(false);
+    
+        setMistakesRemaining((prev) => {
+          const next = prev - 1;
+    
+          if (next <= 0) {
+            revealAllGroups();
+            return 0;
+          }
+    
+          return next;
+        });
+      }, 420);
+    
+      return;
+    }
 
     setAnimatingGroup(selectedGroup);
 
     setTimeout(() => {
+      const solvedCategory = selectedTiles[0];
+
+
+      
       setSolvedBands((prev) =>
-        prev.includes(selectedGroup) ? prev : [...prev, selectedGroup]
+        prev.some((band) => band.group === selectedGroup)
+          ? prev
+          : [
+              ...prev,
+              {
+                group: selectedGroup,
+                bandColor: solvedCategory.bandColor,
+                categoryName: solvedCategory.categoryName,
+                words: selectedTiles.map((tile) => tile.word),
+              },
+            ]
       );
 
       setTiles((prevTiles) =>
@@ -295,6 +317,50 @@ function BlankScreen() {
 
       setAnimatingGroup(null);
     }, 520);
+  }
+
+  function revealAllGroups() {
+    const remainingGroups = [];
+    const seenGroups = new Set();
+  
+    tiles.forEach((tile) => {
+      if (!tile.solved && !seenGroups.has(tile.group)) {
+        seenGroups.add(tile.group);
+        remainingGroups.push({
+          group: tile.group,
+          bandColor: tile.bandColor,
+          categoryName: tile.categoryName,
+          words: tiles
+            .filter((t) => t.group === tile.group)
+            .map((t) => t.word),
+        });
+      }
+    });
+  
+    setSolvedBands((prev) => [
+      ...prev,
+      ...remainingGroups.filter(
+        (group) => !prev.some((band) => band.group === group.group)
+      ),
+    ]);
+  
+    setTiles((prevTiles) =>
+      prevTiles.map((tile) => ({
+        ...tile,
+        selected: false,
+        solved: true,
+      }))
+    );
+  }
+
+  function handleRegenerate() {
+    if (animatingGroup || wrongGuessAnimating) return;
+  
+    setTiles(buildTilesFromBoard(Math.floor(Math.random() * boards.length)));
+    setSolvedBands([]);
+    setAnimatingGroup(null);
+    setWrongGuessAnimating(false);
+    setMistakesRemaining(4);
   }
 
   return (
@@ -311,25 +377,55 @@ function BlankScreen() {
         fontFamily: 'Arial, Helvetica, sans-serif',
       }}
     >
-      <style>{`
-        @keyframes solveJump {
-          0% {
-            transform: translateY(0) scale(1);
-          }
-          18% {
-            transform: translateY(-6px) scale(1.01);
-          }
-          42% {
-            transform: translateY(-18px) scale(1.025);
-          }
-          68% {
-            transform: translateY(-12px) scale(1.018);
-          }
-          100% {
-            transform: translateY(-16px) scale(1.02);
-          }
-        }
-      `}</style>
+    <style>{`
+  @keyframes solveJump {
+    0% {
+      transform: translateY(0) scale(1);
+    }
+    18% {
+      transform: translateY(-6px) scale(1.01);
+    }
+    42% {
+      transform: translateY(-18px) scale(1.025);
+    }
+    68% {
+      transform: translateY(-12px) scale(1.018);
+    }
+    100% {
+      transform: translateY(-16px) scale(1.02);
+    }
+  }
+
+  @keyframes wrongShake {
+    0% {
+      transform: translateX(0);
+    }
+    12% {
+      transform: translateX(-7px);
+    }
+    24% {
+      transform: translateX(7px);
+    }
+    36% {
+      transform: translateX(-6px);
+    }
+    48% {
+      transform: translateX(6px);
+    }
+    60% {
+      transform: translateX(-4px);
+    }
+    72% {
+      transform: translateX(4px);
+    }
+    84% {
+      transform: translateX(-2px);
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }
+`}</style>
 
       <div
         style={{
@@ -361,7 +457,7 @@ function BlankScreen() {
             fontWeight: 400,
           }}
         >
-          Bayesian Machine Learning
+          Probabilistic Machine Learning
         </div>
       </div>
 
@@ -383,26 +479,54 @@ function BlankScreen() {
           gap: "10px",
         }}
       >
-        {solvedBands.map((group) => (
-          <div
-            key={group}
-            style={{
-              height: "96px",
-              borderRadius: "16px",
-              background: groupColors[group],
-              display: "flex",
-              alignItems: "center",
-              justifyContent: "center",
-              color: "#111111",
-              fontFamily: 'Arial, Helvetica, sans-serif',
-              fontWeight: 800,
-              fontSize: "1.02rem",
-              textTransform: "uppercase",
-            }}
-          >
-            {group}
-          </div>
-        ))}
+       {[...solvedBands]
+  .sort((a, b) => {
+    const order = { yellow: 0, green: 1, blue: 2, purple: 3 };
+    return order[a.bandColor] - order[b.bandColor];
+  })
+  .map((band) => (
+  <div
+    key={band.group}
+    style={{
+      minHeight: "96px",
+      borderRadius: "16px",
+      background: groupColors[band.bandColor],
+      display: "flex",
+      flexDirection: "column",
+      alignItems: "center",
+      justifyContent: "center",
+      color: "#111111",
+      fontFamily: 'Arial, Helvetica, sans-serif',
+      padding: "14px 18px",
+      boxSizing: "border-box",
+      textAlign: "center",
+    }}
+  >
+    <div
+      style={{
+        fontWeight: 800,
+        fontSize: "1.02rem",
+        textTransform: "uppercase",
+        marginBottom: "6px",
+      }}
+    >
+      {band.categoryName}
+    </div>
+
+    <div
+      style={{
+        fontWeight: 500,
+        fontSize: "0.98rem",
+        textTransform: "uppercase",
+        lineHeight: 1.3,
+      }}
+    >
+      {band.words.join(", ")}
+    </div>
+  </div>
+
+
+))}
 
         <div
           style={{
@@ -415,8 +539,10 @@ function BlankScreen() {
             .filter((tile) => !tile.solved)
             .map((tile) => {
               const isAnimatingTile =
-                animatingGroup === tile.group && tile.selected;
+  animatingGroup === tile.group && tile.selected;
 
+const isWrongAnimatingTile =
+  wrongGuessAnimating && tile.selected;
               return (
                 <button
                   key={tile.id}
@@ -438,15 +564,18 @@ function BlankScreen() {
                     textTransform: "uppercase",
                     lineHeight: 1.05,
                     padding: "8px",
-                    cursor: animatingGroup ? "default" : "pointer",
-                    animation: isAnimatingTile
-                      ? "solveJump 520ms cubic-bezier(0.22, 0.8, 0.22, 1) forwards"
-                      : "none",
-                    transition:
-                      "background 0.18s ease, color 0.18s ease, box-shadow 0.18s ease",
-                    boxShadow: isAnimatingTile
-                      ? "0 6px 14px rgba(0, 0, 0, 0.08)"
-                      : "none",
+                    cursor: animatingGroup || wrongGuessAnimating ? "default" : "pointer", animation: isAnimatingTile
+  ? "solveJump 520ms cubic-bezier(0.22, 0.8, 0.22, 1) forwards"
+  : isWrongAnimatingTile
+  ? "wrongShake 420ms ease-in-out"
+  : "none",
+transition:
+  "background 0.18s ease, color 0.18s ease, box-shadow 0.18s ease",
+boxShadow: isAnimatingTile
+  ? "0 6px 14px rgba(0, 0, 0, 0.08)"
+  : isWrongAnimatingTile
+  ? "0 4px 10px rgba(0, 0, 0, 0.06)"
+  : "none",
                   }}
                 >
                   {tile.word}
@@ -457,30 +586,95 @@ function BlankScreen() {
       </div>
 
       <div
+  style={{
+    marginTop: "22px",
+    display: "flex",
+    flexDirection: "column",
+    alignItems: "center",
+    justifyContent: "center",
+    gap: "8px",
+  }}
+>
+  <div
+    style={{
+      fontSize: "1rem",
+      color: "#333333",
+      fontWeight: 500,
+    }}
+  >
+    Mistakes remaining
+  </div>
+
+  <div
+    style={{
+      display: "flex",
+      gap: "10px",
+      alignItems: "center",
+      justifyContent: "center",
+      minHeight: "16px",
+    }}
+  >
+    {[0, 1, 2, 3].map((index) => (
+      <div
+        key={index}
         style={{
-          marginTop: "28px",
-          display: "flex",
-          justifyContent: "center",
+          width: "12px",
+          height: "12px",
+          borderRadius: "999px",
+          background: index < mistakesRemaining ? "#555555" : "#d8d8d8",
+          transition: "background 0.2s ease",
         }}
-      >
-        <button
-          onClick={handleSubmit}
-          style={{
-            padding: "16px 36px",
-            borderRadius: "999px",
-            fontSize: "1.1rem",
-            fontWeight: 600,
-            border:
-              selectedCount === 4 ? "2px solid #111111" : "2px solid #a6a6a6",
-            background: selectedCount === 4 ? "#111111" : "#f1f1f1",
-            color: selectedCount === 4 ? "#ffffff" : "#9a9a9a",
-            cursor: selectedCount === 4 ? "pointer" : "default",
-            transition: "all 0.15s ease",
-          }}
-        >
-          Submit
-        </button>
-      </div>
+      />
+    ))}
+  </div>
+</div>
+
+<div
+  style={{
+    marginTop: "18px",
+    display: "flex",
+    justifyContent: "center",
+    gap: "14px",
+  }}
+>
+  <button
+    onClick={handleRegenerate}
+    style={{
+      padding: "16px 36px",
+      borderRadius: "999px",
+      fontSize: "1.1rem",
+      fontWeight: 600,
+      border: "2px solid #111111",
+      background: "#f5f5f0",
+      color: "#111111",
+      cursor: animatingGroup || wrongGuessAnimating ? "default" : "pointer",
+      transition: "all 0.15s ease",
+    }}
+  >
+    Regenerate
+  </button>
+
+  <button
+    onClick={handleSubmit}
+    style={{
+      padding: "16px 36px",
+      borderRadius: "999px",
+      fontSize: "1.1rem",
+      fontWeight: 600,
+      border:
+        selectedCount === 4 ? "2px solid #111111" : "2px solid #a6a6a6",
+      background: selectedCount === 4 ? "#111111" : "#f1f1f1",
+      color: selectedCount === 4 ? "#ffffff" : "#9a9a9a",
+      cursor:
+        selectedCount === 4 && mistakesRemaining > 0 && !wrongGuessAnimating
+          ? "pointer"
+          : "default",
+      transition: "all 0.15s ease",
+    }}
+  >
+    Submit
+  </button>
+  </div>
     </div>
   );
 }
