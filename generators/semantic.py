@@ -146,7 +146,7 @@ class SemanticGenerator:
     6. Keep difficulty scoring, but separate it from category-validity checks.
     """
 
-    MIN_FREQ = 4.0
+    MIN_FREQ = 3.0
     CANDIDATE_MIN_FREQ = 3.0
     MIN_LENGTH = 3
     EXPANSION_DEPTH = 7
@@ -155,11 +155,11 @@ class SemanticGenerator:
     CATEGORY_SIZE = 4
     TOP_K_HYPONYMS = 12
 
-    MAX_CATEGORIES_PER_SUBJECT = 2
-    KEEP_TOP_PERCENT = 0.3
+    MAX_CATEGORIES_PER_SUBJECT = 200
+    KEEP_TOP_PERCENT = 0.5
 
     LABEL_SIM_MIN = 0.43
-    MAX_CHILD_DEPTH_RANGE = 4
+    MAX_CHILD_DEPTH_RANGE = 6
     MAX_WORD_POLYSEMY = 12
 
     GENERIC_WORDS = {
@@ -175,11 +175,11 @@ class SemanticGenerator:
     }
 
     BAD_SUFFIXES = (
-        "tion", "sion", "ment", "ness", "ity", "ship", "ism"
+        "tion", "sion", "ment", "ness", "ity", "ship", "ism", "ian", "ance", "ence", "ing"
     )
 
     BANNED_WORDS = {
-        "oriental", "sex"
+        "oriental", "sex", "rapist"
     }
 
     # Subjects that are technically workable in WordNet but tend to yield
@@ -298,6 +298,8 @@ class SemanticGenerator:
             and word.isalpha()
             and zipf_frequency(word, "en") >= self.CANDIDATE_MIN_FREQ
             and len(self.get_hyponyms(word)) >= 2
+            and word not in self.BANNED_WORDS
+            and not self.looks_too_abstract(word)
         )
 
     def is_valid_subject(self, word):
@@ -378,12 +380,9 @@ class SemanticGenerator:
 
     def looks_too_abstract(self, word):
         return word.endswith(self.BAD_SUFFIXES)
-
-    def noun_strength(self, words):
-        return sum(
-            1 for w in words
-            if all(t.pos_ == "NOUN" for t in self.get_doc(w))
-        ) / len(words)
+    
+    def tense_ok(self, word):
+        return all(t.pos_ == "NOUN" for t in self.get_doc(word))
 
     def same_level_enough(self, items):
         depths = [item.child_depth for item in items]
@@ -443,7 +442,7 @@ class SemanticGenerator:
                 continue
             if word in seen_lemmas:
                 continue
-            if not all(t.pos_ == "NOUN" for t in self.get_doc(word)):
+            if not self.tense_ok(word):
                 continue
 
             forms = self.get_synset_forms(word)
@@ -538,8 +537,6 @@ class SemanticGenerator:
             return -1.0
         if not self.same_level_enough(items):
             return -1.0
-        if self.noun_strength(words) < 1.0:
-            return -1.0
         if not self.shared_specific_hypernyms(words):
             return -1.0
 
@@ -589,7 +586,7 @@ class SemanticGenerator:
         difficulty_freq = max(0, 5.5 - avg_freq)
 
         difficulty = (
-            poly_score * 0.50
+            poly_score * 0.70
             + difficulty_clarity * 0.25
             + difficulty_cohesion * 0.15
             + difficulty_freq * 0.10
@@ -606,7 +603,25 @@ class SemanticGenerator:
     def assign_level(self, difficulty):
         if difficulty is None:
             return None
-        return "green" if difficulty < 1.05 else "blue"
+        return "green" if difficulty < 1.2 else "blue"
+    
+    # -------------------------
+    # DEDUPLICATION
+    # -------------------------
+
+    def dedupe_by_subject(self, categories):
+        best_by_key = {}
+
+        for cat in categories:
+            key = cat["subject_synset"]
+
+            if key not in best_by_key:
+                best_by_key[key] = cat
+            else:
+                if cat["score"] > best_by_key[key]["score"]:
+                    best_by_key[key] = cat
+
+        return list(best_by_key.values())
 
     # -------------------------
     # CATEGORY GENERATION
@@ -650,9 +665,20 @@ class SemanticGenerator:
         for subject in self.generate_subjects():
             all_categories.extend(self.generate_categories_from_subject(subject))
 
+        # Sort globally by score
         all_categories.sort(key=lambda x: x["score"], reverse=True)
-        cutoff = int(len(all_categories) * self.KEEP_TOP_PERCENT)
-        return all_categories[:cutoff]
+
+        # Deduplicate by subject, keeping highest score
+        deduped = self.dedupe_by_subject(all_categories)
+
+        # Keep top percent 
+        cutoff = int(len(deduped) * self.KEEP_TOP_PERCENT)
+        trimmed = deduped[:cutoff]
+
+        # Re-sort after dedupe for cleaner output
+        trimmed.sort(key=lambda x: x["difficulty"], reverse=True)
+
+        return trimmed
     
     def generate_json(self, output_path="categories/semantic.json"):
         categories = self.generate_all_categories()
@@ -682,11 +708,3 @@ class SemanticGenerator:
 if __name__ == "__main__":
     generator = SemanticGenerator(SEED_SUBJECTS)
     generator.generate_json()
-
-    # categories = generator.generate_all_categories()
-
-    # print(f"\nGenerated {len(categories)} categories\n")
-
-    # random.shuffle(categories)
-    # for c in categories[:100]:
-    #     print(c)
