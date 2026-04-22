@@ -34,6 +34,22 @@ Before running this project, ensure you have the following installed on your sys
      ```
    - This will install: React, Vite, ESLint, and related development tools.
 
+4. **Download WordNet**
+   - Run the following command to run config.py:
+     ```
+     python config.py
+     ```
+   - This will download: WordNet
+
+5. **Download the spaCy Model**
+   - Run the following command to download the model:
+     ```
+     python -m spacy download en_core_web_lg
+     ```
+   - This will download: en_core_web_lg
+
+
+
 ## Running the Project
 
 ### Generating Puzzle Boards (Python Backend)
@@ -46,7 +62,7 @@ To generate new puzzle boards using the Python scripts:
    python main.py
    ```
    - This will generate puzzle boards based on the configured generators (semantic, anagram, synonym, etc.).
-   - Generated boards are saved to `boards.json` and categories are updated in the `categories/` folder.
+   - Generated boards are saved to `output/boards.json` and categories are updated in the `categories/` folder.
 
 You can also run specific generators or modify parameters in the Python files as needed.
 
@@ -66,9 +82,8 @@ To start the web interface for playing and testing puzzles:
 ## Project Structure
 
 - `main.py`: Main Python script for generating puzzle boards.
-- `board_generation.py`: Logic for creating complete game boards.
+- `board`: Logic for creating complete game boards.
 - `generators/`: Contains different generator classes (semantic, anagram, synonym, purple-level).
-- `scoring/`: Scoring and difficulty assignment modules.
 - `utils/`: Utility functions for filtering, embeddings, etc.
 - `datasets/`: Data files used for generation (included in the project).
 - `categories/`: JSON files containing generated puzzle categories.

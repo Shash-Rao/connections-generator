@@ -1,252 +1,21 @@
 [
   {
-    "category_name": "MLB players",
-    "words": [
-      "jay",
-      "brewer",
-      "ranger",
-      "twin"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "royal",
-      "met",
-      "athletic",
-      "angel"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "sun",
-      "celtic",
-      "buck",
-      "rocket"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "red",
-      "cardinal",
-      "jay",
-      "royal"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
     "category_name": "NFL players",
     "words": [
+      "cowboy",
+      "brown",
       "eagle",
-      "jet",
-      "titan",
       "colt"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
   },
   {
-    "category_name": "MLB players",
-    "words": [
-      "pirate",
-      "twin",
-      "red",
-      "royal"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "chief",
-      "dolphin",
-      "patriot",
-      "saint"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "eagle",
-      "cowboy",
-      "chief",
-      "raven"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
     "category_name": "NBA players",
     "words": [
-      "celtic",
-      "rocket",
-      "warrior",
-      "bull"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "rocket",
-      "bull",
       "king",
-      "buck"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "net",
-      "spur",
-      "sun",
-      "buck"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "pirate",
-      "brewer",
-      "twin",
-      "brave"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "charger",
-      "jaguar",
-      "saint",
-      "titan"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "rocket",
-      "spur",
-      "celtic",
-      "king"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "jay",
-      "met",
-      "royal",
-      "twin"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "national",
-      "brave",
-      "red",
-      "guardian"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "colt",
-      "cardinal",
-      "jaguar",
-      "dolphin"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "tiger",
-      "ranger",
-      "ray",
-      "national"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "celtic",
-      "wizard",
-      "net",
-      "spur"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "spur",
-      "rocket",
-      "bull",
-      "wizard"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "colt",
-      "chief",
-      "lion",
-      "giant"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "cardinal",
-      "cowboy",
-      "bengal",
-      "jaguar"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "rocket",
-      "wizard",
-      "bull",
+      "buck",
+      "warrior",
       "celtic"
     ],
     "category_type": "sports_players",
@@ -255,196 +24,9 @@
   {
     "category_name": "NBA players",
     "words": [
-      "hawk",
-      "rocket",
-      "net",
-      "king"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "giant",
-      "national",
-      "tiger",
-      "pirate"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "bear",
-      "charger",
-      "brown",
-      "eagle"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "spur",
-      "hawk",
-      "buck",
-      "rocket"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "jay",
-      "national",
-      "athletic",
-      "brave"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "hawk",
-      "rocket",
-      "spur",
-      "bull"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "rocket",
-      "wizard",
       "warrior",
-      "hawk"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "guardian",
-      "athletic",
-      "royal",
-      "ranger"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "warrior",
-      "rocket",
-      "celtic",
-      "sun"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "commander",
-      "dolphin",
-      "chief",
-      "bear"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "patriot",
-      "commander",
-      "bill",
-      "bear"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "warrior",
-      "rocket",
-      "spur",
-      "hawk"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "celtic",
-      "buck",
-      "king",
-      "hawk"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "jet",
-      "charger",
-      "cowboy",
-      "raven"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "rocket",
-      "net",
-      "spur",
-      "buck"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "brown",
-      "saint",
-      "ram",
-      "lion"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "tiger",
-      "national",
-      "brave",
-      "twin"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "buck",
       "sun",
-      "spur",
+      "buck",
       "net"
     ],
     "category_type": "sports_players",
@@ -453,10 +35,10 @@
   {
     "category_name": "MLB players",
     "words": [
-      "yankee",
-      "athletic",
-      "tiger",
-      "red"
+      "national",
+      "royal",
+      "pirate",
+      "ranger"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -464,10 +46,10 @@
   {
     "category_name": "MLB players",
     "words": [
-      "tiger",
-      "met",
-      "red",
-      "athletic"
+      "ranger",
+      "national",
+      "angel",
+      "ray"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -475,878 +57,130 @@
   {
     "category_name": "NBA players",
     "words": [
-      "spur",
       "hawk",
-      "wizard",
+      "net",
+      "warrior",
       "celtic"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
   },
   {
+    "category_name": "NBA players",
+    "words": [
+      "celtic",
+      "wizard",
+      "net",
+      "sun"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "celtic",
+      "bull",
+      "rocket",
+      "sun"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
     "category_name": "NFL players",
     "words": [
-      "eagle",
+      "jet",
       "jaguar",
-      "viking",
+      "colt",
+      "commander"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "bull",
+      "buck",
+      "king",
+      "sun"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "national",
+      "guardian",
+      "royal",
+      "ray"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "hawk",
+      "wizard",
+      "king",
+      "spur"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "pirate",
+      "cardinal",
+      "twin",
+      "brave"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "saint",
+      "cowboy",
+      "chief",
       "titan"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
   },
   {
-    "category_name": "MLB players",
-    "words": [
-      "met",
-      "athletic",
-      "pirate",
-      "yankee"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
     "category_name": "NBA players",
     "words": [
-      "sun",
-      "bull",
+      "spur",
       "king",
-      "rocket"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "dolphin",
-      "cowboy",
-      "bill",
-      "saint"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "giant",
-      "bill",
-      "chief",
-      "ram"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "twin",
-      "royal",
-      "met",
-      "ranger"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "cowboy",
-      "bill",
-      "bear",
-      "jaguar"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "guardian",
-      "pirate",
-      "jay",
-      "ranger"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "sun",
       "rocket",
-      "hawk",
-      "warrior"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "cardinal",
-      "patriot",
-      "colt",
-      "ram"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "met",
-      "national",
-      "guardian",
-      "royal"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "bull",
-      "net",
-      "celtic",
-      "wizard"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "sun",
-      "net",
-      "warrior",
-      "bull"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "spur",
-      "sun",
-      "hawk",
-      "king"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "spur",
-      "king",
-      "bull",
-      "sun"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "national",
-      "twin",
-      "tiger",
-      "brave"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "ram",
-      "patriot",
-      "viking",
-      "cowboy"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "rocket",
-      "spur",
-      "king",
-      "sun"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "falcon",
-      "jet",
-      "viking",
-      "cardinal"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "brewer",
-      "twin",
-      "pirate",
-      "cardinal"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "rocket",
-      "spur",
-      "celtic",
-      "sun"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "buck",
-      "spur",
-      "king",
-      "wizard"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "giant",
-      "red",
-      "yankee",
-      "brave"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "national",
-      "ray",
-      "cardinal",
-      "ranger"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "cardinal",
-      "giant",
-      "pirate",
-      "brave"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "spur",
-      "wizard",
-      "bull",
       "hawk"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
   },
   {
-    "category_name": "NBA players",
-    "words": [
-      "wizard",
-      "net",
-      "rocket",
-      "celtic"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "buck",
-      "hawk",
-      "rocket",
-      "wizard"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "titan",
-      "saint",
-      "falcon",
-      "cowboy"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
     "category_name": "MLB players",
     "words": [
-      "brave",
-      "royal",
-      "jay",
-      "national"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "cardinal",
-      "ray",
-      "yankee",
-      "giant"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "rocket",
-      "bull",
-      "celtic",
-      "spur"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "rocket",
-      "hawk",
-      "net",
-      "spur"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "commander",
-      "ram",
-      "brown",
-      "titan"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "twin",
-      "cardinal",
-      "royal",
+      "angel",
+      "guardian",
+      "giant",
       "brewer"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
   },
   {
-    "category_name": "NBA players",
-    "words": [
-      "net",
-      "spur",
-      "rocket",
-      "bull"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "buck",
-      "wizard",
-      "net",
-      "king"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "colt",
-      "cowboy",
-      "charger",
-      "jet"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "chief",
-      "jet",
-      "falcon",
-      "ram"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "titan",
-      "chief",
-      "cardinal",
-      "falcon"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
     "category_name": "MLB players",
     "words": [
-      "met",
-      "royal",
-      "pirate",
-      "twin"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "saint",
-      "cardinal",
-      "bengal",
-      "commander"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "bear",
-      "cowboy",
-      "saint",
-      "commander"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "titan",
-      "eagle",
-      "saint",
-      "patriot"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "athletic",
-      "national",
+      "guardian",
+      "giant",
       "brave",
-      "twin"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "raven",
-      "titan",
-      "dolphin",
-      "charger"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "jet",
-      "colt",
-      "bear",
-      "ram"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "sun",
-      "celtic",
-      "king",
-      "buck"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "cardinal",
-      "eagle",
-      "jet",
-      "giant"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "jet",
-      "charger",
-      "bear",
-      "chief"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "spur",
-      "warrior",
-      "bull",
-      "hawk"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "hawk",
-      "rocket",
-      "bull",
-      "sun"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "giant",
-      "bengal",
-      "commander",
-      "charger"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "brewer",
-      "ray",
-      "yankee",
-      "jay"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "wizard",
-      "king",
-      "bull",
-      "warrior"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "celtic",
-      "sun",
-      "rocket",
-      "spur"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "celtic",
-      "rocket",
-      "sun",
-      "bull"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "twin",
-      "ray",
-      "giant",
-      "jay"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "eagle",
-      "raven",
-      "panther",
-      "bear"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "patriot",
-      "charger",
-      "jaguar",
-      "ram"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "buck",
-      "celtic",
-      "net",
-      "wizard"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "yankee",
-      "pirate",
-      "ranger",
-      "jay"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "warrior",
-      "spur",
-      "wizard",
-      "celtic"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "twin",
-      "angel",
-      "pirate",
-      "national"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "celtic",
-      "buck",
-      "king",
-      "hawk"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "colt",
-      "raven",
-      "brown",
-      "falcon"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "met",
-      "tiger",
-      "jay",
-      "athletic"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "red",
-      "athletic",
-      "pirate",
-      "ray"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "tiger",
-      "giant",
-      "ranger",
-      "pirate"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "red",
-      "ray",
-      "national",
-      "athletic"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "rocket",
-      "buck",
-      "wizard",
-      "celtic"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "sun",
-      "bull",
-      "warrior",
-      "king"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "jaguar",
-      "commander",
-      "falcon",
-      "panther"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "rocket",
-      "net",
-      "bull",
-      "king"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "rocket",
-      "spur",
-      "hawk",
-      "sun"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "patriot",
-      "jet",
-      "raven",
-      "viking"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "warrior",
-      "wizard",
-      "king",
-      "net"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "yankee",
-      "brewer",
-      "cardinal",
-      "pirate"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "bill",
-      "panther",
-      "giant",
       "cardinal"
     ],
     "category_type": "sports_players",
@@ -1355,87 +189,10 @@
   {
     "category_name": "NFL players",
     "words": [
-      "falcon",
-      "jaguar",
-      "ram",
-      "commander"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "wizard",
-      "net",
-      "king",
-      "buck"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "royal",
-      "ranger",
-      "twin",
-      "pirate"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "wizard",
-      "celtic",
-      "king",
-      "buck"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "celtic",
-      "buck",
-      "hawk",
-      "warrior"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "athletic",
-      "yankee",
-      "angel",
-      "tiger"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "king",
-      "net",
-      "wizard",
-      "sun"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "bull",
-      "buck",
-      "warrior",
-      "celtic"
+      "jet",
+      "charger",
+      "brown",
+      "ram"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -1443,54 +200,32 @@
   {
     "category_name": "NFL players",
     "words": [
-      "bill",
-      "bear",
-      "lion",
-      "brown"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "cowboy",
       "viking",
-      "giant",
+      "dolphin",
+      "titan",
+      "ram"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "bengal",
+      "patriot",
+      "commander",
       "titan"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
   },
   {
-    "category_name": "NBA players",
-    "words": [
-      "net",
-      "bull",
-      "rocket",
-      "sun"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
     "category_name": "NFL players",
     "words": [
-      "brown",
-      "jaguar",
-      "panther",
-      "eagle"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "angel",
-      "twin",
-      "royal",
-      "guardian"
+      "bengal",
+      "bear",
+      "cowboy",
+      "patriot"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -1498,53 +233,9 @@
   {
     "category_name": "NBA players",
     "words": [
+      "spur",
+      "hawk",
       "warrior",
-      "king",
-      "bull",
-      "spur"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "hawk",
-      "bull",
-      "net",
-      "king"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "rocket",
-      "sun",
-      "wizard",
-      "spur"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "royal",
-      "angel",
-      "brave",
-      "national"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "buck",
-      "net",
-      "hawk",
       "wizard"
     ],
     "category_type": "sports_players",
@@ -1553,439 +244,21 @@
   {
     "category_name": "NBA players",
     "words": [
-      "buck",
-      "king",
-      "net",
-      "celtic"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "bill",
-      "lion",
-      "patriot",
-      "dolphin"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "red",
-      "met",
-      "ray",
-      "royal"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "jay",
-      "ranger",
-      "athletic",
-      "twin"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "buck",
-      "bull",
-      "rocket",
-      "net"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "buck",
       "warrior",
-      "sun",
-      "net"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "pirate",
-      "ray",
-      "red",
-      "giant"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "chief",
-      "lion",
-      "saint",
-      "jaguar"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "guardian",
-      "athletic",
-      "brewer",
-      "national"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "king",
-      "bull",
-      "hawk",
-      "warrior"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "falcon",
-      "raven",
-      "patriot",
-      "jaguar"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "warrior",
-      "bull",
       "spur",
-      "rocket"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "bill",
-      "chief",
-      "lion",
-      "jaguar"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "cardinal",
-      "met",
-      "giant",
-      "ray"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "titan",
-      "charger",
-      "bear",
-      "viking"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "royal",
-      "ranger",
-      "national",
-      "angel"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
       "hawk",
-      "king",
-      "net",
-      "spur"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "national",
-      "athletic",
-      "giant",
-      "cardinal"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "sun",
-      "net",
-      "king",
-      "hawk"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "national",
-      "brewer",
-      "angel",
-      "pirate"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "guardian",
-      "royal",
-      "angel",
-      "tiger"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "twin",
-      "red",
-      "tiger",
-      "guardian"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "national",
-      "giant",
-      "jay",
-      "twin"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "eagle",
-      "commander",
-      "giant",
-      "dolphin"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "jay",
-      "angel",
-      "cardinal",
-      "ray"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "net",
-      "buck",
-      "sun",
-      "celtic"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "wizard",
-      "net",
-      "warrior",
       "sun"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
   },
   {
-    "category_name": "NBA players",
-    "words": [
-      "sun",
-      "celtic",
-      "warrior",
-      "king"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
     "category_name": "NFL players",
     "words": [
-      "colt",
-      "raven",
-      "lion",
-      "giant"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "warrior",
-      "celtic",
-      "king",
-      "buck"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "net",
-      "buck",
-      "celtic",
-      "rocket"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "angel",
-      "cardinal",
-      "twin",
-      "yankee"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "tiger",
-      "jay",
-      "cardinal",
-      "red"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "giant",
-      "ray",
-      "angel",
-      "royal"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "athletic",
-      "cardinal",
-      "met",
-      "red"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "brewer",
-      "met",
-      "ray",
-      "cardinal"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "brave",
-      "twin",
-      "met",
-      "ray"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "brewer",
-      "twin",
-      "national",
-      "pirate"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "jay",
-      "royal",
-      "brave",
-      "ranger"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "giant",
-      "charger",
       "bengal",
-      "panther"
+      "raven",
+      "jet",
+      "jaguar"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -1993,10 +266,10 @@
   {
     "category_name": "NFL players",
     "words": [
-      "colt",
-      "ram",
       "chief",
-      "falcon"
+      "dolphin",
+      "jaguar",
+      "titan"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -2004,9 +277,9 @@
   {
     "category_name": "NFL players",
     "words": [
-      "jaguar",
-      "colt",
-      "patriot",
+      "giant",
+      "panther",
+      "cowboy",
       "chief"
     ],
     "category_type": "sports_players",
@@ -2015,43 +288,10 @@
   {
     "category_name": "MLB players",
     "words": [
-      "ranger",
-      "twin",
-      "giant",
+      "pirate",
+      "jay",
+      "tiger",
       "angel"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "athletic",
-      "ray",
-      "royal",
-      "ranger"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "cardinal",
-      "met",
-      "national",
-      "brewer"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "raven",
-      "patriot",
-      "brown",
-      "bill"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -2059,10 +299,10 @@
   {
     "category_name": "NBA players",
     "words": [
-      "buck",
       "celtic",
       "king",
-      "warrior"
+      "spur",
+      "bull"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -2070,21 +310,21 @@
   {
     "category_name": "MLB players",
     "words": [
-      "met",
-      "athletic",
-      "jay",
-      "pirate"
+      "ranger",
+      "guardian",
+      "brave",
+      "met"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
   },
   {
-    "category_name": "MLB players",
+    "category_name": "NFL players",
     "words": [
-      "twin",
-      "national",
-      "yankee",
-      "brewer"
+      "saint",
+      "titan",
+      "cardinal",
+      "jet"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -2093,9 +333,9 @@
     "category_name": "NBA players",
     "words": [
       "net",
-      "buck",
       "hawk",
-      "rocket"
+      "warrior",
+      "buck"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -2103,10 +343,10 @@
   {
     "category_name": "NFL players",
     "words": [
-      "jaguar",
-      "colt",
+      "bill",
       "ram",
-      "titan"
+      "titan",
+      "charger"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -2114,9 +354,31 @@
   {
     "category_name": "NFL players",
     "words": [
-      "bengal",
       "raven",
-      "jet",
+      "cowboy",
+      "cardinal",
+      "colt"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "wizard",
+      "sun",
+      "bull",
+      "hawk"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "lion",
+      "bill",
+      "giant",
       "bear"
     ],
     "category_type": "sports_players",
@@ -2125,9 +387,64 @@
   {
     "category_name": "NBA players",
     "words": [
-      "hawk",
-      "buck",
       "wizard",
+      "king",
+      "warrior",
+      "bull"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "net",
+      "celtic",
+      "hawk",
+      "wizard"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "pirate",
+      "giant",
+      "ray",
+      "angel"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "royal",
+      "national",
+      "giant",
+      "athletic"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "rocket",
+      "hawk",
+      "net",
+      "bull"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "sun",
+      "king",
+      "warrior",
       "spur"
     ],
     "category_type": "sports_players",
@@ -2137,382 +454,41 @@
     "category_name": "MLB players",
     "words": [
       "yankee",
-      "jay",
-      "royal",
-      "met"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "patriot",
-      "cardinal",
-      "ram",
-      "brown"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "net",
-      "rocket",
-      "sun",
-      "king"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "viking",
-      "ram",
-      "patriot",
-      "jet"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "viking",
-      "raven",
-      "patriot",
-      "brown"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "brewer",
-      "tiger",
-      "angel",
-      "royal"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "warrior",
-      "hawk",
-      "celtic",
-      "king"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "warrior",
-      "king",
-      "wizard",
-      "net"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "warrior",
-      "sun",
-      "buck",
-      "celtic"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "chief",
-      "colt",
-      "patriot",
-      "bill"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "brewer",
-      "ranger",
-      "red",
-      "tiger"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "brave",
-      "ranger",
       "met",
-      "twin"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "giant",
-      "royal",
-      "national",
-      "ranger"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
       "twin",
-      "brewer",
-      "athletic",
       "ray"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
   },
   {
-    "category_name": "NBA players",
-    "words": [
-      "buck",
-      "spur",
-      "warrior",
-      "sun"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
     "category_name": "MLB players",
     "words": [
-      "tiger",
+      "cardinal",
       "ray",
-      "athletic",
-      "brewer"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "red",
-      "ranger",
-      "royal",
-      "jay"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "warrior",
-      "hawk",
-      "net",
-      "wizard"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "hawk",
-      "rocket",
-      "warrior",
-      "wizard"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "bear",
-      "colt",
-      "jet",
-      "charger"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "bull",
-      "warrior",
-      "sun",
-      "spur"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "net",
-      "spur",
-      "buck",
-      "hawk"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "king",
-      "rocket",
-      "celtic",
-      "bull"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "bengal",
-      "ram",
-      "viking",
-      "cardinal"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "hawk",
-      "rocket",
-      "bull",
-      "warrior"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "bengal",
-      "jaguar",
-      "lion",
-      "saint"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "warrior",
-      "celtic",
-      "bull",
-      "king"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "bear",
-      "titan",
-      "panther",
-      "eagle"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "ram",
-      "brown",
-      "titan",
-      "colt"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "panther",
-      "patriot",
-      "dolphin",
-      "commander"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "cowboy",
-      "ram",
-      "lion",
-      "saint"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "guardian",
-      "royal",
-      "giant",
-      "brave"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "national",
-      "guardian",
-      "athletic",
-      "tiger"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "giant",
-      "ray",
-      "tiger",
+      "brave",
       "yankee"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
   },
   {
+    "category_name": "NBA players",
+    "words": [
+      "celtic",
+      "hawk",
+      "buck",
+      "wizard"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
     "category_name": "NFL players",
     "words": [
+      "panther",
+      "jet",
       "raven",
-      "eagle",
-      "giant",
       "patriot"
     ],
     "category_type": "sports_players",
@@ -2521,109 +497,10 @@
   {
     "category_name": "MLB players",
     "words": [
-      "jay",
-      "giant",
-      "angel",
-      "national"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "hawk",
-      "sun",
-      "bull",
-      "spur"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "hawk",
-      "spur",
-      "bull",
-      "rocket"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "royal",
-      "brave",
+      "tiger",
+      "athletic",
       "pirate",
-      "twin"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "bengal",
-      "saint",
-      "brown",
-      "cardinal"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "patriot",
-      "bill",
-      "falcon",
-      "giant"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "warrior",
-      "bull",
-      "hawk",
-      "celtic"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "bengal",
-      "panther",
-      "dolphin",
-      "saint"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "dolphin",
-      "eagle",
-      "colt",
-      "jet"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "celtic",
-      "rocket",
-      "net",
-      "hawk"
+      "ranger"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -2631,10 +508,10 @@
   {
     "category_name": "MLB players",
     "words": [
-      "brave",
-      "brewer",
-      "ray",
-      "met"
+      "guardian",
+      "royal",
+      "twin",
+      "ranger"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -2643,8 +520,8 @@
     "category_name": "NBA players",
     "words": [
       "bull",
-      "spur",
-      "hawk",
+      "king",
+      "buck",
       "net"
     ],
     "category_type": "sports_players",
@@ -2654,9 +531,9 @@
     "category_name": "NBA players",
     "words": [
       "hawk",
-      "buck",
-      "celtic",
-      "bull"
+      "bull",
+      "rocket",
+      "celtic"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -2665,20 +542,31 @@
     "category_name": "NBA players",
     "words": [
       "celtic",
+      "rocket",
       "hawk",
-      "wizard",
       "sun"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
   },
   {
-    "category_name": "NBA players",
+    "category_name": "MLB players",
     "words": [
-      "net",
-      "wizard",
-      "king",
-      "celtic"
+      "met",
+      "ray",
+      "athletic",
+      "cardinal"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "cardinal",
+      "brave",
+      "yankee",
+      "guardian"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -2688,304 +576,18 @@
     "words": [
       "giant",
       "commander",
-      "chief",
-      "eagle"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "net",
-      "king",
-      "spur",
-      "celtic"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
       "bill",
-      "brown",
-      "patriot",
-      "lion"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "giant",
-      "red",
-      "guardian",
-      "cardinal"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "spur",
-      "king",
-      "celtic",
-      "net"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "giant",
-      "yankee",
-      "jay",
-      "met"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "jaguar",
-      "cardinal",
-      "ram",
-      "giant"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "rocket",
-      "warrior",
-      "hawk",
-      "bull"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "king",
-      "warrior",
-      "sun",
-      "bull"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "king",
-      "sun",
-      "hawk",
-      "spur"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "bull",
-      "sun",
-      "king",
-      "warrior"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "warrior",
-      "hawk",
-      "celtic",
-      "net"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "net",
-      "wizard",
-      "rocket",
-      "sun"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "chief",
-      "giant",
-      "jet",
-      "falcon"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "falcon",
-      "colt",
-      "viking",
-      "raven"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "saint",
-      "cowboy",
-      "bengal",
-      "ram"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "twin",
-      "angel",
-      "jay",
-      "brewer"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "raven",
-      "bear",
-      "bill",
-      "charger"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "ram",
-      "bengal",
-      "viking",
       "panther"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
   },
   {
-    "category_name": "MLB players",
-    "words": [
-      "brave",
-      "pirate",
-      "cardinal",
-      "athletic"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
     "category_name": "NFL players",
     "words": [
-      "patriot",
-      "falcon",
-      "saint",
-      "giant"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "red",
-      "tiger",
-      "pirate",
-      "twin"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "raven",
       "ram",
       "jet",
-      "charger"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "wizard",
-      "buck",
-      "king",
-      "spur"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "twin",
-      "national",
-      "yankee",
-      "ray"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "eagle",
-      "patriot",
-      "saint",
-      "colt"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "yankee",
-      "royal",
-      "ranger",
-      "brewer"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "bear",
-      "eagle",
-      "raven",
+      "bengal",
       "brown"
     ],
     "category_type": "sports_players",
@@ -2994,9 +596,9 @@
   {
     "category_name": "NBA players",
     "words": [
-      "wizard",
-      "hawk",
-      "celtic",
+      "bull",
+      "sun",
+      "king",
       "net"
     ],
     "category_type": "sports_players",
@@ -3005,21 +607,10 @@
   {
     "category_name": "NBA players",
     "words": [
-      "bull",
       "warrior",
+      "hawk",
       "buck",
-      "net"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "chief",
-      "ram",
-      "brown",
-      "falcon"
+      "bull"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -3028,31 +619,42 @@
     "category_name": "MLB players",
     "words": [
       "ray",
-      "royal",
+      "twin",
+      "brewer",
+      "yankee"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "ranger",
       "guardian",
-      "brewer"
+      "jay",
+      "brave"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
   },
   {
-    "category_name": "NFL players",
+    "category_name": "MLB players",
     "words": [
-      "cowboy",
-      "raven",
-      "patriot",
-      "cardinal"
+      "pirate",
+      "cardinal",
+      "brewer",
+      "national"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
   },
   {
-    "category_name": "NFL players",
+    "category_name": "MLB players",
     "words": [
-      "titan",
-      "bill",
-      "viking",
-      "colt"
+      "royal",
+      "met",
+      "red",
+      "athletic"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -3060,10 +662,10 @@
   {
     "category_name": "NBA players",
     "words": [
-      "celtic",
+      "sun",
       "king",
-      "buck",
-      "rocket"
+      "warrior",
+      "celtic"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -3073,8 +675,41 @@
     "words": [
       "eagle",
       "commander",
-      "brown",
-      "colt"
+      "cardinal",
+      "titan"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "buck",
+      "sun",
+      "hawk",
+      "king"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "titan",
+      "eagle",
+      "viking",
+      "falcon"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "lion",
+      "titan",
+      "commander",
+      "chief"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -3083,9 +718,20 @@
     "category_name": "MLB players",
     "words": [
       "tiger",
-      "angel",
-      "brave",
-      "athletic"
+      "met",
+      "athletic",
+      "brave"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "cardinal",
+      "ram",
+      "jet",
+      "colt"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -3093,9 +739,9 @@
   {
     "category_name": "MLB players",
     "words": [
-      "jay",
-      "ray",
-      "national",
+      "met",
+      "yankee",
+      "tiger",
       "cardinal"
     ],
     "category_type": "sports_players",
@@ -3104,10 +750,21 @@
   {
     "category_name": "MLB players",
     "words": [
-      "angel",
-      "yankee",
-      "royal",
-      "guardian"
+      "twin",
+      "brave",
+      "giant",
+      "national"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "bill",
+      "giant",
+      "saint",
+      "bear"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -3115,10 +772,32 @@
   {
     "category_name": "NBA players",
     "words": [
-      "celtic",
       "rocket",
-      "hawk",
-      "king"
+      "sun",
+      "celtic",
+      "spur"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "jaguar",
+      "brown",
+      "titan",
+      "dolphin"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "panther",
+      "bengal",
+      "charger",
+      "cardinal"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -3126,21 +805,43 @@
   {
     "category_name": "MLB players",
     "words": [
-      "angel",
-      "national",
-      "cardinal",
-      "jay"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "yankee",
-      "twin",
+      "ranger",
+      "jay",
       "royal",
-      "met"
+      "national"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "buck",
+      "warrior",
+      "celtic",
+      "wizard"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "saint",
+      "dolphin",
+      "bengal",
+      "commander"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "wizard",
+      "buck",
+      "spur",
+      "bull"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -3149,9 +850,42 @@
     "category_name": "MLB players",
     "words": [
       "ray",
-      "cardinal",
+      "angel",
+      "giant",
+      "cardinal"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "tiger",
       "yankee",
-      "brewer"
+      "brave",
+      "national"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "athletic",
+      "yankee",
+      "angel",
+      "tiger"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "wizard",
+      "hawk",
+      "celtic",
+      "spur"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -3159,9 +893,119 @@
   {
     "category_name": "NFL players",
     "words": [
-      "colt",
       "ram",
-      "jet",
+      "brown",
+      "viking",
+      "panther"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "celtic",
+      "king",
+      "sun",
+      "wizard"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "jay",
+      "giant",
+      "brave",
+      "guardian"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "ranger",
+      "royal",
+      "athletic",
+      "national"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "raven",
+      "jaguar",
+      "falcon",
+      "colt"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "hawk",
+      "wizard",
+      "celtic",
+      "rocket"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "king",
+      "sun",
+      "net",
+      "celtic"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "spur",
+      "celtic",
+      "wizard",
+      "sun"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "patriot",
+      "raven",
+      "brown",
+      "dolphin"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "falcon",
+      "commander",
+      "panther",
+      "eagle"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "raven",
+      "commander",
+      "charger",
       "bengal"
     ],
     "category_type": "sports_players",
@@ -3170,10 +1014,21 @@
   {
     "category_name": "NFL players",
     "words": [
-      "panther",
+      "dolphin",
+      "saint",
+      "viking",
+      "raven"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
       "cardinal",
-      "lion",
-      "jet"
+      "twin",
+      "brave",
+      "red"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -3181,9 +1036,97 @@
   {
     "category_name": "NFL players",
     "words": [
-      "lion",
-      "colt",
-      "bill",
+      "cardinal",
+      "jaguar",
+      "raven",
+      "cowboy"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "raven",
+      "viking",
+      "patriot",
+      "jet"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "ranger",
+      "tiger",
+      "jay",
+      "yankee"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "chief",
+      "raven",
+      "jet",
+      "bill"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "hawk",
+      "warrior",
+      "buck",
+      "rocket"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "giant",
+      "brown",
+      "dolphin",
+      "chief"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "titan",
+      "falcon",
+      "chief",
+      "colt"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "royal",
+      "cardinal",
+      "angel",
+      "national"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "national",
+      "tiger",
+      "cardinal",
       "giant"
     ],
     "category_type": "sports_players",
@@ -3192,10 +1135,10 @@
   {
     "category_name": "NFL players",
     "words": [
-      "lion",
-      "jet",
-      "panther",
-      "charger"
+      "eagle",
+      "chief",
+      "saint",
+      "lion"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -3203,10 +1146,21 @@
   {
     "category_name": "MLB players",
     "words": [
-      "pirate",
-      "jay",
+      "athletic",
+      "guardian",
       "ranger",
-      "ray"
+      "jay"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "cardinal",
+      "brewer",
+      "ray",
+      "jay"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -3214,43 +1168,21 @@
   {
     "category_name": "NBA players",
     "words": [
-      "celtic",
-      "wizard",
+      "bull",
+      "king",
       "spur",
-      "hawk"
+      "net"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
   },
   {
-    "category_name": "NBA players",
+    "category_name": "MLB players",
     "words": [
-      "wizard",
-      "rocket",
-      "net",
-      "celtic"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "warrior",
-      "celtic",
-      "wizard",
-      "sun"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "hawk",
-      "net",
-      "sun",
-      "warrior"
+      "brave",
+      "jay",
+      "national",
+      "royal"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -3258,21 +1190,32 @@
   {
     "category_name": "NFL players",
     "words": [
-      "eagle",
       "charger",
-      "jet",
-      "raven"
+      "eagle",
+      "lion",
+      "jet"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
   },
   {
-    "category_name": "NBA players",
+    "category_name": "MLB players",
     "words": [
-      "buck",
-      "warrior",
-      "hawk",
-      "king"
+      "ray",
+      "jay",
+      "brewer",
+      "cardinal"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "ray",
+      "tiger",
+      "red",
+      "jay"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -3280,8 +1223,8 @@
   {
     "category_name": "NFL players",
     "words": [
+      "cardinal",
       "jaguar",
-      "bengal",
       "viking",
       "titan"
     ],
@@ -3291,21 +1234,10 @@
   {
     "category_name": "MLB players",
     "words": [
-      "met",
-      "brewer",
-      "tiger",
-      "red"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
+      "cardinal",
       "jay",
-      "brave",
-      "guardian",
-      "national"
+      "giant",
+      "ranger"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -3313,10 +1245,10 @@
   {
     "category_name": "MLB players",
     "words": [
-      "athletic",
-      "red",
-      "brewer",
-      "met"
+      "met",
+      "yankee",
+      "angel",
+      "twin"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -3325,9 +1257,20 @@
     "category_name": "NBA players",
     "words": [
       "warrior",
+      "rocket",
       "celtic",
-      "sun",
-      "net"
+      "spur"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "tiger",
+      "red",
+      "ray",
+      "jay"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -3335,32 +1278,10 @@
   {
     "category_name": "NFL players",
     "words": [
-      "titan",
-      "lion",
+      "brown",
       "cardinal",
-      "cowboy"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "falcon",
-      "jaguar",
-      "titan",
-      "charger"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "dolphin",
-      "eagle",
-      "viking",
-      "lion"
+      "raven",
+      "saint"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -3369,8 +1290,1383 @@
     "category_name": "NFL players",
     "words": [
       "colt",
+      "viking",
+      "panther",
+      "lion"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "patriot",
+      "bear",
+      "jaguar",
+      "brown"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "bull",
+      "king",
+      "spur",
+      "celtic"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "ranger",
+      "yankee",
+      "giant",
+      "met"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "giant",
+      "patriot",
+      "cardinal",
+      "saint"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
       "ram",
+      "bengal",
+      "falcon",
+      "bill"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "cardinal",
+      "met",
+      "yankee",
+      "giant"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "bear",
+      "titan",
+      "bengal",
+      "patriot"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "bengal",
+      "raven",
       "bill",
+      "panther"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "twin",
+      "brave",
+      "cardinal",
+      "jay"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "hawk",
+      "celtic",
+      "bull",
+      "warrior"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "angel",
+      "brewer",
+      "national",
+      "ray"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "raven",
+      "dolphin",
+      "bear",
+      "eagle"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "bull",
+      "buck",
+      "sun",
+      "hawk"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "sun",
+      "celtic",
+      "wizard",
+      "hawk"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "ray",
+      "royal",
+      "athletic",
+      "guardian"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "pirate",
+      "met",
+      "yankee",
+      "cardinal"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "tiger",
+      "giant",
+      "cardinal",
+      "jay"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "spur",
+      "hawk",
+      "buck",
+      "warrior"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "yankee",
+      "royal",
+      "athletic",
+      "red"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "tiger",
+      "jay",
+      "yankee",
+      "angel"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "buck",
+      "wizard",
+      "celtic",
+      "sun"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "national",
+      "royal",
+      "athletic",
+      "pirate"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "brave",
+      "twin",
+      "jay",
+      "cardinal"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "brewer",
+      "angel",
+      "red",
+      "ray"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "giant",
+      "brown",
+      "eagle",
+      "jet"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "jaguar",
+      "charger",
+      "colt",
+      "cardinal"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "net",
+      "spur",
+      "rocket",
+      "king"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "pirate",
+      "tiger",
+      "angel",
+      "yankee"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "brown",
+      "bill",
+      "colt",
+      "commander"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "bull",
+      "spur",
+      "hawk",
+      "buck"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "angel",
+      "national",
+      "pirate",
+      "yankee"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "hawk",
+      "celtic",
+      "spur",
+      "wizard"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "net",
+      "spur",
+      "bull",
+      "king"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "raven",
+      "eagle",
+      "viking",
+      "bill"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "brave",
+      "royal",
+      "angel",
+      "met"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "twin",
+      "yankee",
+      "brewer",
+      "giant"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "giant",
+      "viking",
+      "colt",
+      "chief"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "brave",
+      "athletic",
+      "met",
+      "twin"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "athletic",
+      "ray",
+      "jay",
+      "brewer"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "hawk",
+      "king",
+      "warrior",
+      "celtic"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "commander",
+      "lion",
+      "viking",
+      "ram"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "ray",
+      "cardinal",
+      "twin",
+      "guardian"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "lion",
+      "falcon",
+      "patriot",
+      "panther"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "wizard",
+      "net",
+      "king",
+      "celtic"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "rocket",
+      "buck",
+      "net",
+      "spur"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "guardian",
+      "met",
+      "national",
+      "brave"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "angel",
+      "yankee",
+      "met",
+      "twin"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "king",
+      "sun",
+      "rocket",
+      "warrior"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "charger",
+      "jaguar",
+      "colt",
+      "titan"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "net",
+      "warrior",
+      "celtic",
+      "wizard"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "bear",
+      "jaguar",
+      "jet",
+      "cowboy"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "celtic",
+      "sun",
+      "rocket",
+      "hawk"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "angel",
+      "red",
+      "ranger",
+      "athletic"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "brewer",
+      "met",
+      "national",
+      "angel"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "celtic",
+      "warrior",
+      "buck",
+      "hawk"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "net",
+      "rocket",
+      "king",
+      "hawk"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "celtic",
+      "king",
+      "spur",
+      "warrior"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "king",
+      "wizard",
+      "spur",
+      "sun"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "pirate",
+      "tiger",
+      "athletic",
+      "ray"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "jaguar",
+      "bengal",
+      "bill",
+      "saint"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "wizard",
+      "buck",
+      "king",
+      "celtic"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "rocket",
+      "bull",
+      "sun",
+      "celtic"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "celtic",
+      "spur",
+      "wizard",
+      "bull"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "colt",
+      "raven",
+      "jet",
+      "chief"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "national",
+      "angel",
+      "ray",
+      "royal"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "giant",
+      "panther",
+      "chief",
+      "raven"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "celtic",
+      "wizard",
+      "buck",
+      "king"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "pirate",
+      "athletic",
+      "tiger",
+      "jay"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "guardian",
+      "brewer",
+      "brave",
+      "angel"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "sun",
+      "king",
+      "hawk",
+      "rocket"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "celtic",
+      "bull",
+      "warrior",
+      "buck"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "twin",
+      "met",
+      "ranger",
+      "guardian"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "ram",
+      "bengal",
+      "cowboy",
+      "jaguar"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "net",
+      "celtic",
+      "warrior",
+      "buck"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "brave",
+      "guardian",
+      "met",
+      "pirate"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "athletic",
+      "brewer",
+      "brave",
+      "twin"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "lion",
+      "dolphin",
+      "falcon",
+      "panther"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "pirate",
+      "royal",
+      "athletic",
+      "yankee"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "jay",
+      "ray",
+      "twin",
+      "giant"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "viking",
+      "brown",
+      "patriot",
+      "eagle"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "bengal",
+      "viking",
+      "ram",
+      "brown"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "bull",
+      "sun",
+      "net",
+      "rocket"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "giant",
+      "commander",
+      "jaguar",
+      "patriot"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "national",
+      "athletic",
+      "yankee",
+      "guardian"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "royal",
+      "red",
+      "ranger",
+      "guardian"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "guardian",
+      "cardinal",
+      "brewer",
+      "royal"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "wizard",
+      "warrior",
+      "buck",
+      "net"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "viking",
+      "brown",
+      "bengal",
+      "ram"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "brown",
+      "colt",
+      "saint",
+      "viking"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "bull",
+      "wizard",
+      "king",
+      "spur"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "met",
+      "twin",
+      "angel",
+      "ray"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "sun",
+      "buck",
+      "wizard",
+      "net"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "warrior",
+      "sun",
+      "king",
+      "hawk"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "sun",
+      "warrior",
+      "net",
+      "wizard"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "giant",
+      "athletic",
+      "national",
+      "brave"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "net",
+      "sun",
+      "buck",
+      "wizard"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "athletic",
+      "national",
+      "yankee",
+      "red"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "ranger",
+      "guardian",
+      "national",
+      "twin"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "celtic",
+      "rocket",
+      "net",
+      "spur"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "celtic",
+      "bull",
+      "buck",
+      "warrior"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "panther",
+      "cowboy",
+      "saint",
+      "raven"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "cardinal",
+      "red",
+      "guardian",
+      "met"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "ray",
+      "cardinal",
+      "angel",
+      "royal"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "buck",
+      "king",
+      "rocket",
+      "celtic"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "wizard",
+      "king",
+      "hawk",
+      "net"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "hawk",
+      "buck",
+      "warrior",
+      "bull"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "hawk",
+      "warrior",
+      "wizard",
+      "rocket"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "cardinal",
+      "bill",
+      "brown",
+      "lion"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "bull",
+      "celtic",
+      "sun",
+      "wizard"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "rocket",
+      "buck",
+      "celtic",
+      "wizard"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "warrior",
+      "wizard",
+      "hawk",
+      "king"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "charger",
+      "colt",
+      "jaguar",
+      "raven"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "giant",
+      "bengal",
+      "colt",
+      "chief"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "rocket",
+      "warrior",
+      "spur",
+      "buck"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "ram",
+      "cardinal",
+      "patriot",
+      "bengal"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "buck",
+      "king",
+      "wizard",
+      "spur"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "red",
+      "met",
+      "angel",
+      "royal"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "commander",
+      "chief",
+      "giant",
+      "panther"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "bull",
+      "buck",
+      "sun",
+      "warrior"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "rocket",
+      "wizard",
+      "king",
+      "spur"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "tiger",
+      "athletic",
+      "royal",
+      "ranger"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "king",
+      "warrior",
+      "bull",
+      "buck"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "celtic",
+      "hawk",
+      "warrior",
+      "net"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "cardinal",
+      "giant",
+      "lion",
+      "panther"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "raven",
+      "lion",
+      "titan",
       "dolphin"
     ],
     "category_type": "sports_players",
@@ -3380,1065 +2676,31 @@
     "category_name": "NFL players",
     "words": [
       "bear",
-      "cardinal",
-      "ram",
-      "saint"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
       "viking",
-      "chief",
-      "charger",
-      "panther"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "jaguar",
-      "charger",
-      "patriot",
-      "bear"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "panther",
       "colt",
-      "jet",
-      "giant"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "giant",
-      "ranger",
-      "ray",
-      "twin"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "colt",
-      "raven",
-      "brown",
-      "chief"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "jay",
-      "yankee",
-      "met",
-      "guardian"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "cowboy",
-      "panther",
-      "bill",
-      "titan"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "cardinal",
-      "guardian",
-      "jay",
-      "national"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "cardinal",
-      "ray",
-      "pirate",
-      "national"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "chief",
-      "ram",
-      "saint",
-      "commander"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "giant",
-      "viking",
-      "panther",
-      "colt"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "hawk",
-      "net",
-      "rocket",
-      "celtic"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "met",
-      "ray",
-      "guardian",
-      "twin"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "pirate",
-      "met",
-      "athletic",
-      "cardinal"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "sun",
-      "spur",
-      "king",
-      "bull"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "ray",
-      "angel",
-      "jay",
-      "cardinal"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "national",
-      "cardinal",
-      "tiger",
-      "guardian"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "bengal",
-      "raven",
-      "cowboy",
-      "eagle"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "pirate",
-      "twin",
-      "angel",
-      "yankee"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "ray",
-      "twin",
-      "tiger",
-      "brave"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "hawk",
-      "buck",
-      "wizard",
-      "net"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "net",
-      "buck",
-      "warrior",
-      "king"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "king",
-      "rocket",
-      "sun",
-      "wizard"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "twin",
-      "yankee",
-      "ray",
-      "guardian"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "sun",
-      "warrior",
-      "wizard",
-      "celtic"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "athletic",
-      "ranger",
-      "yankee",
-      "twin"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "hawk",
-      "bull",
-      "net",
-      "sun"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "angel",
-      "yankee",
-      "royal",
-      "met"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "bill",
-      "saint",
-      "giant",
-      "brown"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "tiger",
-      "angel",
-      "royal",
-      "jay"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "hawk",
-      "celtic",
-      "sun",
-      "bull"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "giant",
-      "brewer",
-      "national",
-      "ray"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "hawk",
-      "wizard",
-      "rocket",
-      "bull"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "rocket",
-      "spur",
-      "net",
-      "buck"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "pirate",
-      "angel",
-      "ranger",
-      "brave"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "patriot",
-      "dolphin",
-      "saint",
-      "bill"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "buck",
-      "king",
-      "sun",
-      "hawk"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "king",
-      "sun",
-      "bull",
-      "net"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "warrior",
-      "buck",
-      "wizard",
-      "bull"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "pirate",
-      "brewer",
-      "cardinal",
-      "twin"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "colt",
-      "giant",
-      "bill",
-      "bengal"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "rocket",
-      "king",
-      "warrior",
-      "celtic"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "buck",
-      "rocket",
-      "bull",
-      "king"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "raven",
-      "colt",
-      "giant",
-      "commander"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "king",
-      "net",
-      "sun",
-      "warrior"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "dolphin",
-      "falcon",
-      "brown",
       "charger"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
   },
   {
-    "category_name": "NBA players",
-    "words": [
-      "bull",
-      "king",
-      "net",
-      "celtic"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "panther",
-      "chief",
-      "lion",
-      "raven"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
     "category_name": "MLB players",
     "words": [
-      "giant",
-      "royal",
-      "tiger",
-      "national"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "giant",
-      "brewer",
-      "twin",
-      "royal"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "saint",
-      "dolphin",
-      "jet",
-      "bill"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "chief",
-      "giant",
-      "viking",
-      "patriot"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "spur",
-      "warrior",
-      "net",
-      "buck"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "red",
-      "met",
-      "national",
-      "angel"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "king",
-      "rocket",
-      "bull",
-      "celtic"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "dolphin",
-      "bengal",
-      "bill",
-      "chief"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "brown",
-      "dolphin",
-      "commander",
-      "raven"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "charger",
-      "saint",
-      "lion",
-      "falcon"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "charger",
-      "cardinal",
-      "chief",
-      "bengal"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "eagle",
-      "charger",
-      "commander",
-      "bengal"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "yankee",
-      "twin",
-      "met",
-      "red"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "brewer",
-      "national",
-      "guardian",
-      "ranger"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "celtic",
-      "buck",
-      "hawk",
-      "wizard"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "bull",
-      "celtic",
-      "spur",
-      "hawk"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "sun",
-      "warrior",
-      "spur",
-      "celtic"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "ram",
-      "eagle",
-      "raven",
-      "titan"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "jet",
-      "raven",
-      "titan",
-      "giant"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "cardinal",
-      "jay",
       "athletic",
-      "tiger"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "twin",
-      "ranger",
       "brave",
-      "brewer"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "spur",
-      "buck",
-      "wizard",
-      "warrior"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "rocket",
-      "warrior",
-      "sun",
-      "net"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "celtic",
-      "spur",
-      "sun",
-      "wizard"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "jay",
-      "tiger",
-      "brave",
-      "yankee"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "buck",
-      "net",
-      "rocket",
-      "warrior"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "bill",
-      "falcon",
-      "giant",
-      "bear"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "jay",
-      "met",
-      "brewer",
-      "angel"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "warrior",
-      "sun",
-      "spur",
-      "wizard"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "king",
-      "warrior",
-      "spur",
-      "bull"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "ram",
-      "charger",
-      "patriot",
-      "raven"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "ray",
-      "yankee",
-      "royal",
-      "athletic"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "pirate",
-      "brewer",
-      "ray",
-      "national"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "buck",
-      "net",
-      "hawk",
-      "king"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "celtic",
-      "sun",
-      "spur",
-      "warrior"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "raven",
-      "bill",
-      "colt",
-      "viking"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "giant",
-      "raven",
-      "eagle",
-      "lion"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "falcon",
-      "chief",
-      "eagle",
-      "colt"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "celtic",
-      "net",
-      "wizard",
-      "king"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "bull",
-      "king",
-      "celtic",
-      "rocket"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "brave",
-      "pirate",
-      "tiger",
+      "guardian",
       "twin"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
   },
   {
-    "category_name": "NFL players",
+    "category_name": "MLB players",
     "words": [
-      "titan",
-      "charger",
-      "bengal",
-      "chief"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "viking",
-      "charger",
-      "bear",
-      "lion"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "bill",
-      "patriot",
-      "commander",
-      "bengal"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "warrior",
-      "buck",
-      "bull",
-      "celtic"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "ram",
-      "jet",
-      "bengal",
-      "bill"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "dolphin",
-      "lion",
-      "bear",
-      "eagle"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "king",
-      "warrior",
-      "bull",
-      "net"
+      "ranger",
+      "brave",
+      "tiger",
+      "ray"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -4446,252 +2708,21 @@
   {
     "category_name": "MLB players",
     "words": [
-      "red",
       "yankee",
-      "tiger",
-      "cardinal"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "net",
-      "hawk",
-      "wizard",
-      "bull"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "titan",
-      "falcon",
-      "lion",
-      "panther"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "twin",
-      "pirate",
-      "ray",
-      "ranger"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "met",
-      "tiger",
-      "ray",
+      "jay",
+      "angel",
       "guardian"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
   },
   {
-    "category_name": "NBA players",
-    "words": [
-      "wizard",
-      "spur",
-      "warrior",
-      "hawk"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "spur",
-      "hawk",
-      "rocket",
-      "wizard"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
     "category_name": "MLB players",
     "words": [
-      "tiger",
-      "yankee",
-      "cardinal",
-      "red"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "giant",
-      "angel",
-      "yankee",
-      "athletic"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "giant",
-      "jet",
-      "titan",
-      "chief"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "giant",
-      "royal",
-      "ray",
-      "angel"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "brewer",
       "red",
-      "met",
-      "angel"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "eagle",
-      "ram",
-      "falcon",
-      "cowboy"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "chief",
-      "bill",
-      "dolphin",
-      "viking"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "raven",
-      "ram",
-      "falcon",
-      "cowboy"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "guardian",
-      "ranger",
-      "national",
-      "tiger"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "buck",
-      "sun",
-      "king",
-      "wizard"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "jaguar",
-      "ram",
-      "jet",
-      "brown"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "bull",
-      "king",
-      "wizard",
-      "warrior"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "panther",
-      "bill",
-      "bengal",
-      "titan"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "titan",
-      "bear",
-      "lion",
-      "patriot"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "athletic",
-      "met",
-      "angel",
-      "brave"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "bull",
-      "wizard",
-      "net",
-      "king"
+      "cardinal",
+      "yankee",
+      "national"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -4701,270 +2732,6 @@
     "words": [
       "sun",
       "rocket",
-      "buck",
-      "warrior"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "eagle",
-      "bengal",
-      "cardinal",
-      "panther"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "tiger",
-      "ray",
-      "national",
-      "athletic"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "hawk",
-      "buck",
-      "warrior",
-      "rocket"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "jaguar",
-      "cowboy",
-      "colt",
-      "jet"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "celtic",
-      "bull",
-      "warrior",
-      "king"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "brown",
-      "patriot",
-      "titan",
-      "bengal"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "titan",
-      "lion",
-      "colt",
-      "patriot"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "bengal",
-      "cowboy",
-      "raven",
-      "cardinal"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "commander",
-      "titan",
-      "saint",
-      "panther"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "titan",
-      "cowboy",
-      "dolphin",
-      "ram"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "bill",
-      "commander",
-      "raven",
-      "saint"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "giant",
-      "lion",
-      "eagle",
-      "colt"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "angel",
-      "tiger",
-      "athletic",
-      "royal"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "cardinal",
-      "angel",
-      "brave",
-      "yankee"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "jet",
-      "bill",
-      "giant",
-      "falcon"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "royal",
-      "pirate",
-      "red",
-      "brewer"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "king",
-      "bull",
-      "buck",
-      "wizard"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "brewer",
-      "ray",
-      "yankee",
-      "cardinal"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "wizard",
-      "celtic",
-      "net",
-      "hawk"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "cardinal",
-      "patriot",
-      "saint",
-      "chief"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "bull",
-      "spur",
-      "king",
-      "sun"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "giant",
-      "yankee",
-      "red",
-      "angel"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "buck",
-      "warrior",
-      "net",
-      "bull"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "bull",
-      "wizard",
       "net",
       "spur"
     ],
@@ -4974,10 +2741,10 @@
   {
     "category_name": "MLB players",
     "words": [
-      "cardinal",
-      "red",
-      "pirate",
-      "yankee"
+      "national",
+      "jay",
+      "brave",
+      "tiger"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -4985,32 +2752,10 @@
   {
     "category_name": "NBA players",
     "words": [
-      "hawk",
-      "king",
+      "warrior",
       "celtic",
-      "bull"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "buck",
-      "bull",
-      "warrior",
-      "hawk"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "net",
-      "hawk",
-      "warrior",
-      "bull"
+      "sun",
+      "buck"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -5018,10 +2763,21 @@
   {
     "category_name": "NFL players",
     "words": [
-      "ram",
-      "colt",
-      "jet",
-      "commander"
+      "cardinal",
+      "bengal",
+      "brown",
+      "colt"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "raven",
+      "commander",
+      "bear",
+      "falcon"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -5029,21 +2785,32 @@
   {
     "category_name": "NBA players",
     "words": [
-      "warrior",
-      "spur",
-      "king",
-      "buck"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "king",
-      "bull",
       "hawk",
-      "celtic"
+      "sun",
+      "warrior",
+      "net"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "panther",
+      "jet",
+      "chief",
+      "jaguar"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "bengal",
+      "raven",
+      "patriot",
+      "commander"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -5051,9 +2818,64 @@
   {
     "category_name": "MLB players",
     "words": [
-      "national",
-      "brewer",
-      "cardinal",
+      "pirate",
+      "brave",
+      "royal",
+      "jay"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "met",
+      "jay",
+      "ranger",
+      "ray"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "patriot",
+      "bear",
+      "panther",
+      "bill"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "ray",
+      "tiger",
+      "pirate",
+      "brave"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "bull",
+      "sun",
+      "buck",
+      "hawk"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "twin",
+      "giant",
+      "jay",
       "royal"
     ],
     "category_type": "sports_players",
@@ -5063,9 +2885,9 @@
     "category_name": "NBA players",
     "words": [
       "bull",
-      "rocket",
       "warrior",
-      "celtic"
+      "net",
+      "sun"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -5073,21 +2895,10 @@
   {
     "category_name": "NBA players",
     "words": [
-      "rocket",
-      "spur",
-      "celtic",
-      "buck"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "bull",
-      "buck",
+      "hawk",
       "sun",
-      "celtic"
+      "spur",
+      "warrior"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -5095,43 +2906,10 @@
   {
     "category_name": "NFL players",
     "words": [
-      "dolphin",
-      "saint",
-      "bill",
-      "falcon"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "jay",
-      "angel",
-      "royal",
-      "pirate"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "brewer",
-      "ranger",
       "cardinal",
-      "national"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "commander",
-      "bill",
-      "titan",
-      "charger"
+      "bengal",
+      "cowboy",
+      "ram"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -5139,10 +2917,10 @@
   {
     "category_name": "MLB players",
     "words": [
-      "brewer",
       "giant",
-      "guardian",
-      "yankee"
+      "brave",
+      "athletic",
+      "twin"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -5150,10 +2928,21 @@
   {
     "category_name": "MLB players",
     "words": [
-      "guardian",
-      "brewer",
+      "giant",
       "twin",
-      "red"
+      "royal",
+      "cardinal"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "ranger",
+      "brave",
+      "national",
+      "royal"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -5161,21 +2950,21 @@
   {
     "category_name": "NBA players",
     "words": [
-      "warrior",
-      "wizard",
-      "sun",
-      "hawk"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "spur",
+      "celtic",
       "buck",
       "wizard",
-      "bull"
+      "spur"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "cardinal",
+      "brave",
+      "pirate",
+      "brewer"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -5183,9 +2972,42 @@
   {
     "category_name": "NFL players",
     "words": [
-      "chief",
+      "saint",
+      "titan",
+      "jet",
+      "giant"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "viking",
+      "colt",
+      "cowboy",
+      "eagle"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "titan",
+      "colt",
+      "commander",
+      "eagle"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "bear",
       "dolphin",
-      "patriot",
+      "giant",
       "cowboy"
     ],
     "category_type": "sports_players",
@@ -5194,10 +3016,593 @@
   {
     "category_name": "MLB players",
     "words": [
-      "red",
+      "brewer",
+      "guardian",
+      "cardinal",
+      "angel"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "jaguar",
+      "eagle",
+      "saint",
+      "giant"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "king",
+      "sun",
+      "buck",
+      "celtic"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "dolphin",
+      "jet",
+      "commander",
+      "colt"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "rocket",
+      "hawk",
+      "king",
+      "net"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "jay",
+      "royal",
+      "ray",
+      "angel"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "spur",
+      "sun",
+      "hawk",
+      "celtic"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "yankee",
+      "twin",
+      "brave",
+      "angel"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "ray",
+      "guardian",
+      "jay",
+      "cardinal"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "hawk",
+      "warrior",
+      "buck",
+      "celtic"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "hawk",
+      "net",
+      "rocket",
+      "wizard"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "guardian",
+      "cardinal",
+      "jay",
+      "ranger"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "national",
+      "brewer",
+      "brave",
+      "guardian"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "sun",
+      "rocket",
+      "bull",
+      "celtic"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "angel",
+      "yankee",
+      "giant",
+      "pirate"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "net",
+      "buck",
+      "spur",
+      "sun"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "colt",
+      "lion",
+      "ram",
+      "chief"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "national",
+      "brave",
+      "twin",
+      "athletic"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "chief",
+      "cardinal",
+      "bengal",
+      "cowboy"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "met",
       "angel",
       "ranger",
+      "giant"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "ray",
+      "yankee",
+      "red",
+      "tiger"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "guardian",
+      "twin",
+      "met",
+      "athletic"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "spur",
+      "bull",
+      "buck",
+      "sun"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "ranger",
+      "giant",
+      "guardian",
+      "pirate"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "warrior",
+      "sun",
+      "net",
+      "hawk"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "ray",
+      "ranger",
+      "royal",
+      "brave"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "giant",
+      "raven",
+      "falcon",
+      "titan"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "bull",
+      "warrior",
+      "sun",
+      "king"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "celtic",
+      "hawk",
+      "warrior",
+      "rocket"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "angel",
+      "brewer",
+      "national",
+      "royal"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "commander",
+      "chief",
+      "brown",
+      "dolphin"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "pirate",
+      "national",
+      "athletic",
       "guardian"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "hawk",
+      "spur",
+      "king",
+      "net"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "bull",
+      "rocket",
+      "warrior",
+      "celtic"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "spur",
+      "sun",
+      "net",
+      "wizard"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "red",
+      "jay",
+      "twin",
+      "guardian"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "wizard",
+      "bull",
+      "buck",
+      "net"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "chief",
+      "viking",
+      "cowboy",
+      "jet"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "giant",
+      "ray",
+      "jay",
+      "yankee"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "spur",
+      "bull",
+      "rocket",
+      "hawk"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "jaguar",
+      "colt",
+      "bill",
+      "chief"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "titan",
+      "jaguar",
+      "commander",
+      "patriot"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "jaguar",
+      "raven",
+      "colt",
+      "saint"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "colt",
+      "panther",
+      "brown",
+      "commander"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "giant",
+      "cardinal",
+      "bear",
+      "bengal"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "spur",
+      "wizard",
+      "warrior",
+      "sun"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "ray",
+      "brave",
+      "royal",
+      "jay"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "brave",
+      "ray",
+      "national",
+      "jay"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "tiger",
+      "jay",
+      "ranger",
+      "met"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "falcon",
+      "giant",
+      "jaguar",
+      "chief"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "buck",
+      "net",
+      "king",
+      "sun"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "king",
+      "wizard",
+      "celtic",
+      "spur"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "spur",
+      "net",
+      "hawk",
+      "sun"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "sun",
+      "warrior",
+      "celtic",
+      "hawk"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -5207,7 +3612,876 @@
     "words": [
       "king",
       "hawk",
+      "spur",
+      "bull"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "charger",
+      "saint",
+      "jaguar",
+      "viking"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "royal",
+      "red",
+      "yankee",
+      "cardinal"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "patriot",
+      "charger",
+      "raven",
+      "ram"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "cardinal",
+      "red",
+      "ranger",
+      "guardian"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "viking",
+      "colt",
+      "chief",
+      "raven"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "lion",
+      "bear",
+      "panther",
+      "jet"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "viking",
+      "colt",
+      "bengal",
+      "raven"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "bear",
+      "brown",
+      "dolphin",
+      "jaguar"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "net",
+      "hawk",
       "celtic",
+      "warrior"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "bear",
+      "cowboy",
+      "cardinal",
+      "jaguar"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "bengal",
+      "colt",
+      "falcon",
+      "eagle"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "angel",
+      "brave",
+      "pirate",
+      "tiger"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "dolphin",
+      "bill",
+      "charger",
+      "titan"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "patriot",
+      "giant",
+      "ram",
+      "charger"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "falcon",
+      "jet",
+      "chief",
+      "viking"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "lion",
+      "jet",
+      "panther",
+      "raven"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "falcon",
+      "brown",
+      "titan",
+      "jaguar"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "warrior",
+      "buck",
+      "net",
+      "hawk"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "charger",
+      "giant",
+      "titan",
+      "jet"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "giant",
+      "tiger",
+      "cardinal",
+      "yankee"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "tiger",
+      "giant",
+      "guardian",
+      "ranger"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "brave",
+      "brewer",
+      "twin",
+      "jay"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "jet",
+      "jaguar",
+      "giant",
+      "raven"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "colt",
+      "bill",
+      "ram",
+      "jaguar"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "pirate",
+      "ranger",
+      "national",
+      "ray"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "viking",
+      "raven",
+      "falcon",
+      "chief"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "pirate",
+      "athletic",
+      "angel",
+      "jay"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "wizard",
+      "spur",
+      "net",
+      "celtic"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "hawk",
+      "bull",
+      "wizard",
+      "net"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "jaguar",
+      "charger",
+      "giant",
+      "patriot"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "national",
+      "yankee",
+      "pirate",
+      "giant"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "cardinal",
+      "colt",
+      "bear",
+      "titan"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "guardian",
+      "twin",
+      "athletic",
+      "pirate"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "commander",
+      "raven",
+      "bengal",
+      "colt"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "met",
+      "angel",
+      "pirate",
+      "red"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "yankee",
+      "athletic",
+      "giant",
+      "jay"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "warrior",
+      "king",
+      "sun",
+      "hawk"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "brown",
+      "jet",
+      "charger",
+      "saint"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "angel",
+      "royal",
+      "guardian",
+      "pirate"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "guardian",
+      "ray",
+      "met",
+      "giant"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "jet",
+      "chief",
+      "commander",
+      "cowboy"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "ram",
+      "eagle",
+      "viking",
+      "colt"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "buck",
+      "wizard",
+      "bull",
+      "spur"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "brave",
+      "athletic",
+      "ranger",
+      "met"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "brave",
+      "twin",
+      "red",
+      "royal"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "twin",
+      "cardinal",
+      "national",
+      "red"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "saint",
+      "charger",
+      "panther",
+      "titan"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "bengal",
+      "charger",
+      "dolphin",
+      "raven"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "eagle",
+      "commander",
+      "ram",
+      "charger"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "angel",
+      "jay",
+      "national",
+      "royal"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "tiger",
+      "national",
+      "red",
+      "guardian"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "twin",
+      "met",
+      "jay",
+      "giant"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "chief",
+      "eagle",
+      "cardinal",
+      "cowboy"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "giant",
+      "titan",
+      "colt",
+      "eagle"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "giant",
+      "national",
+      "guardian",
+      "twin"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "bull",
+      "sun",
+      "buck",
+      "rocket"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "saint",
+      "charger",
+      "dolphin",
+      "giant"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "red",
+      "athletic",
+      "brave",
+      "ranger"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "king",
+      "warrior",
+      "sun",
+      "rocket"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "net",
+      "wizard",
+      "sun",
+      "buck"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "celtic",
+      "hawk",
+      "sun",
+      "wizard"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "bull",
+      "hawk",
+      "net",
+      "wizard"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "national",
+      "ray",
+      "brewer",
+      "pirate"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "viking",
+      "bengal",
+      "titan",
+      "brown"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "buck",
+      "wizard",
+      "hawk",
+      "rocket"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "national",
+      "angel",
+      "pirate",
+      "jay"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "tiger",
+      "red",
+      "cardinal",
+      "twin"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "king",
+      "spur",
+      "buck",
+      "wizard"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "royal",
+      "jay",
+      "brave",
+      "ranger"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "celtic",
+      "bull",
+      "king",
+      "net"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "sun",
+      "rocket",
+      "buck",
+      "spur"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "brewer",
+      "brave",
+      "pirate",
+      "met"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "met",
+      "red",
+      "jay",
+      "twin"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "sun",
+      "wizard",
+      "hawk",
+      "celtic"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "bill",
+      "ram",
+      "eagle",
+      "patriot"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "giant",
+      "royal",
+      "tiger",
+      "ranger"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "lion",
+      "jet",
+      "titan",
+      "brown"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "patriot",
+      "colt",
+      "bengal",
+      "viking"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "king",
+      "sun",
+      "spur",
       "warrior"
     ],
     "category_type": "sports_players",
@@ -5216,8 +4490,327 @@
   {
     "category_name": "NBA players",
     "words": [
+      "king",
       "rocket",
+      "hawk",
+      "spur"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "sun",
+      "warrior",
+      "buck",
+      "spur"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "patriot",
+      "dolphin",
+      "commander",
+      "lion"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "yankee",
+      "brewer",
+      "brave",
+      "guardian"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "cowboy",
+      "falcon",
+      "patriot",
+      "jet"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "twin",
+      "met",
+      "ray",
+      "yankee"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "giant",
+      "dolphin",
+      "cowboy",
+      "bengal"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "national",
+      "ray",
+      "pirate",
+      "jay"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "rocket",
+      "spur",
       "net",
+      "warrior"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "hawk",
+      "rocket",
+      "celtic",
+      "buck"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "titan",
+      "raven",
+      "bill",
+      "panther"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "national",
+      "yankee",
+      "guardian",
+      "jay"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "buck",
+      "bull",
+      "celtic",
+      "rocket"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "pirate",
+      "yankee",
+      "guardian",
+      "brewer"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "jay",
+      "tiger",
+      "angel",
+      "athletic"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "jay",
+      "giant",
+      "tiger",
+      "ray"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "tiger",
+      "national",
+      "ranger",
+      "met"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "warrior",
+      "rocket",
+      "celtic",
+      "wizard"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "warrior",
+      "net",
+      "bull",
+      "wizard"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "brewer",
+      "yankee",
+      "royal",
+      "jay"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "charger",
+      "raven",
+      "bear",
+      "jet"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "guardian",
+      "giant",
+      "royal",
+      "ray"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "buck",
+      "warrior",
+      "spur",
+      "wizard"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "lion",
+      "colt",
+      "bill",
+      "jet"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "net",
+      "warrior",
+      "wizard",
+      "celtic"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "falcon",
+      "bill",
+      "cowboy",
+      "raven"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "giant",
+      "twin",
+      "angel",
+      "pirate"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "angel",
+      "ray",
+      "brave",
+      "athletic"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "hawk",
+      "king",
+      "rocket",
+      "sun"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "net",
+      "spur",
       "king",
       "bull"
     ],
@@ -5227,10 +4820,384 @@
   {
     "category_name": "NFL players",
     "words": [
-      "bill",
-      "titan",
+      "jet",
+      "viking",
+      "giant",
+      "patriot"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "commander",
+      "saint",
+      "patriot",
+      "cowboy"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "net",
+      "sun",
+      "bull",
+      "warrior"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "met",
+      "brave",
+      "athletic",
+      "red"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "net",
+      "wizard",
+      "rocket",
+      "buck"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "jet",
+      "giant",
+      "charger",
+      "bengal"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "yankee",
+      "tiger",
+      "athletic",
+      "twin"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "warrior",
+      "net",
+      "wizard",
+      "celtic"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "brave",
+      "twin",
+      "brewer",
+      "giant"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "red",
+      "giant",
+      "tiger",
+      "pirate"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "national",
+      "twin",
+      "athletic",
+      "red"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "celtic",
+      "wizard",
+      "hawk",
+      "net"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "patriot",
+      "cowboy",
+      "ram",
+      "raven"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "eagle",
+      "cardinal",
+      "commander",
+      "giant"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "rocket",
+      "spur",
+      "hawk",
+      "warrior"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "bengal",
+      "dolphin",
+      "viking",
+      "saint"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "brave",
+      "athletic",
+      "angel",
+      "guardian"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "sun",
+      "rocket",
+      "spur",
+      "hawk"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "yankee",
+      "red",
+      "athletic",
+      "guardian"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "hawk",
+      "net",
+      "king",
+      "celtic"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "chief",
+      "eagle",
+      "lion",
+      "raven"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "dolphin",
+      "commander",
+      "falcon",
+      "giant"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
       "bear",
+      "raven",
+      "dolphin",
+      "falcon"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "jaguar",
+      "titan",
+      "brown",
+      "falcon"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "sun",
+      "king",
+      "bull",
+      "spur"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "brewer",
+      "tiger",
+      "cardinal",
+      "yankee"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "celtic",
+      "sun",
+      "rocket",
+      "net"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "viking",
+      "jaguar",
+      "brown",
+      "dolphin"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "wizard",
+      "sun",
+      "spur",
+      "net"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "red",
+      "brewer",
+      "royal",
+      "ranger"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "patriot",
+      "colt",
+      "raven",
       "charger"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "twin",
+      "jay",
+      "brave",
+      "giant"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "net",
+      "wizard",
+      "hawk",
+      "spur"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "raven",
+      "jet",
+      "dolphin",
+      "brown"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "king",
+      "spur",
+      "buck",
+      "bull"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -5247,12 +5214,12 @@
     "difficulty": "purple"
   },
   {
-    "category_name": "MLB players",
+    "category_name": "NBA players",
     "words": [
-      "tiger",
-      "met",
-      "ranger",
-      "yankee"
+      "wizard",
+      "king",
+      "sun",
+      "bull"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -5260,10 +5227,21 @@
   {
     "category_name": "MLB players",
     "words": [
-      "ray",
-      "pirate",
+      "brewer",
+      "athletic",
       "yankee",
-      "royal"
+      "giant"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "met",
+      "athletic",
+      "brave",
+      "red"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -5271,9 +5249,42 @@
   {
     "category_name": "NFL players",
     "words": [
-      "titan",
-      "saint",
+      "falcon",
       "patriot",
+      "bengal",
+      "chief"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "giant",
+      "raven",
+      "colt",
+      "brown"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "celtic",
+      "rocket",
+      "spur",
+      "bull"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "charger",
+      "bill",
+      "saint",
       "panther"
     ],
     "category_type": "sports_players",
@@ -5282,87 +5293,21 @@
   {
     "category_name": "NBA players",
     "words": [
-      "bull",
-      "net",
+      "wizard",
       "hawk",
-      "buck"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "ray",
-      "cardinal",
-      "ranger",
-      "yankee"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "brave",
-      "jay",
-      "angel",
-      "twin"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "commander",
-      "viking",
-      "lion",
-      "jet"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "bull",
       "net",
-      "spur",
-      "buck"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "chief",
-      "panther",
-      "brown",
-      "jet"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NBA players",
-    "words": [
-      "rocket",
-      "spur",
-      "celtic",
       "king"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
   },
   {
-    "category_name": "NFL players",
+    "category_name": "NBA players",
     "words": [
-      "raven",
-      "bear",
-      "lion",
-      "commander"
+      "hawk",
+      "sun",
+      "buck",
+      "celtic"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -5370,32 +5315,10 @@
   {
     "category_name": "MLB players",
     "words": [
-      "ranger",
-      "jay",
-      "twin",
-      "tiger"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "brave",
-      "angel",
-      "yankee",
-      "met"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "cardinal",
-      "ray",
-      "athletic",
-      "tiger"
+      "royal",
+      "brewer",
+      "pirate",
+      "cardinal"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -5403,43 +5326,21 @@
   {
     "category_name": "NBA players",
     "words": [
+      "net",
+      "buck",
+      "hawk",
+      "rocket"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "wizard",
       "king",
-      "net",
-      "warrior",
-      "sun"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "bill",
-      "eagle",
-      "bear",
-      "viking"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "brown",
-      "chief",
-      "eagle",
-      "lion"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "bill",
-      "patriot",
-      "panther",
-      "dolphin"
+      "bull",
+      "net"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -5447,10 +5348,43 @@
   {
     "category_name": "NBA players",
     "words": [
-      "net",
+      "celtic",
+      "buck",
+      "warrior",
+      "king"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "rocket",
+      "celtic",
+      "sun",
+      "spur"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "chief",
+      "colt",
+      "jaguar",
+      "cardinal"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
       "rocket",
       "spur",
-      "warrior"
+      "warrior",
+      "wizard"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -5458,32 +5392,10 @@
   {
     "category_name": "NFL players",
     "words": [
-      "cardinal",
       "dolphin",
-      "raven",
-      "patriot"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "NFL players",
-    "words": [
-      "lion",
-      "patriot",
-      "titan",
-      "jaguar"
-    ],
-    "category_type": "sports_players",
-    "difficulty": "purple"
-  },
-  {
-    "category_name": "MLB players",
-    "words": [
-      "cardinal",
-      "brave",
-      "giant",
-      "met"
+      "commander",
+      "jaguar",
+      "bear"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"
@@ -5491,10 +5403,98 @@
   {
     "category_name": "NBA players",
     "words": [
-      "warrior",
-      "celtic",
-      "king",
+      "sun",
+      "wizard",
+      "spur",
       "bull"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "angel",
+      "jay",
+      "pirate",
+      "ranger"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NBA players",
+    "words": [
+      "rocket",
+      "wizard",
+      "hawk",
+      "celtic"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "athletic",
+      "twin",
+      "royal",
+      "ray"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "ray",
+      "giant",
+      "pirate",
+      "yankee"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "chief",
+      "falcon",
+      "eagle",
+      "ram"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "yankee",
+      "red",
+      "ray",
+      "giant"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "MLB players",
+    "words": [
+      "royal",
+      "tiger",
+      "national",
+      "met"
+    ],
+    "category_type": "sports_players",
+    "difficulty": "purple"
+  },
+  {
+    "category_name": "NFL players",
+    "words": [
+      "jaguar",
+      "patriot",
+      "bear",
+      "chief"
     ],
     "category_type": "sports_players",
     "difficulty": "purple"

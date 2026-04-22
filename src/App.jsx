@@ -1,5 +1,5 @@
 import { useState } from "react";
-import boards from "./boards.json";
+import boards from "../output/boards.json";
 
 function shuffleArray(array) {
   const copy = [...array];

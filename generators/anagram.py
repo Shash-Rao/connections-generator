@@ -13,8 +13,10 @@ from utils.anagram_utils import (
     too_trivial,
 )
 
+from .base import BaseGenerator
 
-class AnagramGenerator:
+
+class AnagramGenerator(BaseGenerator):
     def __init__(self, n_words=200000, min_zipf=3.0, debug=True):
         self.n_words = n_words
         self.min_zipf = min_zipf
